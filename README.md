@@ -1,5 +1,4 @@
-# AESLC
-Annotated Enron Subject Line Corpus (AESLC)
+# Annotated Enron Subject Line Corpus (AESLC)
 
 This repository contains data for our ACL 2019 paper "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation".
 
