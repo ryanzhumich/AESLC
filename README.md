@@ -11,6 +11,6 @@ Please cite this paper if you use our data.
   title =       "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation",
   booktitle =   "Proceedings of The 57th Annual Meeting of the Association for Computational Linguistics",
   year =        "2019",
-  address =     "Florence, Italy",
+  address =     "Florence, Italy"
 }
 ```
