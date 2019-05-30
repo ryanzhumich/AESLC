@@ -1,0 +1,19 @@
+I'm looking at the GDP-HEHUB curve shift details, and it has a current price of 0, and prior price of 4.151 for August.
+Position manager's getting this from the deal aggregator, which grabs it from ERMS.
+It appears to be using the mid price off of deals.
+So if we look at post ID 1159936, deal Q29897.2, we have GDP-HEHUB for the pub code, and 4.151 as the mid price for August.
+My question for you fine gentlemen is, where should it be pulling the prior day curve value?
+Should I just hit egs_curves, and insert the value from there?
+Mike Swaim Michael.Swaim@enron.com Disclaimer: Yeah, like I speak for Enron.
+
+@subject
+Prior Prices that are just wring
+
+@ann0
+gdp-hehub curve shift
+
+@ann1
+gdp-hehub curve shift details needed
+
+@ann2
+clarifying questions re: curve shift details

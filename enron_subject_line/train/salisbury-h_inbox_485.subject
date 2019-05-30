@@ -1,0 +1,11 @@
+Dear Zhiyun and Norman:  Due to legal reasons we are in the process of changing deals with delivery point of WestWing to either WestWing 230KV or WestWing 500KV.
+However, in PortCalc if the delivery point is changed to WestWing 230KV or WestWing 500KV the deals will be valued against WSCC-S curve, not WestWing curve.
+Due to this we have observed unfavorable prior day and curve shift; this is not what our traders expected and wanted the deals to be valued.
+An example is deal#802862.1 in which delivery point was changed from WestWing to WestWing 500KV on 10/5/01 and we suffered a $294K loss due to the deal change.
+(post id 13377 on 10/5/01 vs. post id 13337 on 10/4/01)  We would like the deals to be still looking at WestWing curve when delivery points are WestWing 230KV or WestWing 500KV.
+Please change the mapping of the valuation in PortCalc so the traders can get their deal change and "unreal" curve shift back.
+Please let me know your timeline on this and if you have any questions.
+Thanks,
+
+@subject
+curve mapping issues on deals

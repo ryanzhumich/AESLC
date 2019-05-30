@@ -1,0 +1,13 @@
+Group, We have had some problems recently with the creation of HA finals, with SQL errors, and as a result we have not been able to run reports.
+If it is a weekend (or holiday), we first need to import DA finals and then create DA finals in CAPS.
+After this is done we can import HA finals, and create the HA report.
+If the boxes are not checked, the CISO may have missed publishing certain hours.
+Please look in the load zones to find what hour-ahead finals may not have been published, or where CAPS may have just missed pulling them in.
+Sometimes it helps to pull the missing hour-ahead finals in individually.
+Once all the finals are in the load zones and int.
+interchanges, you should be able to create the final report.
+Please give me a call if you have any questions.
+Thanks,
+
+@subject
+DA and HA finals

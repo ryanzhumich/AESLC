@@ -1,0 +1,18 @@
+We have discovered a problem with physical positions in TDS.
+Changed deals potentially can double up the deals volume in TDS.
+The TDS group worked late Monday to try and resolve the issue, but failed.
+Please let your traders know that the physical positions cannot be completely relied on.
+I have also left a message on you phones to get this message to you.
+Thanks
+
+@subject
+TDS Physical Position Problems
+
+@ann0
+problem with physical positions in tds, previous attempt to fix failed
+
+@ann1
+a problem with physical positions in tds
+
+@ann2
+problem with physical positions in tds -- all traders be advised

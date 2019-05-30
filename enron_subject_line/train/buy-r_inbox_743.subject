@@ -1,0 +1,20 @@
+Rick - further to our discussion, here is the change Enron Americas are requesting in their limit structure:  Eliminate volumetric limits on net open position and maturity gap; Eliminate limits on individual commodities within the business unit; Replace with one limit, expressed in VaR, for the entire business unit, of $100MM.
+I am not uncomfortable with $100MM, given the opportunity set and the required returns from this activity.
+ETL at this level could be in the region of $340MM.
+I think the other things to consider in making the decision are as follows:  Does the VaR tell us sufficient about the risk ?
+I think it does since we have the ability to see components of it in some detail and it backtests well  Tail Risks  Generally we have the most data on tail risks for US gas and power and we are most confident about the EVaR and ETL measures for these commodities.
+Liquidity  This should be a key point in removing volumetric limits because they give us a concept of size.
+Our recent analysis has shown that our ability to unload risk in US natural gas certainly is high (50% reduction, 10 days) - but we need to continually revisit this analysis.
+Administration of Risk  Generally I think we are comfortable - deal capture is good since so many trades are picked up through EOL.
+Delegation of authority using VaR limits at desk level is strong   But since VaR is so dependent on MTM values and curves I would still recommend a review of:  curve validation results; ageing of confirmations outstanding (in and out); flash to actual differences (if any)  Compliance with Policy  The policy requires limits under the business unit by "commodity groups" in some combination of volumetric and VaR limits.
+We also must approve products/commodities for a business unit.
+One interpretation of this is to define the commodity "group" as the aggregate of gas, power, coal, crude, and approve those products, in which case the aggregate limit for the business unit is the commdity group limit also - so we can have one limit.
+Our concern about the Firm blowing up because everyone is short crude, for example, is covered by the fact that we can still see all the components of our aggregate risk to a single commodity, which is also capped by the concentration limits.
+The only question is from a governance standpoint, how you prevent yourself bumping up against those and having to explain it to the board.
+Another side of this argument is the "10K analogy" - if I put $100MM into my 10K via a mutual fund I am likely to want them to declare in which markets they invest it.
+To summarize, I think we could justify losing volumetric limits for this business.
+On the question of level of risk and commodity limits, I think we should talk it over with Greg / Ken.
+DP
+
+@subject
+Limit Revision - Enron Americas

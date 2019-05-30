@@ -1,0 +1,19 @@
+View your SAP Inbox directly in Outlook!
+Introducing the SAP Office Connector!
+The SAP Office Connector is a piece of software that seamlessly displays your SAP Office folders as Outlook folders.
+You already have the SAP Office Connector if you have the new SAPGUI 4.6D installed.
+If you are an SAP user, there are several reasons why you might receive an SAP Office message:  ?
+You are the agent for an SAP workflow item  ?
+An error has occurred for which you are the person responsible  ?
+Someone (or some process) just sent you SAP mail You can launch attached links to SAP transactions directly from Outlook, including workflow tasks!
+Use of the SAP Office Connector is optional.
+If you use SAP only to enter your timesheet information, you probably won't get much mail in your SAP Inbox - and so probably won't benefit from using this product.
+In most cases, it will make sense to use the SAP Office Connector to view your SAP notifications INSTEAD of forwarding them out of SAP to your Enron Internet mail address.
+If you have configured your SAP Office to forward your mail, you should delete the forwarding when you enable the MAPI Connector.
+See the attached document for more details on forwarding.
+NOTE: there are several SAP systems, including Apollo Production (FI) and HR Production.
+You (may) have a separate set of SAP Office folders in each system.
+Repeat the setup steps in the attachment for EACH SAP system you want to be displayed as folders in Outlook.
+
+@subject
+Introducing the SAP Office Connector!

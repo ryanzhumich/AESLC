@@ -1,0 +1,11 @@
+Susan,  The NG-PRICE-PRC book will now be calculated using two post ids.
+Therefore,  we need an additional RisktRAC book id for the Price book so that we can  capture both post ids.
+Please set up an NG-PRICE2-PRC book with the same  attributes as the NG-PRICE-PRC book.
+The new books needs to be added to the  AGG-GAS, AGG-GASIII and AGG-GASIV portfolios.
+In AGGIII and IV, please set  up a separate portfolio for the new book.
+The new portfolio should be named  M_Maggi.
+If you have any questions, give me a call.
+Thanks,
+
+@subject
+New Book

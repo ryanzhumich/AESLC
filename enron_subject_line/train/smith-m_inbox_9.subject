@@ -1,0 +1,7 @@
+Hello...since I was working to reload some cycle 13 data for Northwest today, it seemed like a good a time as any to take care of these few foreign key violations as well.
+These 4 points are reported on the Northwest site, but do not appear in our PIPELINE_LOCATION table as of yet (hence the foreign key violation):  458 OWYHEE COMPRESSOR 611 NORTH DOUGLAS RECEIPT (2001) 608 NOVELTY HILL M/S 612 FOUNDATION CREEK PLANT (2001)  If we can get these matched to their IHS DRN counterparts, that would be great.
+If not, we can make up the IHS number as we have in the past.
+Thanks,
+
+@subject
+Northwest Foreign Key Problems

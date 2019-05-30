@@ -1,0 +1,19 @@
+The basic reason we are changing meters in Sitara is because when PGLC was originally set up, the meters were set up using the same name as what the pipeline called them, i.e.
+NGPL/909265.
+This is the NGPL meter number NOT the PGLC meter number.
+The PGLC Meter number is PGLC/NGPL.
+The only reason we are doing this is so we can have everything correctly reflected so we can upload noms into pegasys with the meter number PGLC specifically used.
+The 3 products that will be in place for November at PGLC are:  NBPL/Manhattan - this is where we are buying Northern Border Specific Gas to take to PGLC at the NBPL/Peoples/82 (Manhattan transfer point).
+We will then have a meter bounce ticket to take it from NBPL/PGLC/82 to PGLC/NBPL/NB01 and take it into our pool.
+NGPL/Peoples - this is where we are buying NGPL specific gas to take to PGLC at the NGPL/Peoples/909285 Meter.
+We will then have a meter bounce ticket to take it from NGPL/Peoples/909285 to PGLC/NGPL/NGPL and take it into our pool.
+CHI Peoples - this is where we are buying pool gas at PGLC at the TTP pool.
+- this is the product that has been out there but all deals will be mapped to the TTP point.
+THis is where the majority of customers give us our gas.
+The only time we will be using the meter PGLC/NGPL/NGPL, PGLC/NBPL/NB01, PGLC/ANR/ANR,  and other PGLC/pipeline specific meters is when gas is actually being delivered on a contract into the gate.
+For the most part all of our gas will be at meter PGLC/TTP/TTP.
+Thanks!
+!
+
+@subject
+New Meters  and products on PGLC

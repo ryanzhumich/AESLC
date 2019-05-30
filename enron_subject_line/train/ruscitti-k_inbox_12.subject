@@ -1,0 +1,22 @@
+We will be releasing new version of the Stack Manager and the EnronOnline website tonight .
+The following are the changes  1.
+Changes to Stack Manager:  1.1 Changes to toolbar icons: To facilitate further development of the system, it has been found necessary to change the toolbar icons at the top of the Stack  Manager.
+The attached file shows the old icon and its new replacement.
+Next to each image below is the description of the function that is executed as well as the short cut key that is mapped to the same function:     1.2 New Functionality - Auto Suspend The Auto Suspend function allows traders to set an absolute price change from a price level at which you would like the system to automatically suspend a specific product.
+This function is useful if your products use automatic price resets.
+To activate this feature: 1.
+Select a product and click on Product Properties 2.
+Check the Enable box 3.
+Enter the Price Check and Suspend at +/- values 4.
+Click Update Example: a trader Enables Auto Suspend and selects a $35.00 Price Check and a suspension level of +/- $5.00: The system will suspend the product when the mid price is above  $40.00 or below $30.00  You will need to enter a new Price Check or disable the Auto Suspend function to reactivate this Product if the Auto Suspend is triggered.
+Please note the system checks for any products that need to be suspended once a minute.
+2.
+Changes to EnronOnline Website  (These changes will be rolled out in phases over the next week and will be available to all customers only by Friday 5/4/01)  The following enhancements have been made to the EnronOnline Website:  2.1 Today's Transactions  Float Window:  In order to float the window, right click on the Today's Transactions section, click on the Float Window option.
+Sort Ordering: Click on the column heading to change the sort order.
+Linked Transactions: You can display the linked Transactions in an expanded or collapsed view.
+To do so, right click in the Transaction display area and select full Expand or Full Collapse.
+2.2 Submission Box  The submission box has been modified in order to show a space between each set of "zeros" for the volume the customer wants to sell/buy.
+Savita
+
+@subject
+VERY IMPORTANT ENRONONLINE  STACK MANAGER CHANGES

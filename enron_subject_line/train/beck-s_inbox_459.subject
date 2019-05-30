@@ -1,0 +1,18 @@
+Mike & Sally,  Below is the information that we received on the project.
+I am still waiting on a cost center from EES for the expense portions to settle to.
+Look over this information and let me know if you still want to meet to go over this.
+This is the EES project, which is set up on EES to capture the capital portion of the project costs.
+The expense portion should settle to an EES cost center.
+The project set up shown below is the Networks project, which I set up, but have not yet released.
+Only Release 1 is shown below.
+There are three releases set up, but only the first one will be released at this time.
+All three releases or phases will look like the other phases.
+As you can see below, the capital parts of the project (Solution Definition, Design & Build, and Implementation & Testing) are set up with three basic WBS elements.
+These elements as described below will settle to the EES project as follows.
+Project Coding on Networks Project					Settles to EES Project WBS C.300000.01.SD.OU	Rel 1 SD Outside Consultants Labor		C.007730.22.01 Outside Professional C.300000.01.SD.EN	Rel 1 SD Enron Labor				C.007730.22.03 Enron Labor C.300000.01.SD.OE	Rel 1 SD Other Expenditures			C.007730.22.05 Other Expenditure  C.300000.01.HW Hardware Purchases					C.007730.24.01 Hardware C.300000.01.SW Software Purchases				            C.007730.24.02 Software  This will allow the costs on the Networks project to be tracked in a manor that will support how the charges are settling to EES.
+So if EES has any questions about the charges we should be able to pull up the detail very quickly.
+The following items will settle to an EES cost center since they are expense related.
+C.300000.01.PI.TR	Rel 1 PI Training Dev & Delivery   C.300000.01.PI.PI	Rel 1 PI Post Implementation Support   C.300000.01.PI.GA	Rel 1 PI General & Administrative
+
+@subject
+Genesys or now the Liberty Project

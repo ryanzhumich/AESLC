@@ -1,0 +1,17 @@
+For Saturday:  STWBOM will be long 20 mw HE 2-5 @ PV due to a parking deal with PNM.
+Day-ahead price is $15.50.
+Make real time sales to take care of this length under the STWHOURLY book.
+Enter an inter-desk purchase from STWBOM under the STWHOURLY book.
+For Saturday and Monday:  STWBOM will be short 50 mw on peak @ SP15.
+Day-ahead price is $27.60.
+Make real time purchases to cover the short under the STWHOURLY book.
+Enter an inter-desk sale from STWHOURLY to STWBOM.
+Then make a sale under the STWBOM book to the Cal-Imbalance to complete the deal.
+For Saturday and Sunday:  STNW will be short 44 mw off peak @ PGE System due to a lending deal with PGE.
+Day-ahead deals are at the Mid-C Index.
+Make real time purchases and any transmission necessary to cover the short under the STWHOURLY book.
+Enter an inter-desk sale from STWHOURLY to STNW.
+Link real time purchases to STNW deal 828626.
+
+@subject
+Positions for the weekend - READ THIS

@@ -1,0 +1,10 @@
+Status report of integration testing from Tuesday, Jan. 22nd      (completion of subset of Gas/ Power scenarios to test that all platform components are setup)   We've completed the remainder of test scripts, including transmitting invoices to SAP successfully!
+And all reported testing issues are resolved (need confirmation by a few users).
+Thanks to all involved!
+It was very productive as 16 issues (8 from Unify) were identified and resolved (attached).
+A spreadsheet is attached of the outstanding/ resolved issues   If any testing issues are missing and not reflected, please email Terry Sanvido or myself to assist with tracking and resolution.
+The importance of Wednesday's test below is:        (1) to test after all estate data removal is done; as if testing a Netco 'go-live'      (2) to test all (15+) transaction scenarios 'end to end' test.
+A reminder of Aftab's email requesting your assistance is attached.
+
+@subject
+Status report of integration testing from Tuesday, Jan. 22nd

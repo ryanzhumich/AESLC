@@ -1,0 +1,11 @@
+FCiani@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  Dear Market Participants,  One of the Generation Issues objectives deployed in September was to allow off-dispatch units to move in response to price signals.
+A settlement feature of this change was that off-dispatch units would not receive bid production cost guarantees for incremental energy.
+These units would only be guaranteed cost recovery for minimum generation and start-up costs.
+The function to limit this cost recovery was incorrectly designed, with the result that the cost recovery was not limited to the bid minimum generation cost.
+The cost recovery was incorrectly calculated as the bid minimum generation MW  times the bid minimum generation cost.
+This error has been corrected and will be reflected in the next execution of the September settlement statements, which will correct the values before the September invoicing period.
+If you have any questions, please call Customer Relations at 518-356-6060.
+Regards,
+
+@subject
+NYISO - Generation in Response to Price Signals

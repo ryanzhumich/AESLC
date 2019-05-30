@@ -1,0 +1,16 @@
+ENW EBS IT -  Weekly Status Report  (as of 10/26/01)   Executive Summary :  EnFiber:   Real Estate Book requirements gathering and documentation is 100= % complete; obtained all approvals; development is 25% complete.
+User acce= ptance testing for Scheduling Phase 1 is 85% complete; the implementation d= ate has been changed to 10/26 per user's request.
+Waiting for final signof= f from Jim Terrell.
+Successfully implemented FACT Release 1.2 on 10/15.
+Co= mpleted development of IP and Local Loop options for Valuation and began QA=  testing.
+=20  PPCS/TRPS:=20 TRP demo by Dorado is well accepted by Enron audience.
+The prototype is abl= e to fix the biggest problem in the current EBS bandwidth trading process -= - not able to show the actual hardware inventory of network elements in ord= er to make accurate port striping and cross connect.
+Through their auto har= dware discovery device driver, switch inventory will be presented clearly t= o the users in a nice graphical layout, so provisioners don't have to spend=  huge amount of time to maintain various IT systems to gather the knowledge=  of bandwidth capacity allocation.
+TRPS will gather information for both T= DM and IP.
+Settlements (Saber):  Users are approximately 50% complete with User Accept= ance Testing.
+Users were successful in posting first invoices to SAP with = no errors.
+A demo of the GUI for the Flash to Actuals reconciliation proce= ss is scheduled for Monday, Oct. 29.
+Production Implementation will be mid=
+
+@subject
+ENW EBS IT - Weekly Status Report  (as of 10/26/01)

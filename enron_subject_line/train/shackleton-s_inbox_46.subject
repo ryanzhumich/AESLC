@@ -1,0 +1,13 @@
+Sara-thank you for looking into this issue for us.
+Here is a brief summary of what occured.
+UBS and Enron entered into a Sterling-UBS spot transaction on 11-19-01, which both parties confirmed and settled on 11-21.
+(UBS pays USD 7,083,500 and receives 5 mio sterling).
+On 11-21 UBS and Enron erroneously confirmed the same trade again for settlement on 11-21.
+UBS made a second USD 7,083,500 payment to Enron's account at BA-Dallas on 11-21 (payment reference: FED IMA 1121B1Q8052C001081).
+UBS did not receive the Sterling it was expecting and for the next few days Enron and UBS tried to resolve the non-payment based on a mistaken assumption that Enron owed 5 mio Sterling to UBS.
+On 11-28, UBS realized that the trade was duped and on 11-29 informed Enron of the nature of the error and requested that the USD payment be returned.
+Enron agreed to return the USD payment on 11-29.
+The returned payment was never received.
+
+@subject
+UBS FX payment

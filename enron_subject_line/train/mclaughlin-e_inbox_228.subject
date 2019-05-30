@@ -1,0 +1,9 @@
+Errol,  I looked at your post ids 1405076 (Nov 16) and 1403081 (Nov 15).
+For a Gas daily swap deal, its gamma, vega, theta, rho, drift, 2nd order should be zero.
+The change between today and prior day comes from forward value of new deals, changed value of old deals, curve shift of old deals, and liquidation of old deals.
+We can put it in a simplified formula,   Today Value - Prior Day Value = New deals + Changed Deals + Curve Shift - Liquidation of old deals   If you look at the gas top page, its liquidation actually includes both existing deals and new deals.
+The liquidation value for existing deals are 444,192 and liquidation value of new deals is -33,500.
+The Liquidation of new deals does not contribute to the daily change, so we got -33,502 off here.
+
+@subject
+adjustment of swap deals on GDaily top page

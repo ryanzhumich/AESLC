@@ -1,0 +1,26 @@
+Mark, Tom, and Holden,  In reference to the DPR impacts of $ 132,000 (WAPA) and $133,000 (SRP) that you were expecting, here is an explanation of why you will not be seeing that in your PMA's:  The 2 deals listed below were put in as a MW month, each with 3 strips in the deal separating out April 1, April 2, and the rest of the month.
+The reason for the 3 strips was to catch the April 1 time change from PST to PDT.
+deal #  539126: 3 strips @ 2216 = 199,500 charge for the month in CARP (true value is - $66,500).
+deal #  538832: 3 strips @ 2180 = 196,200 charge for the month in CARP (true value is - $65,400) .
+Typically, I provide you with a report that tells you what $ amount to look for coming thru in your PMA's, according to the changes that I am making on the back end.
+You then see the change in DPR come thru on a PMA report that Risk provides for you.
+When these deals hit Settlements, we recognized that the CARP was calculating both deals at 3 times their monthly value (and since we are purchasing, that is a negative three times against your books).
+When the above + DPR impacts didn't come thru in your PMA's, we started looking at the deals to figure out why they didn't.
+Here is a discription of the Risk - Settlements process: Risk values a deal on the day of liquidation.
+Any intra-month changes, even if they happen after the day of flow, get trued up by Risk and changed in the DPR.
+Anything that gets changed after the end of the month, Settlements recognizes as a DPR variance and reports this to Risk and you see it affect your DPR as reported in the PMA report.
+So the question was: When it came to recognizing a variance in Settlements, why weren't we seeing a + amount back to your books for 2 of the strips that I zero'd out?
+Houston Settlements looked into it and were seeing that these deals were originally valued at ($66,500) and ($65,400), even though CARP was showing that they were calculating at ($199,500) and ($196,200) ....  Heather Dunton and I did alot of searching for the answer and we found that:  When Risk flashed these deals in April, they flashed them according to a single MW month charge.
+Regardless of how many strips there are, the deal is set up as a MW month and should, therefore, calculate as one single charge for the month.
+We found that CARP is reading these incorrectly and causing the confusion, (as I was seeing that the deals were calculating 3 times because that is how CARP and UNIFY were reading the deal).
+The IT people in Houston are now working on fixing that glitch.
+When it comes to DPR, your book originally recognized an impact of (66,500) and (65,400), which is correct.
+Since your April DPR was correct, you will not see an adjustment in your PMA's.
+I recognize that this is not gratification for the + DPR impact that you were expecting and I apologize for the confusion and mis-information that I gave you in my report.
+This has, however, helped us to hi-light a technical error that will save us alot of work in the future.
+Thanks for your patience while we figured this out.
+Let me know if you have any questions.
+Thanks,
+
+@subject
+DPR on your PMA's

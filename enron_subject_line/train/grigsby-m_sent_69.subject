@@ -1,0 +1,9 @@
+Let's have Matt start on the following:  Database for hourly storage activity on Socal.
+Begin forecasting hourly and  daily activity by backing out receipts, using ISO load actuals and backing  out real time imports to get in state gen numbers for gas consumption, and  then using temps to estimate core gas load.
+Back testing once he gets  database created should help him forecast core demand.
+Update Socal and PG&E forecast sheets.
+Also, break out new gen by EPNG and  TW pipelines.
+Mike
+
+@subject
+matt Smith

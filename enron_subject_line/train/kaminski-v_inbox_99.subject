@@ -1,0 +1,9 @@
+This analysis was another swag at p&l components.
+We took the numbers from the daily position reports, backed out the big originations that we new about (e.g.
+peakers sales) and the other "mistakes" (e.g.
+the EES $700MM loss), then took out the curve-shift P&L from the backtest data, the balance we said must be some form of "new deal" P&L plus realised p&l etc.
+It shows that 2000 was the prop trading year, whereas 2001 was mainly new deals.
+Of course the whole thing is poisoned by reserve movements.
+
+@subject
+P/L Breakout

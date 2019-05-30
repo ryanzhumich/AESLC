@@ -1,0 +1,15 @@
+Sean:  I have been looking at the -$141K P&L hit in "Other Changes" on 8/13/01 you were inquiring about.
+The biggest "contributor" of this hit is the restructured Modesto deal # 520328.3, which alone caused -$130K in Other Changes (a.k.a.
+2nd Order in financial terms).
+I believe what happened is that Matt re-marked the daily volatility curves down by a significant magnitude on 8/13/01 (* please see curve managers for the change).
+Usually when volatilities changed drastically they would disrupt financial evaluation models and more likely to cause a change in deal value by factors which cannot be explained (i.e.
+Second Order).
+This doesn't necessarily mean that the evaluation is incorrect but just that there will be some value change for which the models cannot pinpoint the reasons.
+Anyway, for this basis option deal you lost $94K on 8/13, and this -$94K can be broken down into Curve Shift (-$19K), Gamma ($1.5K), Vega (70K), Theta (-16K), and Second Order/Other Changes (-$130K).
+I looked at the curve change and interest rate change between 8/10 and 8/13 and they are relatively insignificant, but the drastic volatility mark down makes me feel that your losing money in this deal is somewhat consistent w/ what we should expect.
+I am still working with IT to see if we can nail this down to give you a more specific explanation.
+In the mean time, if you have any thoughts or concerns, please feel free to let me know.
+Thanks,
+
+@subject
+-$141,000 P&L hit on 8/13/01

@@ -1,0 +1,22 @@
+Good Afternoon Power Users,  This weekend, January 12 - 13, the split of NEWCO & Enron Estate will actually begin.
+Specifically, this weekend, we will be moving the estate applications & databases off of their current hardware and onto other available UNIX & NT servers.
+This effort will free-up the existing hardware for NEWCO.
+This week, we need help from our key users to ensure these changes will not adversely affect the Enron Estate applications by testing the applications on the new hardware.
+Below are instructions on how to begin testing:  Stage Testing Starting Thursday morning, January 10th, the Enron Estate test environment will be setup for user testing.
+This test environment is actually a rename of the old "PWRTESTN" environment.
+To access the Enron Estate Test environment, please choose "Enpower Estate (pwrtestn)".
+The short-cut can be found at:  Start ==> Program ==> Development Applications ==> Stage Environment ==> Enpower ==> Enpower Estate (pwrtestn)  Production Testing Then, on Sunday morning, January 13th, by 8:00AM CST***, the production Enron Estate environment will be ready for user testing.
+To access the Enron Estate Production environment, please choose "Enpower Estate Login".
+The short-cut can be found at:  Start ==> Program ==> Business Applications ==>Enpower ==> Enpower Estate Login   Thanks,  David Poston
+
+@subject
+User Testing for Estate Applications
+
+@ann0
+newco & enron estate
+
+@ann1
+testing instructions for enron estate test environment
+
+@ann2
+newco & enron estate split

@@ -1,0 +1,11 @@
+Attached for your review are the finalized versions of the ISO Statement Files Specification (v14.0), ISO Charge Matrix (v14.0 ) and overview documents describing the key changes.
+Draft versions of the same documents were distributed in January for your review and comments.
+Version 14.0 is created due to changes in two settlement areas: *	The existing Market Operations Charge (CT 523) will be replaced by the new Ancillary Services and Real Time Energy Operations Charge (CT 524).
+*	To facilitate automatic processing of Manual Line Item entries by the SCs, ISO will impose more rigorous validations upon these entries when they are created in the ISO Settlement System.
+The above changes are scheduled to take effect on trade date 1/1/2002.
+The additional changes in the finalized versions are mostly minor corrections and clarifications.
+ISO has also added two new Manual Charge Types (CTs 691 and 692) in the Charge Matrix: CT 691 - Emissions Cost Payment; and CT 692 - Start-Up Cost Payment.
+These Charge Types were created as a result of the FERC's Order (dated
+
+@subject
+CAISO Notification - Finalized ISO Charge Matrix and Statement  Files Specification (version 14.0)

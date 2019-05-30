@@ -1,0 +1,10 @@
+Kathy/Brian,  As I'm sure you know we are trying to determine what is causing the Canadian  VAR to be so high.
+One possible cause that we would like your help  investigating is the Curve Codes that are being loaded in the position files  that are manually loaded into the system each night.
+It is my understanding  that positions will be correct even if the curves loaded are spelled   incorrectly.
+However, incorrect curve names will result in the positions not  being captured in the VAR calculation.
+Please verify that all the curves are  spelled correctly in all position files.
+Please give me a call if you have any questions.
+Thanks,
+
+@subject
+Canada VAR

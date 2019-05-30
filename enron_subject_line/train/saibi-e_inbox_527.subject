@@ -1,0 +1,17 @@
+During the weekend of October 6 and 7, 2001 the Enterprise Storage Team will be migrating all production users off the current hardware (Solar) that houses their home and application directories (no production databases are effected) to new hardware.
+This migration requires a total system outage of approximately 4 hours.
+The outage will occur Friday night - Saturday morning between the hours of Midnight to 4:00 AM.
+All users will need to be logged off during this time period.
+If this is not possible, contact Adam DeRidder (x3-1428) or Carlos Uribe (x5-8179) as soon as possible.
+In order to validate the migration, production users need to test access to their home directories and applications on Saturday, October 7 and Sunday, October 8, 2001.
+As part of the migration plan, the Storage Team needs volunteers from the production community to test the new environment.
+The test will only require approximately 15-30 minutes to complete.
+Adam DeRidder and Carlos Uribe have setup a test lab on the 34th floor for this purpose.
+Contact Adam to setup a time.
+Your involvement will help make this a successful migration.
+A list of contacts will be made available on Thursday, October 5, 2001.
+Please use this list to report issues and check the status of the migration.
+Bob Ambrocik Enterprise Storage Team EB 3429F x5-4577 bob.ambrocik@enron.com
+
+@subject
+Solar Migration - Very Important

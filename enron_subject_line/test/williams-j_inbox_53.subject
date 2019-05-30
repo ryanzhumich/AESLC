@@ -1,0 +1,19 @@
+Jason, thanks for that.
+It seems ok at the moment.
+We are planning to use this for retrieving production trades (around 1000 per day).
+Do you know what the cause was?
+It would be pretty drastic if this happens in a live environment.
+I would like to feel confident that it will be reliable in a production environment.
+Regards,
+
+@subject
+RvIDE
+
+@ann0
+production environment
+
+@ann1
+production trades question
+
+@ann2
+jason, this looks fine...

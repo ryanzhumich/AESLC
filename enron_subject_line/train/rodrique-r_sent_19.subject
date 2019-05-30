@@ -1,0 +1,8 @@
+Wei,  I am showing a position for the book id listed below when I query RMS Open  Positions, but I don't see the positions when I query Benchmark Agg_View.
+Can you refresh the table to see if this position will pull into the  Benchmark Agg_View table?
+I am including the book id, post id, and position  from yesterday.
+Let me know if you need any more information.
+BOOK ID   POST ID POSITION INTRA-ONT-CAD-GDL  1062779 -477.7 contracts
+
+@subject
+Missing Book

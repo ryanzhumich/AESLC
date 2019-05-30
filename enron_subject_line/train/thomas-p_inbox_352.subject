@@ -1,0 +1,27 @@
+"Kirkpatrick, Joe" <joe.kirkpatrick@nrgenergy.com> writes to the NYISO_TECH_EXCHANGE Discussion List:  In order to have a functioning market model it is imperative to have a level playing field for all market participants.
+Is it a level playing field or even appropriate for any individual market participant to dispatch generation and transmission facilities that affect the economics of other market participants?
+The dispatch of transmission and generation to resolve congestion must be made with the overall economics of the entire market in mind.
+The only entity that has the information and empowered to make these decisions is the NYISO.
+With that in mind why does a particular market participant have control over major interfaces that interconnect New York and PJM.
+Specifically the control points would be the Linden-Goethals phase angle regulator and the Hudson Farragut phase angle regulators.
+These PARs are under ConEd control and are utilized by ConEd to facilitate whatever requirements they deem required.
+As this is being written the New York PJM schedule is 546 MW out to New York with a flow of 762 MW the flow on these PARs (including Ramapo) is ~1500 MW to New York.
+Are the interests of all market participants being considered by a market participant that has over 40% of the load in New York State, that has control over a significant amount of generation utilizing OOM dispatches and by having control over a significant amount of transmission facilities capable of altering the flow into New York City and Central x East.
+I suspect not.
+Case in point..
+There is a transmission constraint in an area in New York city.
+This constraint can only be monitored by ConEd and therefore is resolved utilizing an OOM dispatch request.
+Generation was reduced to resolve the constraint, there is another generator in the area that can be reduced to resolve the constraint, but it would appear that this control action is not utilized .
+Coincidently the power from this other generator is under contract to ConEd (take-or-pay).
+There is also a PAR (Linden-Goethals) that can be moved to alleviate the constraint, which unfortunately is not utilized either.
+Instead generation is reduced that does result in additional uplift charges that is socialized as a cost to all loads in New York.
+Whether the right economic decisions are being made is an issue but the larger issue is why is a market participant with a large economic interest making these decisions.
+The NYISO was asked why the PAR was not utilized as a control action to alleviate the constraint, simply put since the PAR is not under their control they do not consider it as a control action.
+Since ConEd does not have the overall market view or the economic interests of all market participants in mind is it appropriate to allow them to operate and dispatch a large part of New York State?
+When the NYISO is not controlling major inter-area transmission interfaces but allows that control to be utilized by a market participant it is a compromise of the entire market.
+Economics of an individual market participant are overriding the economics of all other participants in New York.
+This is not a "best practice" that any sane individual would recommend for any RTO model.
+Joe Kirkpatrick
+
+@subject
+Who is in Control?

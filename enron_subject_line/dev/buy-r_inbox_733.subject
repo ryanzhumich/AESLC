@@ -1,0 +1,26 @@
+Rick,  I have spent some time reviewing the allocation of PGE's VaR and net open position (NOP) trading limits and would like to make the following changes to better match the limits and their objectives to PGE's trading activity and portfolio.
+I have discussed these changes with Rod Hayslett and he has concurred with my proposal.
+I have also reviewed them with Vlady .
+1.
+VaR:  Given that PGE is a naturally short utility and does not hedge its long-dated gas position for regulatory, liquidity and market view reasons, I propose that PGE reallocate $500k of its regulated electric VaR to its regulated natural gas VaR bring the gas VaR up to $2.5MM and reducing the electric VaR to $7.5mm.
+This change is necessary to account for the size of PGE's natural short position in the back-end of its reporting period.
+After reducing PGE's electric VaR it will still have sufficient capacity to manage the regulated electric portfolio.
+2.
+NOP:  After changing PGE's regulated gas VaR to $2.5MM it will be necessary to change the corresponding net open position.
+Currently PGE has been using a 10 Bcf limit for its NOP and Maturity Gap.
+Using a $2.5MM VaR I've recalculated  the corresponding NOP/Maturity limit to be approximately 17 Bcf.
+If you agree with these changes please let me know.
+If you have any questions please contact me at (503) 464-2723.
+Thanks.
+
+@subject
+PGE Trading Limits
+
+@ann0
+proposed changes to var and nop allocation
+
+@ann1
+proposed changes / pge's trading activity and portfolio
+
+@ann2
+changes to pge's var and nop

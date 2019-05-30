@@ -1,0 +1,8 @@
+As per our discussion, I have done the following to fix the issues with Questar data:  -  dumped data from 02/04/2001 -> present, for all cycles -  fixed the transform component to pull the proper column for utilized capacity and also to assign the correct effective date for each value -  re-transformed and re-loaded ALL cycle 5 data (from the *htm files we have)  Now, in loading the 86 or so days back into the DB, approx.
+3603 PRIMARY KEY violations were logged...this means that they are duplicating point data within the same day, same cycle, etc.
+If this data could be examined more closely in the reports that are subsequently generated, we can make sure that things are truly copacetic from our side (a "surface" scan of the *.htm files shows that they are indeed duplicating points, usually with different names...the utilized capacity associated with these points is the same though, so this doesn't appear to be a big issue, except for the fact that we will continue to have primary key violations being logged).
+As always, any questions, just ask.
+Thanks,
+
+@subject
+Questar

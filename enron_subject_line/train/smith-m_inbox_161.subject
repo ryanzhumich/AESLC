@@ -1,0 +1,17 @@
+Matt,   Long time no  hear, hope you're doing fine at the new company.
+Sorry to bother you  with this issue again since I know Leo Sommaripa has contacted you  already, so I'll be brief and to the point.
+We have been  trying to save a copy of the Database on a CD-R so that we can give it to the  client for their reference but some issues have come up which have to do with  programming.
+Our intention is for the client to keep the database in the CD and  to be able to access all the features in it so that there is no need for them to  copy it unto a hard drive and possibly modify the data.
+Since by saving it unto a CD makes the database  read-only, there's no problem with keeping the data on the disk intact, and  we're even working on a disclaimer to paste on the database.
+The problem is  that by making it into a read-only file, some commands have become disabled.
+Specifically, the buttons on the review form that access the compliance,  operations, equipment, and staffing forms are not available through the  read-only format.
+I ventured into the programming codes for the commands and  found the following string on all four buttons:   DoCmd.DoMenuItem acFormBar, acRecordsMenu,  acSaveRecord, , acMenuVer70   I temporarily  deleted that line from the programming codes for all four and so far have not  had any problems with accessing all levels of the database in the CD.
+Now, I do  not know exactly what that string does to the database but would much rather  find a safer alternative if possible or at least know that the string is  not a critical part of the process.
+If this is something that can be answered  right off the bat I'd appreciate it, I realize that this is not a priority  anymore so if its something that will consume  a extended period of time,  let me know and I will continue seraching through other  channels.
+I guess this  wasn't brief after all and I appreciate the time and effort.
+I can be  emailed or I can make the arrangements to call you, whatever's better for  you.
+JCP     Juan Carlos P?rez Bofill, ME Environmental Engineer Vincenty, Heres & Lauria P.O.
+Box 13455 San Juan, PR 00908-3455 (787)722-4646 (787)723-0232 (fax)
+
+@subject
+Greetings

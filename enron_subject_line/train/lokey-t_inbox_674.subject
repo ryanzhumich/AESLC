@@ -1,0 +1,11 @@
+Chris Snyder with FPU called and asked if the New Smyrna point, poi 16160 on contract 100740 (which is the only delivery point on that contract that they permanently acquired through capacity release) could be made a division.
+The point was acquired through a permanent capacity release transaction as a single point.
+The problem is that they requested to combine this point into their current dpoa, contract 5002 that has points behind divisions.
+The allocation reports he gets do not reflect this point since it is not in a division.
+Can we make a point a division just so the reports can "pick up" the point?
+Chris also mentioned that he does not want this point in a separate dpoa because he wants to be able to take advantage of the section 11 rights with their other delivery points on their dpoa.
+Frazier and Teb, please let me know if we can do this so that we can make the appropriate changes in our system.
+nb
+
+@subject
+FPU

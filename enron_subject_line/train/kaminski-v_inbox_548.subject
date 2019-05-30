@@ -1,0 +1,32 @@
+Vasant,  A quick update on a number of on-going projects:  1.
+JCC Forward Curve/Hedging Strategy (Enron Japan)  h  An update of the historical P&L model was completed and included both commodity and foreign exchange risks.
+The standard deviation of historical simulations for single month swaps was significantly reduced with the foreign exchange hedging strategy (two long yen/$ positions and 1 short yen/$ position).
+h  Enron Japan, in cooperation with Enron London, developed an alternative hedging strategy based on Brent $ value.
+No P&L historical P&L simulations were conducted for the alternative strategy.
+h  The original Brent hedge ratios were based on an average of 3 monthly preliminary JCC values offered by METI.
+Presumably, the swap will be settled off of the finalized METI JCC price which is released two months after the fact.
+Rousseau forwarded those numbers from 1998 to present this morning.
+Unfortunately, our model uses historical JCC values going back to August 1991.
+Rousseau will hopefully obtain the required historical JCC time series early next week.
+h  I haven't yet heard about Jeff Shankman's response to the memo that was forwarded on Wednesday.
+2.
+Ethanol Forward Curve (Enron Global Markets)     h  A meeting was held with Marc de la Roche, Darren Maloney, and Sanjay Patel to discuss the development of a forward curve for ethanol.
+A first-cut curve based on NYMEX unleaded gasoline, NYMEX WTI crude, and EIA fuel ethanol inventories was constructed and backtested.
+Rolling monthly backtesting (using data from 2000 to 2001) suggested that, on average, the modeled and actual ethanol prices were off only by a few cents for time periods up to 6 months (e.g., 6 month swap).
+Unfortunately, the 1 SD value for the historical projections was quite large (+/- $0.30 on a $1.40/gal commodity).
+h The changing dynamics of the ethanol market offer the greatest challenge to forward curve construction.
+That is, ethanol will likely replace MTBE as the fuel oxygenate of choice over time, which will probably signal a stronger relationship with unleaded gas price.
+Unfortunately, the current model uses historical data from 1998 to present which do not necessarily reflect such a strong relationship.
+These concerns have been noted to the ethanol guys.
+h  The ENE ethanol pricing index has been updated with August, September, and October prices and continues to generally track other industry publication values (e.g., Oxy-fuel news).
+h  Marc and Darren are in talks with Petrous as a potential counterparty for an ethanol swap.
+h  An ethanol status meeting will be held Wednesday or Thursday of next week with Randy Maffett.
+3.
+Plastics Forward Curves (Enron Global Markets)  h  Mauricio Mora and I have focused on the development of forward curves for a suite of plastics including propylene, ethylene, polypropylene, HDPE, and LLDPE (see earlier email for details).
+h  Initial models for each of these plastics have been completed and will be compared to the current model forward curves and Alan Engberg's expected values.
+Alan did forward the most recent curves and personal outlooks to us today.
+h  Note that the methologies behind the creation of the old forward curves are not known.
+Evidently, one can use various rankings (say 1 to 5 depending on market conditions) to manipulate the model forward curve--I don't know whether regression was involved in these forward curve constructions.
+
+@subject
+Work Update

@@ -1,0 +1,20 @@
+FYI: a very brief list of works I have done since June (in the second half of this year).
+Finished Collateralized Bandwidth Obligation (CBO) default model (with Xelerator group and Amitava) Movie Gross Box office forecasting.
+(with Martin, Ken, Erik) EOL trading game (with Bob and Erik) Pipeline options (with Krishna) Ravi's put swaption model for data storage (with Zimin) EBS Meet me room discussion (with Martin) Fronterra plant valuation: (with Alex) Modifying ERCOT's LP price lower-bound model.
+(with Martin) Longitude : analyze if we should do deal with them (with Joe, Vasant, Rakesh, Vince) Valuating PedrickTown plants: (with Alex) How to buy/sell power forward when we own generators and load.
+(with Vasant, Bob) Presentations at INFORMS conferences  Currently Doing/Pending: Psim:  full requirement dispatch module: improve ramping constraint model.
+Brazil CEPEL: analyze why their method is bad and come up with a new simpler & better one.
+Improve ERCOT LP price lower-bound model by adding shift factors ERCOT Transmission right (TCR) bidding strategy PGN Gas Storage + unit commitment: Michael Shilmoeller, Brett Sim, Erik Shaw (just started) Collaborate with Universities: CMU, Michigan, Arizona (just started) EOL Bid-ask algorithm.
+(pending)  Need to do: Have not started: How to hedge load optimally Extension to Doug's second problem: Finding optimal interruption (or curtailment) policy (When to interrupt customer's loads.)
+
+@subject
+Tasks in the second half of this year
+
+@ann0
+list of works
+
+@ann1
+list of works completed since june
+
+@ann2
+finished collateralized bandwidth obligation

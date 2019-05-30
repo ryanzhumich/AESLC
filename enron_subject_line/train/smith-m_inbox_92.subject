@@ -1,0 +1,12 @@
+Guys,  Some of you have noticed that on many of today's reports, we are able to see flow value for a meter for 5/1/2000, but the MDT column showed "na" on the daily report.
+"na" is also shown on the historical report for the average of May.
+It is very easy to get confused (at least I was in the beginnieng, even  though I wrote the program myself) when you see things like this, you may ask why isn't the average the value shown for today since there is  only one day's data?
+The answer is that they are from different cycles.
+Coding used the business logic that grab the flow value from the latest successful cycle,  while always use the last cycle when deal with average.
+At the time of report generation if the last cycle is not available, this will happen.
+Fortunately this only happens on the first day of each month.
+Please explain this to those who may raise this question when they see this "discrepancy".
+Yan
+
+@subject
+Monthly Avg and MDT Avg on 1st day of each month

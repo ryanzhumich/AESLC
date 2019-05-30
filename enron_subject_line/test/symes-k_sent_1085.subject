@@ -1,0 +1,17 @@
+I've added the third leg to deal 566375 and changed comments in each leg to  reflect that.
+We had a bit of confusion about who was actually adding the new  pub code, but it's in the system now and the deal is ready to be confirmed.
+Just a note - I previously had all the Sunday and Holiday hours in the  off-peak leg of this deal (so Risk could calc the value correctly), and now  I've deleted those strips to account for leg 3 which contains only Sunday and  Holiday hours.
+Please let me know if anything looks different, other than  that, on your end.
+Thanks,
+
+@subject
+New swap deal for EPMI LTSW
+
+@ann0
+updates to deal 566375
+
+@ann1
+deal confirmartion
+
+@ann2
+third leg added to 566375 deal,  comments modified, ready for confirmation

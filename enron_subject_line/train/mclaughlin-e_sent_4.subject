@@ -1,0 +1,11 @@
+Attached is a forwards detail model in Excel format that will allow you to  view and manipulate new deals for a particular date.
+You will need to enter  the Post I.D.
+for the date you wish to view (see below) in cell B4 in the  worksheet titled "Run Query" and then click the "Fetch Detail" macro button.
+The deals can then be viewed in the "Results" worksheet.
+Post I.D.
+Date  816900    5/17/2000  816962    5/25/2000  816963    5/31/2000    Please call me at X5-8274 with any questions you have.
+I will have the  options shortly.
+Errol McLaughlin
+
+@subject
+Forwards Detail 5/17, 5/25, 5/31

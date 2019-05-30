@@ -1,0 +1,20 @@
+Here are my thoughts on some of Pug's comments (Karen has faxed the memo from Pug I believe):  1	Roles of Audit and Finance Committees  I agree with the distinction he draws and I don't see why the entire Board should not see risk/return information.
+We can tweak the policy to bring this to the fore.
+2	Post-Audit  I'll talk to Gorte  3	Capital Allocation  Complex.
+Charges for risk capital would not be as difficult as allocating funding.
+Building balance sheets is key.
+4	Trading Limits  In my last tome I have effectively limited the use of D-VaR to the levels specified by the concentration buckets, so I think we have satisfied that concern.
+With position limits I would argue that ones needs them where VaR does not "callibrate" well, for example with Steel trading where there is no observable options market, you need more metrics to tell you about the risk.
+Conversely in US Gas I think the market is fairly deep and the VaR tells us much about the risk.
+Also, in a similar fashion to "model approval" under Basle Capital Adequacy rules, the quality of the risk administration process and other controls could make us more comfortable about just using VaR.
+5	Reporting  Policy Section 4.1.2.3.1 talks about violations and notifications.
+He is asking should he not be called for a five day loss (c) and an ETL excess (d), in addition to the usual corporate VaR breach and one day loss > VaR.
+I think the five day loss actually would warrant a Pug call because under the new method (5 day loss > 225% of VaR), the number could be very large (but also less likely).
+For ETL I would advise against having a Pug call on this since we still need to get the metric bedded down properly (and all the usual arguments about the math played out).
+The phrase "at their discretion" to which he refers means that the Risk Committee can tell who they like about violations, as they deem necessary - so its just built-in flexibility.
+6	Liquidity  We are cranking this right now.
+Other news  Gas off approximately 15c across the strip today - Friday was quiet.
+George has made $9m over the last 5 days as crude has come off 50 - 60c ENE is $36 (horrible)  DP
+
+@subject
+Pug's Fax

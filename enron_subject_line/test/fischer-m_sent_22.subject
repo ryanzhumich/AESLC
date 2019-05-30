@@ -1,0 +1,20 @@
+Tom,   Here are the fault paretos of fault counts for all sites for May 2002  (may2002paretos_faults.pdf).
+For readability only the top 30 faults for each  site are displayed.
+Both Texas sites had VERY high numbers of "wind  deviation" faults.
+I am also attaching a file (from a different work request) that has a pareto  (by site) of the mean number of faults per turbine (may2002mean_faults.pdf),  which shows that the Texas sites have the highest mean faults per turbine.
+This also has boxplots of the number of faults by site to show the outliers.
+I will do the June data, if still desired, when the data upload is completed.
+As always, if you have questions or comments let me know.
+Mark
+
+@subject
+WR627 Fault Paretos (May 2002)
+
+@ann0
+fault paretos of counts for may 2002 sites
+
+@ann1
+fault data for texas sites
+
+@ann2
+fault data on all sites for may

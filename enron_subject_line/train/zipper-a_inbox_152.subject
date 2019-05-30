@@ -1,0 +1,8 @@
+Hi  I've attached a couple of files summarizing our progress and current status on modeling the bid-ask spread.
+The first summarizes characterization of the EOL Crude data and the second describes a bid-ask spread model based on options theory developed by Zimin (The figure from the paper is included separately).
+I am now setting up an Excel spreadsheet to test this model with the EOL data.
+Let me know when you would like to meet to review this.
+Thanks, Bob Lee
+
+@subject
+EOL Pricing Algorithm Update

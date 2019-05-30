@@ -1,0 +1,11 @@
+market_relations@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  Dear Market Participants:  On the November 1999 & December 1999 Transmission Customer Monthly Statements many customers have noted under the "Energy Settlement" section for "Forward Energy" a change in MW-Hrs with no associated change in dollar amounts.
+This is because of a correction in the sign convention for the MW-Hrs related to external generation transactions (transactions from a proxy bus to the NYISO reference bus).
+For all other types of transactions the NYISO charges customers the appropriate TUC or LBMP  based on the MWs that flowed, but for external generation transactions, customers receive payments from the NYISO, and therefore these types of transactions have an opposite sign convention.
+The dollars associated with the external generation transactions have always had the proper sign convention, but the MW-Hrs have not.
+On 01/17/2000 this sign convention was corrected for all billing months going forward resulting in the correct MW-Hr values being reported from February 2000 to date.
+However, November 1999 - January 2000 did not have the proper MW-Hrs reported on the Transmission Customer Monthly Statements.
+With the latest settlement adjustments posted the MW-Hrs are being corrected with the proper sign convention.
+Transmission Customers will see similar changes in their forward energy MW-Hrs for January 2000's settlement adjustment.
+
+@subject
+November & December 1999 Settlement Adjustments

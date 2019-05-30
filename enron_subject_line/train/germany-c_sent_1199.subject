@@ -1,0 +1,13 @@
+I know we have not been treating storage correctly in Sitara.
+I would like  to disscuss the best way to handle the CES storage.
+It involves several  pipelines.
+Who should I talk to?
+On some storage contracts, ENA will buy the gas from CES on withdrawals and  sell the gas to CES on injections.
+On other storage contracts, CES will give ENA a predetermined injection  schedule.
+However, ENA will make the acutal injection and withdrawal  decisions.
+Which means, what we bill CES will be different from what  actually happens.
+I know this is what we did with BUG, I just don't know how  to do it.
+Who do I need to meet with to discuss CES storage?
+
+@subject
+CES Storage

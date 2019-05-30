@@ -1,0 +1,20 @@
+John,  I wanted to clarify my e-mail I sent from work I don't think I was specific enough.
+1.
+On the day ahead position that hourly would manage, lets say it is in the short term ercot book.
+In ettera if you go to that book you will not find that trade.
+So the only way to adjust it is to go and do it in the portal.
+2.
+Also if you have a day ahead position and we manage it hourly,if we were to adjust it for balday, for instance if we were long 50mw in the pool and we sold 25mw balday it would reflect the change.
+But if we came back and did another trade and submitted to xml it would change back to 50mw.
+3.
+We need to change how we show a buy from frontera.
+We now have to buy from frontera and then sale back to them.
+This was a way to fix the problem short term but it should not be a long term solution.
+4.
+And ettera is still very time consuming.
+It takes anywhere from 5-8 min.
+to enter a trade for just one hour.
+I hope this is more specific.
+
+@subject
+eterra

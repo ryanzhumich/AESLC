@@ -1,0 +1,17 @@
+Dear All,  Please test the Stage Release of PortCalc version 4.2.1s1 and let us know of the results.
+The executable is      /stage/egs-home/ermt/bin/pwrcalc_slr          	New Features:  Version 4.2.1s1  Changes Affecting All:  Asian strip  Fixed the Curve shift numbers in the adhoc table.
+Index Option  Break up one single adhoc record into two records for physical and financial.
+Basis Option  Fixed the issue on the break down of Peak and Off Peak curve shift for the second delivery point.
+Performance Improvement  Disable unnecessary sensitivity calculation to improve performance typical for hourly options.
+Cross Portfolio flag form deal entry is now used.
+Before this change, PortCalc used to determine which deal is cross portfolio using internal logic.
+Curve and Position Manager  PortCalc will now populate the peak_hours_num, off_peak_hours_num, sun_peak_hours_num and sat_peak_hours_num columns in the adhoc table to provde volumetric information for the Curve and Position Manager.
+Changes Affecting Australia:  Asian strip  Always use curve price for effective date to avoid next-day financial true up for that day, so that current previous day value can tie up yesterday's value.
+SRA  	New Deal type.
+Changes Affecting VATR:  Populate the INSTR_TYPE_CD as TRANSMISSION in the pwr_vatr_port_posn  table for Transmission deals.
+Please do not hesitate to ask if there is any questions.
+Thanks,   Norman.
+x36976.
+
+@subject
+PortCalc Stage Release 10/29/2001 Version 4.2.1s1

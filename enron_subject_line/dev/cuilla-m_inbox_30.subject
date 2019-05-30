@@ -1,0 +1,22 @@
+*************************************************************************************************************************************************  You are invited to attend the following presentation:   PSIM: A Power Simulation Tool  PSIM is a proprietary model developed by Enron Research Group.
+?
+It takes Power, Gas, Weather and demand information into consideration and  	uses Monte-Carlo simulation to assess the expected deal value and risk distribution.
+?
+It evaluates complex electricity related contracts such as Full Requirement  and load following contract.
+?
+It also provides a valuation tool for power assets and asset management deals.
+?
+It works for both deal specific or portfolio issues.
+In this presentation we will show how the model can be used to deal with various types  of contracts, explain the model structure and point out further applications.
+
+@subject
+Presentation Announcement
+
+@ann0
+invitation to psim presentation
+
+@ann1
+you are invited to attend a presentation
+
+@ann2
+invitation to psim power simulation tool presentation

@@ -1,0 +1,24 @@
+I just entered an index deal for one of our traders, and came across  something I hadn't noticed before.
+In EnPower, we have several choices for  the Dow Jones Mid-Columbia index, but none called specifically "Mid-C Firm  Peak."
+We have non-firm peak, and something called "Mid-Columbia Index."
+I'm just wondering how to specify that I want the deal to settle against the  Dow Jones Mid-C PEAK index.
+In this case, because I was entering a  round-the-clock (all hours, all days) deal, I had to enter three different  deals to specify the three different indices - Mid-C Peak, Mid-C Off Peak,  and Mid-C Sundays and Holidays.
+But I don't see a Mid-C Peak choice, so I  entered the first as Mid-C Index.
+Deal numbers are: 597244 - Peak 597245 - Off Peak 597246 - Sundays/Holidays  I just wanted to ask because when you guys plug the index prices in here I  want to make sure that "Mid-C Index" gets the peak price.
+Could you let me  know if it doesn't?
+And if that's the case, then I'll need to have another  pub code set up for peak price.
+Thanks for your help on this.
+Please let me know if you have any questions.
+Thanks,
+
+@subject
+Dow Jones Mid-Columbia Index
+
+@ann0
+is there a code to settle against mid-c index?
+
+@ann1
+question re: dow jones mid-c peak index
+
+@ann2
+noticed something interesting on latest index deal

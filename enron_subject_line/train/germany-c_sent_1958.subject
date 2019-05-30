@@ -1,0 +1,6 @@
+I set up the following deals in Sitara  Deal # Buy/Sale Counterparty Volume  Price  Comment 597295 Buy   Dynegy  3578  IF + .02  Paulding - Bookout with deal 597302 597302 Sale  New Power 3578  IF + .02  Paulding - Bookout with deal 597295  597309 Buy  Dynegy  8000  IF + .05  Monclova - bookout with deal 593311 593311 Sale  New Power 8000  IF + .05  Monclova - bookout withdeal 597309  597316 Buy  New Power  6160  FOM  Monclova - schedule using New Power  transport.
+This deal will also show up           under the 3rd party deals on my February worksheet.
+New Power can  change          the volumes on this deal daily.
+
+@subject
+New Power Dynegy deals

@@ -1,0 +1,19 @@
+As an introduction:  The referenced counterparty is trying to straighten out  the online products it wants to trade with us (it's open for some, but not  all of the products it wants to trade).
+When I looked at Profile Manager to see what they had already been approved  to trade, I noticed that this counterparty was opened to trade many of the  European products, including specifically European physical power products  (which is unusual for a US based counterparty to trade).
+Before I go in and change the profile for this counterparty, I wanted to  check with you and see if London had specifically opened them to trade the  products they were opened to trade (especially physical power).
+What I usually do when I am approving US based counterparties, is that with  respect to Non Us & Canadian products, as long as they are an Eligible Swap  Participant I open them up for all products except European physical power,  which I never open them for.
+Also, Credit Derivatives, I never open anyone  up for unless we really mean it.
+So, my question to you is did London actively approve the non US & Canadian  based products (especially physical power).
+If you didn't, then I am going  to take this as an oversight of the pre-approval process and shut them down  for European physical power.
+
+@subject
+Amerada-Hess Corporation
+
+@ann0
+questioning about counterparties
+
+@ann1
+clarfication re: counterparty trade
+
+@ann2
+london approval of non us & canadian based products

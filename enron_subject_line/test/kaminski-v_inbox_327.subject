@@ -1,0 +1,19 @@
+Guys  Next week we're planning on recalibrating the dummified regression models ("placement models") built earlier this year and last for the Enron Credit pricing system.
+These basically have the objective of predicting a 5-yr CDS price for an illiquid name, based on available data.
+This data consists of: Credit Ratings, Outlook and Watch Equity based data - eg, EDF, 90d Volatility, Beta, Market Cap, Dividend yield, PE ratio Financial ratios - eg, EBITDA interest coverage, Current ratio, EPS, Debt to Assets Descriptive Info - Country and Industry  I've outlined the methodology used for the models thus far in the attached docs:      We're kicking off this effort next week with a brainstorming session with the trading desk, to outline areas of deficiency and proposed model improvements.
+From the quantitative side we'd appreciate greatly if any or all of you could read these docs and offer any suggestions for improvement of the models.
+Any ideas on statistical techniques or the overall methodology will be welcome.
+I'd also be happy to set up meetings or just talk on the phone if any further explanation is required.
+Regards
+
+@subject
+Statistical Modelling of CDS Prices
+
+@ann0
+dummified regression models for next week
+
+@ann1
+dummified regression models /predicting a 5-yr cds price
+
+@ann2
+ideas for re-calibration of dummified regression models

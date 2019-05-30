@@ -1,0 +1,35 @@
+As you know, exceeding this limit would require contacting the Enron Board of  Directors.
+Jeff Skilling is keenly interested in this measurement.
+In  conversations with Ted Murphy today, Jeff has asked that he receive a daily  report from Ted on component V@R.  Ted called me about 3:00 pm today (Houston  time) to let me know about this requirement.
+Obviously, we want to meet  Skilling's request with information that is as timely, accurate and  complete  as possible.
+Therefore, we were concerned about feeds from London that over  the past several weeks have caused one London commodity or another to be  excluded from the first run of component V@R.  (Mike:  I assume that you are  very familiar with these feed problems from your representative that you send  to the daily 8:30 meeting.)
+I pulled Steve Stock out of a pre-PRC meeting to meet with Ted, Shona, Ramesh  and me at 4:00 today.
+Realizing that the time was very late in London, we  tried to reach you both at home numbers and by cell phone to include you in  the meeting.
+Since we could not do so, we continued without you given that  Skilling will want to see this report daily starting tomorrow.
+Here is the key fact to know:  It takes 3 hours to run the component V@R  calculations, once all inputs have been received and processed.
+The  Component V@R calculations are kicked off at 6:30 am Houston time, producing  an approximate completion time of 9:30 am Houston time.
+With this  timeframe, our goal would be to have the component V@R report to Jeff by  approximately 10:00 am Houston time.
+Given current calculation times, in order to consistently calc component V@R  including all London feeds, London books (UK power, UK gas and Nordic power)  will have to be completed, calculated and officialized by 4:00 am Houston  time (10:00 am London time).
+If this time frame is not met, then component  V@R reports for Jeff will be incomplete.
+We had hoped to discuss this with  you today so that you could work with your operations staff, systems support  and traders to insure that you could consistently meet a 10:00 am London  requirement for officialized books.
+The other immediate action to take is to ask Mike to work with David Hardy on  what we understand to be an almost-completed task of including UK spread  options in V@R calculations using the V@R engine.
+Those V@R calculations  that are done through Excel calculations are not captured and included in the  component V@R calculations.
+While there are other commodities that will  currently be excluded from component V@R reports, they are deemed to be less  material than the UK spread options.
+Ramesh felt that it is only a matter of  days before this is completed.
+Mike, we would like for you to stay on top of  this from an operations perspective to insure that this happens.
+I should note that the firm 10:00 am deadline for officializing books in the  UK will only result in producing a report for Jeff by 10:00 am Houston time.
+We don't know what Jeff's expectation will be regarding timing.
+It is  probably safe to say that we should be actively looking at process and  systems changes that could result in the ability to deliver such a report  earlier in the morning.
+Mike, I will call you during my morning commute on Thursday to see whether or  not you have any questions or if there are concerns about consistently  meeting the 10:00 am deadline in London.
+
+@subject
+Component V@R Calculations for Skilling - 10:00 am London  Requirement
+
+@ann0
+adding v@r component to report
+
+@ann1
+time limit issues
+
+@ann2
+v@r- hard deadline upcoming

@@ -1,0 +1,7 @@
+Kam, The data-base-id for all Canadian books has been changed to 'CANADA' from ERMS on the database.
+We will also create the corresponding basis book-id for the Canada Price books in the Canada book mapping table.
+Over the next week, I will talk with Zhi and get this setup so that once the entries are created in the ERMS tables, we will automatically update the same in RisktRAC.
+Regards,
+
+@subject
+RisktRAC Book-ids

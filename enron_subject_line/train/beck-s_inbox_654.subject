@@ -1,0 +1,12 @@
+Good morning-  Discussions have taken place between EBS (Barry Pearce) and RAC (David Port) to make adjustments to the EBS daily risk-reporting process.
+This memo will outline the changes that have been discussed and agreed upon.
+EBS will implement these changes this week.
+DPR   All risk books will be run on Tuesday and Thursday of each week and P&L will be reported for those days.
+POSITIONS AND CURVES  Pending an IT solution, positions and curves will be loaded each day.
+On days when the books are not run, we will use prior day information.
+Per discussions with Credit, this process is sufficient for counterparty exposure reporting.
+CASH FLOWS  Cash flows will be loaded on days the books are run.
+Infinity will pick up prior information on days when books are not run.
+
+@subject
+New EBS Procedures for Risk Management Books

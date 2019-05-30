@@ -1,0 +1,11 @@
+Joe,  Attached is the Curtail200206.db file.
+I have a question about a sequence of  events.
+For turbine 840006029 on June 19th the turbine is "Energy curtailed"  (Index = 10843), THEN it has the message "Turbine Com Established" (Index =  10855).
+Then there are no other messages (for that turbine) until a "Energy  curtailed" message (Index = 11134).
+Is there anything I can assume about the time between the curtailment  messages?
+For example, was the turbine uncurtailed when the com established  message was recorded?
+Or are did the turbine become uncurtailed and no  message was recorded?
+Thanks,
+
+@subject
+Curtail200206.db Question

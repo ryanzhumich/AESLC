@@ -1,0 +1,7 @@
+Heather,    Do you know :   If there are 3 strips in a deal that cover different time periods, say April 1 for a strip, April 2 for another strip, and April 3 - 31 for a third strip....if we plug in a price on only one of the strips, are the days from the other strips going to get valued properly?
+In the instances that we have had, all three strips were filled in and Risk valued the deal properly; it was just CARP and UNIFY that were reading three times the MW Month amount, which I guess in the end is a simple problem.
+Holden brought up this point and I wonder the same...do you know?
+Virginia
+
+@subject
+EnPower Deal Entry question

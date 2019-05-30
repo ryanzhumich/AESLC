@@ -1,0 +1,19 @@
+Guys,  I am really glad that the report generations were working fine during the period when I was away,  thanks to the efforts of Kim, Lindon and Angela.
+But I am so sad that you don't have to have me around anymore for your reports ...  Hereby I'd like to give you an update on a few issues we fixed/fixing.
+a) Code has been added to show the Storage balance in the historical report instead of average 	b) Because OLAP cube interprets Null as 0 value, we saw monthly average to be 0 but actually should be Null, 	we've added code to detect Null value so that "NA" will be shown for monthly average rather than 0. 	c) Some pipeline (e.g.
+PGE) broadcast forward (future) flow, so in the end of the month, the latest month in Time 	dimension of the cube does not indicate the correct one.
+For instance, today is May.
+31, the latest month in Time 	dimension is already June, which cause problems in historical report.
+It has been fixed.
+e) Central historical reports have been made fit to one page, and extra sheets on the interactive ones have been removed.
+Matt: In order for the above items to take effect please verify with the executable Kim give you and let us know so that we can use it to replace the one currently used for report generation.
+Another thing I talked with Matt was the Maximum Capacity column.
+I understand that you'd like to remove that column for reports which do not report this value, however it involves big structure change to take one column away.
+I am wondering if we can put "NA" or use some other wording such as "not reported" instead to save coding time and structure change.
+I need your feedback on this.
+One last item is that I checked the log for both daily and historical report and noticed that there are still quite some points their report setting are not quite right.
+Please take a look at the attached, if it is a report you are responsible, make sure the settings are right so we don't see error in the log.
+Thanks, I'll try to write short email next time.
+
+@subject
+Log and others

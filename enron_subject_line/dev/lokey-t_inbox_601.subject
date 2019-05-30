@@ -1,0 +1,21 @@
+The following items were presented in this week's corporate change control....  Dec. 14		 From 8:00 a.m. - 5:00 p.m., the EDI team will install and upgrade Oracle to version 8.1.7 on EDI_QA.
+This change will result in a total disruption of service to the EDI_QA environment.
+Dec. 14		 From 10:00 - 11:00 p.m., Enron Network Services will clean up routing between ecn-34-prd-dcr7/8 and ecn-34-trd-dcr1/2 which are part of the old ECT networks.
+No impact to the ETS users is expected.
+Dec. 14		 From 10:30 p.m. through 12/15 at 2:00 a.m., Enron Network Services will remove routing from the 192.168.73.x interfaces on ENA-CR1-ARD and ENA-CR2-ARD.
+This change will result in an intermittent disruption of service to devices on the ETS Ardmore networks.
+This change will not affect devices on the 10.0.0.0 segment.
+The outage is expected to last for less than two minutes.
+This change is necessary to fully implement the new MAN.
+
+@subject
+ETS and Corporate Change Control
+
+@ann0
+this week's corporate change control meeting minutes
+
+@ann1
+network outage expected dec 14
+
+@ann2
+corporate change control action items

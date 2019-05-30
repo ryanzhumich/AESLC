@@ -1,0 +1,12 @@
+market_relations@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:   Dear Market Participants:  The NYISO is pleased to inform you about the following enhancements to the NYISO web server, MIS, SPIDER, Real-Time system and AutoSys that will be implemented on September 25, 2001.
+A new pilot application will be deployed between the NYISO and ISO-New    England to help automate the exchange of inter-regional transaction    schedules.
+Operations groups at both sites will receive automated    transfer of transaction data to facilitate the hourly transaction    checkout process.
+The NYISO web infrastructure will be enhanced through the implementation    of BEA's WebLogic product.
+The new application server will be the    platform utilized by the MIS to provide bidding and scheduling    capability to Internet customers.
+The new software replaces the    NetDynamics product, will provide the same functionality, and will be a    more robust and reliable development platform for future enhancements.
+New data postings will be made available on the web site to provide    real-time internal transmission limits and flows, as well as    transmission line scheduled and actual outages.
+This posting is part of    the collection of data requests made by the Business Issues Committee    (BIC) in September 2000.
+A new Upload / Download template will be created that will enable Market    Participants to get access to generator adjusted megawatt data (current    and historic billing data).
+
+@subject
+NYISO - Software Release for September 25

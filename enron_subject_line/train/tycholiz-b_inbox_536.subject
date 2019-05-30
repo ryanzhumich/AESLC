@@ -1,0 +1,8 @@
+Barry and Kim,  Attached is my first go at our European option model.
+It is capable of valuing monthly physical or financial calls/puts.
+I've tried to make it user friendly by using a similar format as we are using for our swap/spread models.
+Please let me know if you like its functionality, and provide me some input on how you might want to fiddle with it when doing real time pricing.
+Phil
+
+@subject
+Euro Option 11-2-01.xls

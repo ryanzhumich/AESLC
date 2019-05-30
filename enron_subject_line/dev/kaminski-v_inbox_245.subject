@@ -1,0 +1,18 @@
+Estimation of Bankruptcy Probabilities Using Bayesian Approach  Yongdai Kim and Gunhee Lee Department of Statistics, Hankuk University of Foreign Studies, Yongin, Korea College of Business Administration, Sogang University, Seoul, Korea  Abstract Bankruptcy probabilities of private companies are estimated via Bayesian approach.
+The proportional hazard models are used with time to bankruptcy as a dependent variable.
+Several financial ratios are included as independent variables.
+MCMC algorithm is used to obtain the posterior distribution.
+Finally, bankruptcy probabilities of companies are predicted using the predictive probabilities.
+Keywords: Proportional Hazard Model, Bayesian analysis, Markov Chain Monte Carlo, bankruptcy prediction model.
+
+@subject
+Estimation of Bankruptcy Probabilities Using Bayesian Approach
+
+@ann0
+bayesian approach to bankruptcy probabilities
+
+@ann1
+proportional hazard model details
+
+@ann2
+bankruptcy probability estimation

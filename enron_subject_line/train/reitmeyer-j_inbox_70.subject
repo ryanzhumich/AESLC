@@ -1,0 +1,7 @@
+Jay,   Changes have been made in the westsummary code, so that it can take parameters (report id) I have created two report id's 1- north (all the existing group), 2 - south (nothing now, you need add) You can run as before: O:\Fundy_Ops\IT\Report\West Summary\EXE\JayWS.exe 1.
+One thing to notice is that if you want to split the existing report to two, besides change the report id on the group table, ,make sure you do the it right on the FORMULA  table, I mean, don't reference points on the other report.
+Let me know if you have questions.
+Yan x33228
+
+@subject
+west summary

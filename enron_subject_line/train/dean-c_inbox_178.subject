@@ -1,0 +1,9 @@
+FYI -  I've had a few requests for changes to and enhancements of the EOL Download sheet.
+Dan Maxwell - of the 4th floor IT group - sent me those changes today.
+The download now allows you to sort by delivery point, or by hour, and has an added "refresh" feature.
+The date has also been reformatted to fit into our inc sheets (two digit instead of four digit year).
+Most importantly, the query now pulls in inter-desk swaps done on EOL.
+The new EOL download is saved in p://real time/increment/windows 2000/NEW EOL DOWNLOAD  The sheet is still very basic and self-explanatory, so if you have anything to add, or questions about how to use it, please let me know.
+
+@subject
+New EOL Download - PLEASE READ

@@ -1,0 +1,11 @@
+Kam, John, we found a few book_id name issues while trying to batch-load the books.
+We were able to figure out the issues ourselves, but for your reference here are the changes we made:   FB-EXECUTIVE	M	F	P	FIN	US FINANCIAL                  	ERMS	emglaugh	 FB-EXECUTIVE	M	F	D	FIN	US FINANCIAL                  	ERMS	emglaugh	 FB-EXECUTIVE	M	F	I	FIN	US FINANCIAL                  	ERMS	emglaugh	 FB-EXECUTIVE	M	F	M	FIN	US FINANCIAL                  	ERMS	emglaugh	 FB-EXECUTIVE	M	F	Y	FIN	US FINANCIAL                  	ERMS	emglaugh	  Note all 5 books were labeled as 'FB-EXECUTIVE'.
+We instead named them  FB-EXECUTIVE-PRC FB-EXECUTIVE-BAS FB-EXECUTIVE-IDX FB-EXECUTIVE-GDM FB-EXECUTIVE-GDY  Also, we found these two books that had the same book ID:  FB-WEST1-GDM	M	F	M	WEST1	US GAS WEST	ERMS	plove	  FB-WEST1-GDM	M	F	M	WEST10	US GAS WEST	ERMS	plove	  Note that the second book should be named 'FB-WEST10-GDM', based on the WEST10 Region Code.
+We fixed that one as well.
+Please update your spreadsheet, and let us know if we need to discuss in the morning.
+The next step is the hierarchy, which we should receive from Stephanie or Debbie in the morning.
+Thanks.
+Andrew x57534
+
+@subject
+Gas Books - found some small duplicates in the spreadsheet

@@ -1,0 +1,11 @@
+Cathy, I want to recap our conversation yesterday because, after I thought about it, I still do not  understand the issue with 20Q and its PRM:    A credit reserve was set up for bad debts for $5,577,900 and credited to account 25100300 Prudency Reserve.
+It is my understanding that this was the only way to book this transaction.
+But I do not understand why this was booked in a PRM account and not booked to the Allowance for Bad Debts account.
+Also, when I reduce the 25100300 account balance by the $5,577,900 that was booked there, my difference doubles to $11,155,800 (see attached spreadsheet).
+So was account 25100300 originally credited or debited by the $5,577,900?
+If it was originally debited and I remove that debit, then the PRM will roll.
+Also, will there be anyway to move this transaction out of the PRM accounts in order to effectively roll these accounts every month?
+Thanks for your help.
+
+@subject
+20Q's PRM

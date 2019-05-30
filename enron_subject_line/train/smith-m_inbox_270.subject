@@ -1,0 +1,8 @@
+It appears that the wrong service was stopped last night...a request to stop/restart the real-time weather service also seems to have resulted in the stopping of the Jaguar harvester.
+This caused no scrape jobs to run last night.
+This morning the service has been restarted, and data has been recovered.
+This should be examined closely, as there is the possibility that information is the same for cycles 1 and 2 of certain pipes (this may or may not be an issue...if it is, please advise us on what should be done).
+Thanks,
+
+@subject
+Harvesting Issues (06/05/2001)

@@ -1,0 +1,24 @@
+The following items were presented in this week's corporate change control....  Feb. 13 From 5:00 p.m.  through 2/14 at 6:00 a.m., the Envision team will perform hardware maintenance on the Envision system.
+This outage will affect corporate-wide applications accessing the Envision web query, FileNet Panagon IDM Desktop, FileNet IDM for R3, Panagon Capture professional.
+Users will be able to access IBuyit and IPayit from SAP but will not be able to view invoices.
+Feb. 14	 At 12:00 noon, Enron Network Services will disable advertisement of the 172.29.0.0 networks on the OmahaCisco router.
+This is to prevent unwanted traffic from routing through Northern Border.
+No impact is expected.
+Feb. 15 Beginning today, the Application Scripting team will modify the script for Instant messanger to allow parameters.
+No impact is expected.
+Feb. 15 From 10:30 - 11:00 p.m., Enron Network Services will fail over Internet traffic to the primary firewall.
+This change will result in a 10-15 second outage for Internet traffic and access to servers on the 192.189.171.0 and 65.201.84.0 DMZ segments.
+This change will be coordinated with HotTap and will not take place until processing is completed.
+Support staff with application servers on the DMZ should plan on testing their applications after this change.
+
+@subject
+ETS and Corporate Change Control
+
+@ann0
+this week's scheduled outages
+
+@ann1
+details on corporate applications maintenance feb 13, 14, 15th
+
+@ann2
+corporate change control

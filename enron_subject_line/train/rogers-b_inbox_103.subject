@@ -1,0 +1,23 @@
+Dear Market Participant,  In the interest of not flooding the webmaster with constant changes (new PTIDs or new participant names) to the UCAP forms (Certification, Bid Forms, and Offer Forms), I will be updating the forms about once per month.
+Since you will need a methodology to work around missing information, the new forms have codes that will allow you to enter undefined PTIDs and undefined new participants.
+PTID number 999999 is used for a resource that has not been assigned a number.
+NewLSE is used for a new Load Serving Entity that has not been assigned a "Registrant Name" NewSuppl is used for a new Supplier that has not been assigned a "Registrant Name"  NOTE that if you use any of the above, you must describe your intentions in the comments cell of the form being submitted.
+Other Changes  ISOSu is the prefix for sales or purchases that occurred as a result of NYISO transactions during the supplemental process.
+The supplemental process is implemented when there is insufficient UCAP available within a location and the NYISO must purchase UCAP from outside the location where the shortage has occurred to meet the NYCA reliability requirements.
+PTID numbers to be used when identifying UCAP purchased through the NYISO auction have been assigned.
+The PTID numbers range from 1 to 38 and are related to auctions or the supplemental processes.
+For example, a participant who is selling UCAP that was previously purchased in the summer strip auction would enter PTID number 1 on the Offer form when selling into a subsequent ISO auction.
+A list of PTID numbers is now available on the instruction page of the auction Offer forms.
+Reminder  When identifying an ISO auction, please remember that you must think in terms of the procurement period for the first auction month when the transaction took place.
+For example, on May 15 (the auction for the upcoming months of June through October) 3MW were transacted for the months of June and August.
+The auction reference that you will use for both the June and August transactions are ISOMoJun.
+The same auction reference would be used if on May 15, the transactions were for August and September.
+When completing the Certification Form, do not net transactions.
+Lets say that you are awarded 25 MW from the Strip Auction and later move (purchase or sell) 5 MW through a bilateral.
+Your entries on the form would show the 25 MW strip auction transaction on one line and your second line would show the 5 MW bilateral transaction.
+You can not use a value of 20MW on one line.
+Each and Every Month you must submit your certification form.
+Regards,
+
+@subject
+ICAP/UCAP  forms

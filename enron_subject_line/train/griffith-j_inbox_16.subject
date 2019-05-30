@@ -1,0 +1,11 @@
+I finished a spreadsheet for calculating historical correlations on forward curves.
+It gives the correlation matrix for contracts going out an arbritary number of months out.
+I think it might be a handy tool for some of you.
+You may get that on O:\RESEARCH\CUSTOM\CORRELMATRIX\  It demands that you have access to our EGSPROD32 database.
+You must have that configured in your ODBC.
+It is a large spreadsheet, so it may take some computing resorces.
+Let me know if you find any problem.
+Thanks.
+
+@subject
+Historical Correlation Calculator

@@ -1,0 +1,41 @@
+Please find below the GTV weekly project status update and the attached file for the updated project time lines.
+GTV status meeting attendees:  Zhiyong Wei, Russ Severson, Jeremy Wong, Francis Lim, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish, Mike Swaim, Nayan Dattani, George Grant, Dave Nommensen, Narasim Kasaru, Dat Truong.
+Accomplishments: ?
+Incorporating physical deal positions in TDS: o	Changes for the view aggregation have been completed.
+o	Expandable Total in Cash Position has been completed.
+?
+Single point of deal entry for term deals: o	Phase 1 of single point of deal entry for term deals is in user test.
+?
+Gas Daily deals: o	Revisions for changes to PortCalc application to create GDI calc in ERMS have been worked on, and are in user test.
+o	Curve shift reports are under development and will be completed this week.
+?
+Live feeds for Gas Daily/intra-month curves: o	Released to production.
+?
+Option Grid (phase 2): o	Released to production.
+?
+Gas Daily options (phase 2): o	Changes to PortCalc application have been completed and in user test.
+o	The Option Delta Change Forward Month report has been completed and in user test.
+?
+Basis Options (phase 2): o	Development of deal entry type for Basis Options has been completed in TAGG.
+o	Development of loading correlation curves has been completed.
+Plans for the week ending 6/8/01: ?
+Continue IT development of Phase I items.
+o	Changes to curve shift report for GDI Calc.
+o	Change CPR PortCalc to value outer month positions.
+?
+Continue IT development of Phase II issues.
+Issues / Open Items: None  Notes ?
+PortCalc changes for Gas Daily and CPR deals have been taking longer than originally estimated due to new items and complexities uncovered during development.
+?
+The user acceptance test for Cash Position in TDS has been held up by the PortCalc changes.
+?
+For phase 1 Single Point of Deal Entry for Term Deals, the user acceptance test uncovered some additional work needed.
+The team has been working closely with Geof, Chuck, Russ and George to provide the needed functionalities.
+?
+The user has been testing the changes for Gas Daily Options (Phase 2) for the last few weeks.
+IT development was completed a few weeks ago.
+No new changes have been requested.
+Thanks
+
+@subject
+GTV weekly project status update

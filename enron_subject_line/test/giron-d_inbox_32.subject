@@ -1,0 +1,17 @@
+The curve files for Netco will need to be modified before they are used in the new environment.
+1)   On the Publish tab in the Curve File sheet.
+Change the environment name on the 5th row to ermtp Change the service name on the 5th row to 7525 Change the Network Address on the 5th row to ;239.44.16.1;       2) Then hit the   button on the publish sheet and save the new file.
+If the sheet does not have the button, just save the file, close it, and bring it back up.
+3)	Save your curves as normal  4)	Any questions or problems, please give me a call
+
+@subject
+Updating Curve Files for Netco Environment
+
+@ann0
+netco curve files
+
+@ann1
+modify of curve files needed
+
+@ann2
+netco curve files modification requirements

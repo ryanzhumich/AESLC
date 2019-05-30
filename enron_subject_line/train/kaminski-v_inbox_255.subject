@@ -1,0 +1,8 @@
+Eugenio,  As a follow-up to our meeting yesterday, a series of evaluations was conducted on the housing starts data to insure that the time series response variable was stationary (recall our brief discussion of results based on non-stationary time series).
+Dickey-Fuller and Augmented Dickey-Fuller (accounting for autocorrelation in the error term) unit root tests were used in the evaluation process.
+Given the limited number of observations for  certain potentially important explanatory variables (e.g., %population change, etc.
+), we tested the housing starts variable over 3 historical periods.
+The results are provided below:  Period 1:  1959 through 2001 (obs=503)  TEST		TEST STATISTIC		CRITICAL VALUE (p=0.05)      DF			-6.712				-1.95
+
+@subject
+Housing Data and Stationarity

@@ -1,0 +1,18 @@
+Are there any other files/directories that the estate people in risk will need to use to do their jobs.
+IT will have to go into each macro and change the database that it is using to the new one they are creating this weekend.
+I don't know if any of you are still using any exotic spreadsheets other than the transport model.
+Please let me know if there is anything I'm missing.
+(curve files)  Here are the files that use ERMS that the estate will be using.
+O:\erms\erms_adm\firmtrad\Benchmark\2002\Jan-02 O:\erms\erms_adm\firmtrad\2002\0102\regions O:\erms\Excel Queries\ (Netco will need a copy of these files moved with them) O:\Transport\Central Transport\2002\Jan02 O:\TDS\TDS Curve\Central O:\TDS\TDS Curve\East O:\TDS\TDS Curve\GD-Central O:\TDS\TDS Curve\Central\NY O:\TDS\TDS Curve\Central\NYMarket O:\TDS\TDS Curve\Central\Southeast O:\TDS\TDS Curve\Central\Texas O:\TDS\TDS Curve\Central\West
+
+@subject
+estate files
+
+@ann0
+additional files/directories for database creation
+
+@ann1
+files/directories estate people may need
+
+@ann2
+needed files

@@ -1,0 +1,36 @@
+You have an electronic contract awaiting your review and execution.
+Use the Execute Electronic Contracts screen to print and electronically execute a Request(s) for service                        To Print/Execute Electronic Contracts:   1.
+Click on the Contracts folder        2.
+Select the Execute Electronic K from the Contract Administration Drop Down menu                                                                           3.
+Select the service requester from the Service Requester drop down menu 4.
+Choose the print option of either View Later or E-mail.
+4a.
+If View Later is selected then the contract can be printed from the Utility      folder: View Report Selection  4b.
+If Email is selected then the contract will be emailed to the address        displayed in the Email Address Field.
+This field will default to the email      address currently associated with the Navigator Id that is currently logged      on the system.
+You may change the designation of where the contract is       to be sent by typing in a different email address                       5.
+Click on Retrieve                    6.
+To print a contract, place a check in the Print Contract select box beside the Bid/Request No.
+that you want to print                                     7.
+To execute your contract, place a check in the Execute select box beside the Bid/Request No.
+that you want to execute.
+Note: It is strongly recommended that you print your contract prior to execution.
+You can select the print option independent of the execution option; that way you may review the printed contract then if the terms were agreeable, return to this screen to execute the contract                                                                        8.
+Click on Submit.
+8a.
+After the contract is executed the screen will display the contract            number assigned and the date it was executed                               8b.
+The executed contract information will be displayed on the screen for one      full day following the date it was executed                                Note only those Navigator Ids with execution authority may electronically execute a contract.
+The contract must be executed before the "Execute by Date" expires.
+This document was created by TCOAPPS  in the DB2P subsystem in job IPAT0100, job number 06903, program AT12000
+
+@subject
+Columbia Contract Awaiting Your Execution
+
+@ann0
+contact review and execution needed
+
+@ann1
+electronic contract ready for submission
+
+@ann2
+review electronic contarct

@@ -1,0 +1,17 @@
+John,   I found the error.
+It was a small logic error.
+You can easily fix the problem if you go into the visual basic editor for the blotter file.
+In the editor, you will see several modules listed on the left of the screen under the file.
+You will need to edit the "Main_Query" module.
+Once in the "Main_Query" module, you will need to search for the routine named "VerifyManualInputs".
+The actual start of the routine looks like this:   Function VerifyManualInputs(FromDate As String, ToDate As String, PutCall As String, Lots As String, Strike As String, Price As String, CParty As String, sType As String) As Boolean    Within this routine, about 15-20 lines down, you should see the following two lines :     If (isdate(FromDate) And isdate(ToDate)) Then     If (ToDate < FromDate) Then   You need to change the second line to :          If (CDate(ToDate) < CDate(FromDate)) Then   This should fix the problem.
+The intent of the line is to prevent the "To Date" of a deal from being earlier than the "From Date".
+In the original line of code, it does a TEXT based compare (like comparing is "ABC" < "DEF") instead of comparing the two values as DATES.
+The modification I've laid out converts the from and to dates to date values before comparing.
+I have tested the fix here and it should work fine.
+I hope everything runs smooth for you next week.
+Have a good Thanksgiving.
+Greg
+
+@subject
+Small logic error

@@ -1,0 +1,13 @@
+Molly set up the following tickets to capture our CGAS storage transactions.
+This is how it will work,  Deal #  Comment 268093  CES Exchange Buy - use when storage injections are less than the  proxy volume 268090  CES Exchange Sell - use when storage injections are greater than the  proxy volume 268094  CES Sell - this is the proxy storage injection ticket.
+The volume  should not change.
+The daily proxy volume for the month of May is 35,133.
+When we inject  35,133, the transport we use to fill storage will be the supply for deal  268094.
+When we overinject like we did for the 1st - 4th, 35,133 of the  transport will be matched with deal 268094 and the balance of the transport  will be matched against deal 268090.
+When we underinject, we will use deal  268093 as the supply for deal 268094.
+This may seem a little confusing.
+Please call me if you still have questions.
+Thanks
+
+@subject
+CES Storage

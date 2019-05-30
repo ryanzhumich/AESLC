@@ -1,0 +1,11 @@
+We'd like to create a daily and monthly trade volume report, similar to the  EOL Report we currently use to track both online and brokered trades done in  the Portland office each day.
+The EOL JF tab seems to track the same data we  need for a daily volume report; however, it does not display the data in the  form we need.
+Under the "Sort By" heading at the bottom of the report, there are two  choices - "Deal #" and "Desk."
+As I run it now, the report displays megawatt  volumes and total deals according to desk.
+We now need to display the data  according to delivery point.
+Please call Cara Semperger or myself when you get a moment, and we can fill  you in on all the parameters she's looking for in this report.
+From there I  think it should be a pretty simple modification of the query.
+Thanks in advance for your help on this.
+
+@subject
+Application Request: Volume Report

@@ -1,0 +1,19 @@
+As presently drafted the ETA provides that if a master agreement is in force  covering a particular transaction, the master controls.
+I don't think we  ever adequately resolved the multiple Enron entity issue, though.
+For  example, if a counterparty has an ISDA Master Agreement in place with ENA,  that master agreement could easily cover a trade based on UK gas prices.
+However, it is not the commercial people's intent that the system work that  way.
+They want every trade for a particular product to be with a single  Enron entity (e.g.
+all UK gas transactions are with Enron Europe), regardless  of what master agreements are in place.
+To resolve this I suggest that the  long descriptions be revised to state the Enron trading entity for each  product type (this is already in place for European derivatives) and that the  ETA be revised as follows:  revise the fifth line of paragraph (a) of Section 3 such that Transactions  are governed by the short and long definitions in respect of a product  "...and any master agreement between Counterparty and the Enron entity  trading in such product on the Website which is in effect as of the date of  the execution of such Transaction..."  (underlined text inserted)   I think this will please the commercial and tax people; any thoughts from the  legal side?
+
+@subject
+Revision to Long Descriptions and ETA re: master agreements
+
+@ann0
+eta draft
+
+@ann1
+master agreement controls
+
+@ann2
+multiple enron entity issues

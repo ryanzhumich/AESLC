@@ -1,0 +1,18 @@
+Hi John.
+Here is the spreadsheet.
+A couple of comments/assumptions:  Only trades done after 8/26/01 are considered (bid week started on the 27th in August).
+Only North American physical gas products are considered.
+All numbers are in USD; an assumed conversion of 1.40 CAD/1 USD is used for the Canadian CAD trades.
+For index pricing, an index of 3.00 USD is used.
+Since on Sep 25, only the spot trades done during Aug 27-30 actually roll off, there isn't much of a rolloff on that date.
+There is a much larger rolloff after Oct. 25.
+The first sheet has the summary data.
+Each column represents the net cash we owe a particular customer as of that date.
+If they owe us, the value is set to 0.
+The other two sheets are supporting data.
+Actually, the 1st sheet is just a copy of the second one, but the spreadsheet takes so long to calc, it is easier to play around with the summary page if you remove the dependencies on the third sheet.
+Call me if you have any questions/requests.
+(713/504-7540).
+
+@subject
+Cash analysis spreadsheet

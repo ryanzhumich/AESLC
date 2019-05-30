@@ -1,0 +1,11 @@
+Could you please change the curve mappings on a type of trade for Robyn  Menear.
+THe trade is a GD Index swap for out months.
+THe product type is US  GAS Basis - GD/M Trunk WLA.
+This is currently being mapped to a GDP curve  adn we need it changed to TRUNKL/WLA-GD.
+Robyn sets this curve everyday as a  basis curve.
+Thanks.
+If you have any questions or concerns, please feel  free to shout.
+PL
+
+@subject
+product going to wrong curve

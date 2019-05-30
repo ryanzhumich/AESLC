@@ -1,0 +1,21 @@
+market_relations@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  Dear Market Participants,  The following software updates will become active on October 30, 2001.
+The NYISO web infrastructure will be enhanced through the implementation of BEA's WebLogic product.
+The new application server will be the platform utilized by the MIS to provide bidding and scheduling capability to Internet customers.
+The new software replaces the NetDynamics product, will provide the same functionality, and will be a more robust and reliable development platform for future enhancements.
+Enhancements will be made to the software that generates the Pre-MGF (Master Generator File) file used by transmission owners in the event of a Backup Dispatch System (BDS) activation.
+The enhancements will ensure more accurate operation of the BDS system.
+The NYISO web page will be modified to add a ticker function that displays the real-time load information.
+Multiple preliminary software changes will be made to the MIS, SPIDER, and BAS systems in preparation for the activation of Virtual Bidding in the NYISO energy markets on November 1, 2001.
+Activation of Virtual Bidding is pending approval by the FERC.
+
+@subject
+NYISO - Software Release - October 30, 2001
+
+@ann0
+software updates
+
+@ann1
+software updates
+
+@ann2
+new software enhancements

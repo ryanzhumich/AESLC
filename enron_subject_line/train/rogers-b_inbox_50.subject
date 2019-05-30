@@ -1,0 +1,10 @@
+RBowers@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  This notice is to inform Transmission Customers that the September 20, 2001 OATT Schedule 1 residual adjustments are artificially inflated in the first version of the advisory billing statements.
+A file used in the computation of subzonal loads was not loaded prior to the billing run making it appear as though no load existed in some subzones.
+This  causes all DAM scheduled purchases and bilateral transactions serving load in the affected subzones to be sold back in the Balancing Market.
+This creates an under-collection which is then recovered from the market through the balancing energy, losses, & congestion residuals .
+The 20th will be rerun as soon as price corrections and metered MWh values have been reconciled.
+The NYISO apologizes for any inconvenience caused by this problem.
+Regards,
+
+@subject
+September 20, 2001 Residuals

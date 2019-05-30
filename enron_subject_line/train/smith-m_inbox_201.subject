@@ -1,0 +1,7 @@
+In order to keep the Pipeline Flow database as current as possible, and to help out Catalina and Sachin with the migration of their reports, I have reloaded the IHS_PIPELINE_METER table in the FDYPIPELINEDEV database.
+It now contains data from the April 24, 2001 CD (as given to me by Tara).
+Let me know of any questions/concerns.
+Thanks,
+
+@subject
+IHS Reload

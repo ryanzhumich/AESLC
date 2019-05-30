@@ -1,0 +1,22 @@
+This mail is the third in the series regarding the acceptance of RiskTrac VaR for UK Power.
+Please see the previous 2 days which will provide the history.
+Essentially we have now reached the stage where we can explain the jump in VaR from moving from the VaR spread sheet to RiskTrac based largely on the good work that Fergus Trenholme - London Risk Management and Stig Faltinsen - London Research have done  (it has been a team effort as many others have been called in as appropriate and I would like to thank them too).
+A full analysis is contained in the note from Fergus and Stig below but the key points to note are:  the changing of the input parameters partially explains the difference in the VAR number between the 2 systems but not completely (including the change in factor loadings) the vast majority of the difference in the VAR numbers between the 2 systems is caused by the splitting of the volumetric position into the (primary and secondary) component curves in RiskTrac.
+In RiskTrac PPP is currently set as the primary curve even though 75% of the position is on the station gate curve where as in the spreadsheet the whole position is against the PPP curve  As a result of us now being able to isolate and explain the jump in VaR from moving to RiskTrac we will be reporting this number from now on.
+That said does the VaR number sound right ?
+The numer is theoretically but is the theory close to reality in the Uk Power market ?The RiskTrac calculated $25m VaR is a 1 day VaR and the  methodology would imply it should be broken 1 in 20 business days.
+Based on historical P&Ls this has not been the case and so it does not pass the "sense check".
+(note that the original $13m VaR was only broken once or twice in the last year).
+There are many potential explanations why, but if we think about how the price and volatility curves move they typically only move at the short end (ie only the first 2 years) and the component VarR for this period is in the order of $8m.
+This could therefore imply that the volatilities we are using to calculate the VaR are too high.
+The book undoubtedly contains significant risk but due to market illiquidity more consideration should be given to "jumps" or "shocks".
+The book does posses increased fat tail risk at this lower VaR level which is not  captured in the current VaR calculation.
+Outstanding issues / work  Based on the second bullet point above consideration needs to be given to changing the primary and secondary curve settings as well as the correlations and factor loadings for and between all the curves.
+The impact of any such changes will need to be quantified.
+Fergus and Stig aim to work with Houston research and the business on this over the next few days / week(s) and will be providing a regular update to those on this mail list.
+Additional work needs to done to assess whether the VaR  number  / methodology being calculated / employed by RiskTrac truly represents the expected volatility and performance of the portfolio and truly represents the 1 day earnings risk for 19 out of 20 days.
+It would also be appropriate, given the nature of the market and the term structure of the portfolio, to assess the fat tail risk being run.
+I am away for the next 2 weeks so Fergus and Stig will be sending regular progress updates.
+
+@subject
+PLEASE READ -Analysis of variance between spreadsheet VaR and  RisktRAC VaR for UK Power

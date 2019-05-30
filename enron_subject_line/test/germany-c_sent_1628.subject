@@ -1,0 +1,23 @@
+Linda, Sylvia,  I need you to set up the Transco contracts as outlined  below.
+As agent for CES unless specified otherwise, Firmness = Firm, Service Type =  Transportation-Release   K# K Type  Rate Term    Comment  1.1703 TRANSP FT-R 1 month then evergreen  ENA's .7537 contract  2.1439 TRANSP FTL-R 1 month then evergreen  ENA's 2.2390 contract, we need  to create new Rate Sched  2.7425 TRANSP FTS-R 1 month then evergreen  Special z4 to z4 contract.
+ENA  does not have one like this.
+2.7423 TRANSP FTCH-R  1 month then evergreen ENA's 2.7055, also used for z4  to z4  2.7479 Storage WSR 1 month then evergreen  Washington Storage.
+2.7502 Storage ESR 1 month then evergreen  Eminence Storage     2.1432 TRANSP FT-R 1 month then evergreen  As agent for CEM.
+ENA's .7537  contract.
+We will be billed commodity on the 4 contracts listed above.
+We will be  billed demand on the contracts listed below.
+3.3053 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703  3.3096 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703  3.3039 CAPACI FT-R 1/1/00-  1/31/00   schedule on 1.1703  3.3109 CAPACI FTS-R 1/1/00 - 1/31/00   schedule on 2.7425  3.3085 CAPACI FTCH-R 1/1/00 - 1/31/00   schedule on 2.7423  3.3114 Storage ESR 1/1/00 - 1/31/00   schedule on 2.7502  3.3115 Storage WSR 1/1/00 - 1/31/00   schedule on 2.7479  2.4899 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439  2.7160 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439  2.8607 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439  3.3014 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703   3.3022 CAPACI FT-R 1/1/00 - 1/31/00   CEM capacity.
+schedule on 2.1432  I'm sure I made a few typo's.
+thanks
+
+@subject
+TRCO
+
+@ann0
+transco contracts set-up
+
+@ann1
+transco contracts
+
+@ann2
+transco contract setup instructions

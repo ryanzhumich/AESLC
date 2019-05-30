@@ -1,0 +1,14 @@
+Eric,  This is to update you on the current situation with the OSTRIP function in Exotica.
+After some lengthy analysis of the function, its inputs and the documentation associated with it, it was brought to our attention in the Research Group that the OSTRIP function was being utilized in different manners by different people within Enron.
+In order to remedy this situation, the documentation of Exotica was revised and more details were added, so as to make explicitly clear the distinctions between the fixed price options and forward start options.
+(You will find attached a copy of the most recent version of the Exotica documentation.)
+In addition to discussions with Santiago Garcia in structuring, it was seen to be important to ensure that those responsible for booking the options in ERMS (specifically, Jeremy Wong) be updated on the changes.
+By pure coincidence, the two ways that inputs were made for fixed price options gave the same values for the premiums.
+However, one methodology is really incorrect as far as the documentation is concerned, and the attempt has been made to rectify this.
+The forward start option pricing has not changed in any way.
+I would like to arrange a meeting tomorrow afternoon (Thursday) between all those parties concerned to ensure uniformity of pricing across the board.
+If you are available, I would appreciate it if we could meet at around 4:00 PM.
+Regards,
+
+@subject
+OSTRIP Function in Exotica

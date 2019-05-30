@@ -1,0 +1,6 @@
+We received performance figures from our DBA for the new server.
+The numbers indicate processes on the server were outstripping physical RAM memory -- which can cause the server to slow down.
+In answer to
+
+@subject
+Report Performance

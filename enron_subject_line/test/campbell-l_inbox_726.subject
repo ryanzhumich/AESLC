@@ -1,0 +1,19 @@
+CKing@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  Joe, Don,  As Joe indicated in his TIE response, voltage limits and voltage-collapse limits are studied off-line using detailed AC power-flow techniques.
+The resulting limits (in kV) are translated into a MW transfer limit  for the flowgates affected by the original voltage limit.
+To the extent that these surrogate limits reflect the expected voltage performance of the system, then SCUC/BME and SCD will secure the system accordingly.
+These rely on DC powerflow techniques, which by their nature are Blind to voltage problems.
+When this occurs, OOM is one tool that can be used to secure the system.
+When the realtime operation deviates from the conditions assumed in the analysis used to determine the voltage limits, the use of OOM and/or other measures may need to taken by the Operators to secure the system  I hope this clarifys the situation.
+Chuck
+
+@subject
+Voltage Limits
+
+@ann0
+clarification to oom tool which can be used to secure the system
+
+@ann1
+security of the voltage system
+
+@ann2
+tie response

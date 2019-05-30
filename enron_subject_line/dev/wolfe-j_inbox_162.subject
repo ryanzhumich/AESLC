@@ -1,0 +1,20 @@
+We will be implementing an additional confirm process going forward.
+All broker deals will be booked by Risk and placed in TAGG to generate a confirmation.
+Before the confirmation is sent to the counterparty, the Enron trader will sign off on the confirm.
+All broker deals will be handled this way.
+Please generate a new daily summary report of all broker deals by trader in the west region.
+This will allow me to verify if the new process is being handled properly.
+Anne, please communicate this to your group.
+Thanks,
+
+@subject
+Confirmation Process
+
+@ann0
+new risk broker deal protocol
+
+@ann1
+additional confirmation/summary implementation
+
+@ann2
+new additional confirm process

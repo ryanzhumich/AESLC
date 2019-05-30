@@ -1,0 +1,23 @@
+All,  I have modified Deal Liquidation as follows (new version in stage).
+1.)
+You can now query based on counterparty and phys/fin in addition to specifying a deal number 2.)
+You no longer need to provide the leg of the deal.
+Specifying the peer will grab all of the legs.
+3.)
+The new splitting process will work as follows.
+If the entire deal is prior to the termination date (inclusive), then nothing is done to the deal.
+If the entire deal is after the termination date (exclusive), then the desk is simply changed to East Bank or West Bank.
+If the deal crosses the termination date boundary, the deal is copied as follows: For the original deal: All legs prior to the termination date (inclusive) are not changed.
+All legs after the termination date (exclusive) are killed.
+All legs crossing over the termination date are truncated.
+This includes deleting strips starting after the date and truncating strips that cross over the date.
+For the new deal:  This deal will be in one of the Bankruptcy books All legs prior to the termination date (inclusive) are not copied.
+All legs after the termination date (exclusive) are copied as is - no strips are changed.
+Any legs crossing over the termination date are copied and modified to reside solely after the date.
+This includes deleting strips that end prior to the date and modifying strips that cross over the date.
+These changes should allow you to perform all of the tasks necessary to close out deals with any counterparty.
+Please test and let me know if there are any problems.
+Regards,
+
+@subject
+Deal Liquidation

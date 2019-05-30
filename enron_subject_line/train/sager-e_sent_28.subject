@@ -1,0 +1,16 @@
+EPMI is entering into more and more transactions that are settled against a  floating, published index price.
+Our physical contract does not currently  provide for what happens if the published source is not available or is  otherwise materially changed.
+Under ISDA for financial trading,  this is  addressed as a Market Disruption Event (MDE).
+Under ENA's standard contract  for financial trading, there is included as a MDE "the imposition of trading  limits on the range within which the price of the commodity may fluctuate".
+What this may mean is that if a cap is imposed on power prices, then in lieu  of using the capped price to determine the floating price, you would be  required (under ISDA) to eventually get brokers to determine what the price  would have been without the cap.
+I want to add language to our physical contracts that addresses material  changes/disappearance of the published prices that would mirror the financial  trading terms and doubt whether we would want to make the imposition of a cap  on power prices a MDE.
+If you treat the imposition of a cap (say in CA of  prices to $500 or in NEPOOL to $1,000) as a MDE, then we would be required to  secure quotes as to what the price would have been without the cap each time  that a pricing date trades at the cap level.
+This only seems fraught with  litigation risk to me.
+Alternatively, if caps are not deemed a MDE, then you  would always settle against the published prices, even if they are  "artificially" determined after the trade was entered into.
+While caps are  not appealing, I think it would be better to not have the imposition of caps  be considered a MDE.
+I have spoken with the financial trading group and they  will follow our lead on this.
+So, depending upon what you both think, we  will make sure that financial and physical power are treated the same on this  issue.
+Thanks for your thoughts.
+
+@subject
+Index Transactions

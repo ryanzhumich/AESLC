@@ -1,0 +1,14 @@
+Cooper:  My efforts to install the precompiled version of Freeciv on sunone are stalled, but the Windows-only version seems to work well too.
+The Sun probably is more capable of standalone, unattended operation, but I don't want to build the whole package from source.
+Yet.
+All versions of network Civilization are at www.freeciv.org.
+Download the precompiled binaries, unpack to the directory of your choice, and launch the executables.
+If you want to play by yourself, you have to launch the server and then the client.
+To play with others, you can run the server on any machine, with all others requiring only the client.
+There are also the metaservers, although server loads vary widely by time of day and week.
+I've been running the server on my notebook at 172.17.172.131, but I'm not sure how to set the server to automatically admit new players while a game's in progress.
+I know that it can be done, because the metaservers are usually configured that way.
+Let me know when you've got things installed.
+
+@subject
+Freeciv

@@ -1,0 +1,14 @@
+David,  Here's the information for the Portland database:  Machine name:  napdx-sql1 user id:  gasintranet password:  fundamentals  The Access database I created is located at:  O:\\fundy_ops\west  desk\generation database\power_link_database.mdb  The qry_curtailments is the query i'm currently using (although it only has  fields for today and yesterday, and i think i need more).
+The tables for the  query are dbo_LkpOUT_PlantCharacteristics and dbo_LkpOUT_PlantOutage.
+In general, I think I need two tables.
+One needs to show each plant and the  other needs to summarize the outages by region and fuel type (both in the  Plant table).
+I don't really have a query that prepares the data for the  summary table.
+the other two queries in the Access database are a start.
+The attached Excel file has two sheets with what I would ideally like the  report to look like.
+It might be good to group the first table by region and  then fuel type as well.
+When you have a chance to look this stuff over, I'd  be happy to discuss it further.
+Thanks.
+Mat
+
+@subject
+Portland Database

@@ -1,0 +1,8 @@
+As we move forward with CPs we need to know weather there is 1-way or 2-way termination payment methodology in the contract.
+(Plan is to add a column to our spreadsheet to track this.)
+You have mentioned that almost all CPs are 2-way.
+What is the best approach to determining which CPs are 1-way versus 2-way?
+Additionally, there is other data we need to complete our spreadsheet, such as: Contract type (ISDA, GTC, other) Global contract number What are your thoughts on getting this information?
+
+@subject
+CP Contract Information

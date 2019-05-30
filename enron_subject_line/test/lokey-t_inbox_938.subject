@@ -1,0 +1,22 @@
+The following items were presented in this week's corporate change control....  Feb. 2 From 6:00 - 9:00 a.m., the Envision team will re-index the databases.
+This outage will affect corporate-wide applications accessing the Envision web query, FileNet Panagon IDM Desktop, FileNet IDM for R3, Panagon Capture professional.
+Users will be able to access IBuyit and IPayit from SAP but will not be able to view invoices.
+Feb. 16 From 10:30 - 11:30 p.m., the Omaha Infrastructure team will reconfigure the power connections for the Omaha Inverse MUX.
+This change will result in a total disruption of IP communication between Omaha and Houston.
+The outage should only last for a few minutes.
+The maintenance time will be coordinated with the HotTap helpdesk to ensure processing has been completed.
+All support staff whose applications are affected by this outage should communicate this change to their customers.
+Please ensure they are aware of the possibility of an extended outage in the event the Inverse MUX does not properly re-establish communications.
+LAT and DecNet communications for gas control will not be affected by this maintenance.
+
+@subject
+ETS and  Corporate Change Control
+
+@ann0
+scheduled maintenance to affect corporate databases
+
+@ann1
+items presented at corporate change control
+
+@ann2
+summary of corporate change control feb 2

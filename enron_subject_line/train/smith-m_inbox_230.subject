@@ -1,0 +1,14 @@
+Just as a heads up...
+The web site that serves data for Kinder Morgan, Transcolorado, NGPL, etc.
+is having issues as I write this.
+The following message comes up when trying to receive point data:  An error occurred while executing the page.
+Please use the "Back" button on your browser to try again, or try again at a later time.
+If the problem persists, please contact ApplicationName Support (user@kne.com).
+The error message is: [INTERSOLV][ODBC SQL Server driver][SQL Server]ct_results(): user api layer: internal Client Library error: Read from the server has timed out.
+Basically, this means their server currently has issues.
+I just wanted to send this out as a heads up that we could potentially miss some cycle information for the morning reports.
+Hopefully, the site will stabilize before then.
+Thanks,
+
+@subject
+KNE web site problems

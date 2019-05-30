@@ -1,0 +1,28 @@
+Ted,  We have the first running version of VaR model for the MG positions.
+Many  thanks to Tanya and Anjam for taking lead in this effort.
+We had also great help from Cantekin and Kirstee.
+We want to  validate some  inputs before releasing the number.
+Specifically, I want to make sure that both  London and Houston work with the same position numbers every day to avoid confusion.
+A few comments.
+1.
+We plan to set up the models to run VaR concurrently in Houston  (Cantekin)  and London (Kirstee) with the same inputs.
+The reason to do it this way is that we may have to respond quickly to  multiple inquiries in both locations.
+(Cantekin and Kirstee, please stay in touch and synchronize the inputs ).
+2.
+It is critical that we run the model daily and receive the updated  positions and prices on a regular basis.
+3.
+We shall continue work in Houston to improve the model.
+Two critical areas:   a. VaR model, by its nature, does not capture one big risk MG has in its  portfolios.
+This is the liquidity risk        resulting from different cash consequences of the hedges and the  underlying positions.
+b.
+We should go through due diligence to validate the process generating  the position numbers (i.e.
+look                       into the details of specific transactions).
+From what  I know, MG has a fairly rudimentary risk        management system and I am not quite sure how they generate option  prices (and deltas).
+They get some                       option prices by calling brokers.
+4.
+I think the current VaR is within 80-85% of the true number (assuming the  inputs are right).
+But, as I have said,      VaR does not capture all the risks that we have to worry about.
+Vince
+
+@subject
+MG VaR

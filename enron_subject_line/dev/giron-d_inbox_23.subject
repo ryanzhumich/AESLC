@@ -1,0 +1,20 @@
+Dawn has given us until noon Wednesday to get them the final list of EOL products and book mappings.
+I know with the trader changes last Friday these will change again.
+The traders had a meeting this morning going over their curves, and it sounds like they are moving some curves between regions and might possibly be losing some locations.
+Since we will be testing everything on Thursday, we need to have our curve files ready to load on Wednesday to give a prior day curve for portcalc.
+The west traders are looking at theirs now, can you guys check with your traders and see if they need any changes made to the files, and let them change any links?
+We also need to create a curve file that the traders can get to, but doesn't give them access to any of our other files, so the current location will not be the final.
+We can create this tomorrow once we have converted over to UBS.
+Thanks
+
+@subject
+updates
+
+@ann0
+curve files need to be ready to load on wednesday
+
+@ann1
+curve files preparation
+
+@ann2
+trade files

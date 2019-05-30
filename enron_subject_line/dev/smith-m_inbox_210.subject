@@ -1,0 +1,22 @@
+We appeared to have some problems with a couple of web sites on Saturday evening / Sunday afternoon.
+Unfortunately, I was not home at that time to be able to reset them.
+Upon returning home this evening (Sunday), I took a look and the following cycles did not get scraped:  05/19/2001 Kern, Cycles 2 & 4 Transco Cycle 2  05/20/2001 KM (Points R & D, Segments) Cycle 2 Transcolorado (R & D, Segments) Cycle 2 Kern, Cycle 3 Northwest, Cycle 6  I have reset all of the jobs...unfortunately, I suspect there is data loss for the above cycles.
+One of our "old friends", the 1line Williams site, is definately the cause for the Northwest, Kern and Transco misses.
+This site still appears to be having problems, so it should be checked for the next couple of days.
+When trying to go to it tonight, I received various errors, and the general site layout appeared different since the last time I looked (this means they could potentially change the layout of the page we get data from as well).
+As I write this, "capture" jobs for Kern, Northwest, and Transco are failing due to "Internal Server Errors".
+Hopefully, this is a short-term problem, and these sites will stabilize soon.
+The bright side of this story is that the Jaguar system did exactly what it was supposed to do when these problems occur...it retried until the job attempts seemed fruitless, then it sent pages to report the problems.
+Chris
+
+@subject
+Harvesting Issues on 05/19/2001
+
+@ann0
+problems with website
+
+@ann1
+website problems over weekend, details included
+
+@ann2
+issues with some websites

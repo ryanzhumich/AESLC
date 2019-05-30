@@ -1,0 +1,42 @@
+ISDA PRESS REPORT - OCTOBER 24, 2001  CREDIT DERIVATIVES 	*	Documentation Into The Future - FOW 	*	The Direction for Derivatives - FOW  Documentation Into The Future FOW - October 2001 By Alessandro Cocco and Joe Kohler  Credit derivatives are instruments used for buying or selling the risk that an obligor defaults on one or more specific obligations.
+In this article, we will examine the foundation stone that underpins the vast majority of credit derivative documentation, the 1999 ISDA Credit Derivatives Definitions, pointing out some of the documentation's key features and where they have already been refined.
+The definitions are a set of contractual provisions that can be incorporated by reference into confirmations relating to credit derivatives that take the form of single name default swaps.
+This allows parties to a transaction to use a short form of confirmation containing only the economic and deal-specific terms relating to that transaction.
+The objective of this structure is to provide market participants with a tool for producing documentation that is sufficiently sophisticated to deal with the majority of issues arising from such transactions, simple enough to facilitate rapid processing, and cost effective.
+The definitions achieve this by codifying market practices, but more importantly, the prospect of their generation helped to focus minds on establishing some of these practices in the first place.
+As with all ISDA documentation, the definitions allow for numerous elections to be made by the parties, and the parties are also free to make whatever amendments or additions they agree by inclusion in the confirmation of appropriate language.
+The definitions also provide for a number of fallbacks to apply in case the parties do not specify otherwise.
+Market participants recognise the particularly important role of documentation in the credit derivatives market.
+As a consequence of the Russian and Asian financial crises, it became clear that in the case of credit derivatives, more than for other derivative transactions, the payment of large sums of money may depend on the interpretation of the wording of a specific clause.
+The 1999 ISDA Credit Derivatives Definitions  Scope The definitions apply to credit default swaps relating to obligations for the payment of money by a reference entity.With appropriate modifications, the definitions can also be used to document credit derivative transactions that refer to baskets of reference entities, or to form the basis of documents relating to funded products.
+In a transaction, the party buying credit risk protection, or buyer, undertakes to pay the seller of protection a predetermined amount.
+In return the seller undertakes to make a payment in favour of the buyer in case the defined credit events occur.
+Credit events serve as indicators of the deterioration of the creditworthiness of the reference entity.
+One of the main characteristics of a credit derivative is that the buyer does not have to suffer a loss as a result of a credit event in order to qualify for the payment from the seller.
+For example, A buys from B the right to receive from B a payment of $10m in case company X is subject to bankruptcy proceedings or does not repay loan Y If company X undergoes bankruptcy proceedings or loan Y is not repaid, a credit event occurs.
+The occurrence of one of these events, in circumstances involving the satisfaction of any other condition to payment that the parties may have specified in the transaction, would give A the right to receive from B the agreed payment, irrespective of whether A had any credit exposure to company X or loan Y.
+This feature is of crucial importance to the determination of the regulatory environment applicable to credit derivatives.
+In the UK if entering into credit derivatives transactions constituted the carrying on of insurance business, there would be a requirement for authorisation under the Insurance Companies Act 1982.
+The fact that a buyer of a credit derivative does not have to hold the obligations in question in order to obtain a payment from the seller means that the credit derivative does not fall within the scope of this legislation.
+This analysis was set out in full in a legal opinion obtained by ISDA in 1997.
+Reference entity It is essential that the reference entity is identified with sufficient precision.
+For example, to what extent are successors or affiliates of an entity to be included?
+This point is particularly important when dealing with a sovereign.What, if any, governmental agencies or authorities should be included within this definition?
+The demerger of National Power last year led to further debate surrounding the definition of successor.
+National Power shifted a large number of obligations to a new company called Innogy.
+Following the demerger, Innogy became a stronger credit than National Power had been beforehand, and National Power, in its new guise, became weaker.
+As a consequence, buyers and sellers of credit protection in relation to National Power had opposing views, from a commercial perspective at least, as to which was the successor.
+ISDA is now looking into further refinements to the concept of successor.
+Credit events The buyer and seller may buy and sell credit risk defined by reference to different types of credit events.
+It is appropriate that both select carefully the type of event on which they wish to trade.
+The definitions offer a menu that comprises (1) failure to pay, (2) acceleration or default, (3) repudiation/moratorium, (4) restructuring (in each case in respect of one of the obligations identified in the confirmation) and (5) the bankruptcy of the reference entity.
+In the case of all but the last of these the parties can choose to implement a type of materiality threshold by agreeing a payment requirement or default requirement that has to be crossed before the credit event is deemed to have occurred.
+The parties may consider the definitions' menu to be in need of amendment or supplement in order to deal with the specific credit risk they wish to trade.
+For example, the bankruptcy credit event focuses on events that corporate obligors could experience and would require tailoring if the Reference Entity were to take some other legal form.
+The definition of restructuring was one of the most controversial provisions in the drafting process that led to the definitions.
+In the forerunner of the definitions, ISDA's 1998 long form of confirmation, restructuring was defined by reference to events that had the effect of making the terms of the relevant obligation materially less favourable from an economic, credit or risk perspective.
+This definition was generally considered to be too subjective, and had given rise to a number of disputes.
+The new definition now refers to more objective criteria, such as a -reduction in the amount of principal
+
+@subject
+ISDA PRESS REPORT - OCTOBER 24, 2001

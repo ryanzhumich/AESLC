@@ -1,0 +1,20 @@
+FYI -  It appears the issue of how to execute inter-desk swaps is still not resolved.
+I've attached the instructional worksheet Bill sent out awhile ago - it is actually a very coherent rendering of the intricacies involved in entering these enigmatic deals.
+(Read: Inter-desk swaps are not real easy to understand.
+This worksheet is.)
+One tip: If STCA is long or short going into the Real Time market, they will have entered a purchase from or sale to the California Imbalance as a sort of "place holder."
+An offsetting purchase or sale will need to be made under the STCA book in order to complete the deal and keep STCA flat.
+If you're feeling ambitious and want to see the direct effects of putting deals in under the wrong book, run a Forward Obligation report (in Enpower Reports under the Risk tab) for the day, desk, and region in question.
+If you did everything correctly, the report should produce nothing but zeroes.
+
+@subject
+Inter-Desk Swaps - HOW TO
+
+@ann0
+inter-desk swaps - need resolution
+
+@ann1
+instructions to fix inter-desk swap issues
+
+@ann2
+instructional worksheet attached

@@ -1,0 +1,14 @@
+Just an update, to keep everyone current on the progress of this initiative:  We (Matt (from Unify), Liz, Dave, and myself) met today and attempted to find ways to directly relate the Passport information (from El Paso) to the corresponding prices etc.
+in Unify.
+Unfortunately, we discovered that there is no direct "fool-proof" way to accomplish this.
+However, we have come up with a couple of things to try:  Liz is going to contact El Paso directly, and see if there is any other information they can provide in the Passport file that better uniquely identifies each deal / cut.
+Hopefully, this will be something that makes relating the data to Unify much easier.
+Matt is going to take a look at the format / content of the "scheduled quantity" file that comes in currently through the EDI Hub.
+It's possible that this file contains cut information itself, which would possibly alleviate the need to use the Passport file altogether.
+I believe that succinctly recaps the results of our meeting today.
+If I have misrepresented anything, please let me know.
+Also, feel free to contact me with any questions or concerns.
+Thanks,
+
+@subject
+Pipeline Cutoffs

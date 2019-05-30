@@ -1,0 +1,19 @@
+In an effort to protect Enron's e-mail system from harmful viruses, the Global Messaging Team has implemented an inbound and outbound cluster of MAILSweeper servers.
+What does that mean to you, the user?
+All inbound and outbound Internet mail is passed through a set of servers that will scan each message for viruses, malicious code, business related-content and inappropriate content.
+Inbound Internet mail that contains the following attachment types will be quarantined (held for delivery): *.vbs, *.exe, *.com, *.bat, *.cmd.
+If you are the intended recipient of one of these e-mails, you will receive an automatic notification with instructions on how to get your legitimate e-mail released from quarantine.
+We have taken these measures to protect our e-mail environment from harmful e-mail viruses.
+We believe that these protections will result in less down time for your e-mail, in the event that Enron gets hit with a virus or malicious code.
+
+@subject
+Internet E-mail
+
+@ann0
+e-mail virus protection
+
+@ann1
+new server update
+
+@ann2
+protecting enrons email servers from viruses or malicious codes

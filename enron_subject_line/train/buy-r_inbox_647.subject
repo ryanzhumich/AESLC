@@ -1,0 +1,19 @@
+Rick  1	Limits.
+Here's how I interpreted the BOD approvals:  The BOD approved an aggregate of $150MM, with $50MM of discretionary VaR, plus the new policy which doesn't recognise the concept of discretionary VaR.
+So here's what I did:  Effectively I allocated all the $50MM of discretionary such that Pug's "Big Buckets" are now as follows:  US Gas				$100MM US Elec				$100MM Europe Gas & Elec			$35MM Global Products			$20MM Financials				$15MM Emerging Businesses		$20MM  If you have a calculator handy you'll see that this aggregates to $149.164MM (assuming zero correlation).
+At Business Unit level the individual commodity limits are unchanged, and I have put limits over the Business Units themselves as follows:  Enron Americas				$82MM EWS OOC (aka George Martingale)	$3MM  EEL					$34MM EGM					$23MM EIM					$8MM EBS					$4MM PGE					$4MM ETS					$1MM  Again I used root-sum-of-squares, and remember the original commodity limits (by VaR, net open and mat gap) are still in place (e.g.
+gas = $61MM as before).
+So that keeps it screwed down pretty tight and preserves the discretion between the "Big Buckets" and the Business Units.
+I spoke to Rebecca C who could only remember the decision outlined above, but offered to call Pug and let him know.
+I said I would come back on that.
+I think we should do that ourselves, possibly with Lay in the loop (?).
+Cleared it with Whalley today (he laughed), mentioned the dwindling membership of the Risk Management Committee and said "In my current role I think I should be asking for limits, not approving them"  ...and then...  2	The gas desk lost $98MM yesterday  A combination of a very bullish AGA number (3 Bcf injection - not a typo - three Bcf !)
+plus some hurricane activity in the gulf sent prices up by between 25 and 30c all across the strip.
+The long and the short of it was we are long Nov - Jan but short (big-time) out beyond that - the rest is arithmetic.
+So we have two flavors of P&L notification, one at the business unit level (Americas) $89MM loss against VaR limit of $82MM; the other as a commodity, losing $126MM (the desk aren't the only ones with a gas position, as usual) against the Big Bucket number of $100MM.
+Total trading was a loss of $106MM against a VaR limit of $150MM so no calls to Pug required (thank goodness).
+That's it for now, hope you're having fun and remember: pan-fry the big ones and throw back the little ones.
+DP
+
+@subject
+Policy and other items

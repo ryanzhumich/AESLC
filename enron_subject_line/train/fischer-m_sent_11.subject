@@ -1,0 +1,12 @@
+Tom,  Here is a sample of the output for this request.
+For this I have only used  May 2002.
+I for the boxplots one has had records removed when the ambient and  gearbox temp is less than 0 (I can provide turbines and times if needed).
+There were many records where this occured.
+There were also 5 records where  the Gearbox temp was over 100 and these were also removed.
+All of these over  100 records occured on turbine 105 on May 1st between 1640 and 1740 (UTC).
+Temperatures were as high as 366.
+If this format is acceptable let me know and I will generate graphs for the  data we have (Jan - "current" 2002).
+Mark
+
+@subject
+Gear Box Temp Graphs

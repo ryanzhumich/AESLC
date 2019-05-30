@@ -1,0 +1,10 @@
+Nancy,  I've discovered a basis book with the attribute problem we corrected for the  Physical book below.
+INTRA-EMWNSS1-BAS was set up to replace IM-EMWNSS1-BAS  for credit purposes.
+However, the correct region code is still being applied  to the old book.
+Here's what I need to happen.
+BOOK ID   CURRENT REGION CODE  CORRECT REGION CODE  INTRA-EMWNSS1-BAS MIDWEST    MDWEST  IM-EMWNSS1-BAS  MDWEST    MDWEST_OLD (This region code really doesn't matter  as long as it does not                               duplicate a currently  used region code.)
+Let me know if you have any questions.
+Thanks for your help,
+
+@subject
+Region Codes

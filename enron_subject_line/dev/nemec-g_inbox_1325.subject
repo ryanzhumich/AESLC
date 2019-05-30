@@ -1,0 +1,15 @@
+UPDATE  Cancellation of System Outage Notification   Outage Description:        We had previously communicated that all SAP systems (including Financial Production, HR Production, Interfaces) would be shutdown over the weekend in order to perform a production build.
+We are postponing these activities and will send you additional communications to inform you of the new date(s).
+Date & Time of Outage:   The scheduled System Outage has been postponed     Contact:                                Contact:
+
+@subject
+Updated:  Cancellation of System Outage Notification
+
+@ann0
+system outage postponed
+
+@ann1
+postponing system outage
+
+@ann2
+update on scheduled system outage

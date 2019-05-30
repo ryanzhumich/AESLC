@@ -1,0 +1,44 @@
+I have spent a significant amount of time reviewing the operations and SCAD= A on the San Juan lateral over the last couple of weeks.
+I've uncovered so= me issues that could significantly reduce fuel consumption on this system.
+=  Listed in order of priority are:  Resolve La Plata Unit #2 flame-out problem.
+Currently this unit is running=  in manual control to limit flame-outs.
+This prevents the station from run= ning with only one unit at low flow conditions.
+According to the La Plata = team, this will require the replacement of the fuel control valve and unit = control software changes.
+Running in the manual mode is costing an additio= nal 550 MSCF/D in fuel plus the extra O&M costs associated with the fired h= ours on unit #1.
+The team is expecting the new fuel valve soon but anticip= ates that they will not get the necessary downtime to install the valve unt= il after the end of the tariff months.
+Due to the potential emissions issu= es associated with its current operating mode, we may have to expedite the = modifications to this unit.
+Auto calculate a suction pressure setpoint for La Plata.
+There are three f= low controlled interconnects on the suction side of La Plata.
+Using the me= ter run pressures and/or the flow control valve position, we can maximize t= he suction pressure setpoint to achieve the interconnect flow rates.
+The h= igher suction pressure reduces the power required at La Plata with an avera= ge expected fuel savings of 175 MSCF/D.
+Auto calculate a suction pressure setpoint for the Bloomfield Low service s= imilar to the La Plata modification recommended above.
+Estimated fuel savi= ngs of 80 MSCF/D.
+Modify the controls at Gallup to enable a quick turndown for a power peak.
+=  Currently when a power peak is predicted, the Gas Control operators manual= ly transmit a lower discharge pressure setpoint.
+It may take a long time f= or the new setpoint to actually gain control of the unit.
+The suggested mo= dification would have the Peak Power alarm I calculate automatically retran= smitted to the field and unit/station controls were modified to quickly ram= p down the unit in a controlled manner (minimize recycle and prevent unit t= rips) to minimum power.
+Gas Control could then send an override signal tha= t would allow the unit to operate at higher loads if required.
+Likewise, i= f my Peak Power alarm clears automatically, the unit would return back to i= ts normal process setpoint conditions.
+Note that if Gas Control overrides = my alarm, the override needs to latch until my Peak Power alarm clears.
+Th= e suction and discharge setpoint rate ramp limiter logic should be modified=  to make them more responsive when they are far from the process values.
+B= ob McChane, Todd Ingles, and myself can develop this logic.
+Modify the La Plata station control for improved load sharing.
+Recommend t= he load share method be based on matching compressor flow range margins.
+I=  will work with Todd Ingalls to develop the logic and code.
+This control m= ethod will ensure both units are operating as close to their high efficienc= y point as possible and minimize surge recycle.
+Modify the station control process setpoints logic at La Plata (Bloomfield,=  Bisti too?)
+to include rate ramp limiters.
+Currently, when Gas Control tr= ansmits a new setpoint, the station accepts the new value and quickly chang= es operating conditions to try and reach the new setpoint.
+However, these = changes may be occurring too fast and may contribute to the flame-out probl= ems.
+Again, I will work w/ Todd to develop the controls to achieve this.
+In addition, it appears that the Compressor Performance utility would be he= lpful for the operating personnel in determining when one unit could handle=  all the flows at La Plata.
+I'll try and package a version that can be ins= talled locally and send it to Todd  Ingalls.
+Todd, I looked and I do not have a copy of the existing station control for=  La Plata.
+Could you please zip it up and send it to me?
+Additionally, I finally got a copy of the drawings for the Griffith Interco= nnect.
+It appears our flow swings at this point can be reduced significant= ly by changing the operation of the flow control valve to a downstream pres= sure control valve with a maximum flow control override.
+Todd, who is resp= onsible for the programming of the RTU for this point?
+Gary Choquette
+
+@subject
+San Juan control modifications for fuel savings

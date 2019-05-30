@@ -1,0 +1,13 @@
+Going forward, I suggest the following.
+Procedure for Storage Confirmation and Execution:  1.
+Storage contracts mailed to trader.
+2.
+Trader forwards contract to short-term transport book 3.
+Transport book verifies deal terms, sends a copy to back office, gets approriate signature on original, mail original to counterparty, contact counterparty to inform them that contract is executed and mailed back.
+4.
+Back office verifies terms, add contract to a binder, send copy to confirmation group.
+5.
+Confirmation group verifies terms, add contract to their files, send a copy to Global group to scan contract in the system in order to view contract on-line via Information Management System
+
+@subject
+Procedures to confirm and execute storage contracts

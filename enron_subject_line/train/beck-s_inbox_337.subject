@@ -1,0 +1,16 @@
+There seems to be some confusion around which DPR captures credit reserve and consumption premium reserves and which balance sheet these items fall on.
+My understanding in talking with both Don and Kevin is that since EES is, on a go-forward basis, being granted origination (which would be the residual after all reserves are applied) that all prudency/reserve items will rest on the WhEES DPR.
+The EES DPR will be just a single line net origination number.
+We do need to capture the activity related to DSM in the EES DPR (including some portion of credit reserve and drift) but until we have the system capability to capture this it may just have to be part of the whole WhEES bucket.
+This tracks with the idea that all future exposures (be they be wholesale price movement, tariff movement, credit exposure, etc.)
+be borne by EWS.
+If so, they need the reserves to properly offset any realized activity.
+The balance sheet reserves associated with these items already rest in the ledgers that are rolling up underneath EWS now.
+Reflecting the positions on the WhEES DPR will make them consistent with how we are capturing them from an accounting perspective.
+If anyone disagrees with this treatment, please respond to all the parties above so we can resolve this issue.
+If there are no objections I would recommend moving the credit reserve over at the next possible point.
+Wade  P.S.
+This thinking only reflects how things are currently contemplated, if the mix around what is with EWS vs. EES (i.e., accounts receivable) we may want to rethink the credit reserve portion.
+
+@subject
+Credit Reserve

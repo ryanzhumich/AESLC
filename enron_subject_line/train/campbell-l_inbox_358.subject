@@ -1,0 +1,14 @@
+Dear Market Participants:  Methodology used in developing the NYISO Virtual Bidding Credit Requirements:  Day Ahead Market Hourly Zonal LBMP and Real Time Market Integrated Hourly Zonal LBMP values were used as the data source for developing the NYISO Virtual Bidding Credit Requirements.
+These values are available on the NYISO web site.
+The time period of June 1, 2001 through August 31, 2001 was used.
+Peak hours are defined here as the hours of 6am (06:00) through and including 10pm (22:00).
+The absolute value of the difference of the DAM and R/T price was calculated for each peak hour.
+The 97th percentile of these series of prices was calculated for each zone.
+The maximum of these zonal 97th percentiles was calculated to be $159.33.
+The data manipulation and calculation was performed in MS Excel.
+The attached spreadsheet contains the data used in the June 2001 to August 2001 calculations.
+(See attached file: Virt Bidding Credit Req data.xls)   Please contact the Customer Relations department with any questions.
+Regards,
+
+@subject
+Virtual Bidding - data release

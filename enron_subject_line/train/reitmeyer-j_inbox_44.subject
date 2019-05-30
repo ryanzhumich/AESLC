@@ -1,0 +1,9 @@
+We've identified the cause of the reporting failures on the analysts PCs this morning  to be Cube Security related.
+During the migration we'd checked the Cube Admin console to ensure all users were migrated successfully.
+Although all users were displayed, we found this morning that  only IT accounts  still had  access to the cube.
+We've since refreshed and update the cube user list and the analyst accounts are now again able to run reports without incident.
+To be sure check the status tonight and come in prior to 7am if there are any problems.
+thanks,
+
+@subject
+Tomorrow Reports

@@ -1,0 +1,9 @@
+FYI,  Please book all future GD priced tiered deals as two deals in sitara.
+The  reason for this is eventhough we put a swap on the deal for the volume that  should be at index, the swap looks at the volume as a monthly volume as  opposed to a daily and gives the monthly volume to the desk at mid.
+What  typically happens is the total volume for the first half of the month comes  to the desk entirely at mid.
+This is causing some substantial OA variances.
+If you have any questions, please let me know.
+Thanks.
+
+@subject
+GD Tiered deals

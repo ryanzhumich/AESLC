@@ -1,0 +1,8 @@
+TP2 is buying Spinnaker gas (deal 632998) from Gulf 1 at Zone 2 IF (deal  657407).
+TP2 is selling the gas back to Gulf1 at IF plus variable cost (deal  657409) at St 45.
+It is my understanding that the transport commodity rate  for gas from this well is $.02 plus fuel.
+SO, I just changed the price on  deal 657409 from Z2 IF + .09 to Z2 IF + .045.
+We should see about $68,000.00  move from TP2 to Gulf 1.
+
+@subject
+Spinnaker

@@ -1,0 +1,14 @@
+These notes are very high level.
+The goals of Brads meeting was to evaluate the need for the development of a systems diagnostic tool and to develop a process for notification of critical business application and hardware failure.
+This was a follow up meeting where alternate forms of communicating with customers was discussed.
+Critical Business Application: Outlook (Exchange Servers) Mailman.Enron.com Websites / Servers (all the www.hottap.enron.com there are eight in total) EDI Hub EDI Net VPN PGas TMS CMS CRS  	 Set up a process for notification of outages and customer notification: Scott Abshire felt Blackberry would be very beneficial for internal communication due to the ability to send direct messages to one another inside the building.
+Develop three methods for communicating (Email, Page and voice mail, Pop Up messaging).
+Outage and failure communications to go to the HotTap Help Desk, Shelley, Directors and Team Advisors.
+Outage and failure communication messages to be distributed from either the Help Desk or Jean McFarland.
+EDI possibly could be rolled into the same communication method.
+Scott Abshrie and his group are all ready planned and budgeted a diagnostic tool, the first phase is for hardware and will be functional by yearend 2001.
+The second phase will be for applications in in service sometime in 2002.
+With this plan in place there is no need to duplicate efforts.
+
+@subject
+Notes from Critical Business Apps. meeting

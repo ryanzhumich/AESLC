@@ -1,0 +1,8 @@
+Jeff,  	I spoke with Jay briefly about the potential of archiving all physical deals every night into a separate database instead of deleting them.
+We currently are capturing that information in our database, but the feed Jay has is more extensive and reliable.
+We'd then be able to build some historical queries and facilitate some of the requests we have for this data, I don't anticipate it would take much time to do this.
+You have any objections?
+Thanks,
+
+@subject
+flexible deal view data archiving

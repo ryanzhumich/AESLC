@@ -1,0 +1,8 @@
+John,  The new products have been built and are in the process of being mapped to  Sitara and Tagg.
+I'm working with Melba Lozano (EOL contact) and she tells  me they should be ready tomorrow.
+Mark Taylor and I haven't spoken yet about simplifying the language in the  product long description, so I'll try to get with him tomorrow.
+For now,  we're staying with the existing language which isn't really that bad.
+Any of these products which are intra-month will stay in the swap filter as  US GAS DAILY products, but longer than intra-month will be in the basis  filter as US GAS BASIS products with the format:    US GAS BASIS      GD/D SoCal - HHub  The only product that will be different is the Nymex to daily swap which will  be:    US GAS BASIS      NXL1 - GD/D HHub  Any questions or comments,  Fletch x3-6219
+
+@subject
+New product update

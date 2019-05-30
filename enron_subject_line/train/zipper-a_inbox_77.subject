@@ -1,0 +1,16 @@
+Savita  In our testing we have found the inability to manage our wing-strikes risk.
+The way it works for power markets is that most traders would be unwillling to trade more than 250MW of a wing strike without widening out the bid offer.
+Similarly the risk at some point can get high enough to suspend wing strikes.
+In the current option manager, the only possibility is to increase or decrease the ATM suite vol (which has little effect on the wing strikes anyway).
+For that reason we need a volumetric control for each strike.
+The volumeteric control could be a toggle which could be turned on or off.
+If the volumetric control toggle si on, corresponding to each strike, there would be  a maximum volume.
+If  the strike is hit or lifted by that volume, that strike is automatically suspended and the trader notified.
+This allows the individual strike risk to be limited.
+This also allows us to put some less liquid markets out there - where the price discovery is evolving.
+In those products we can put the volume to be limited at 100 MW for each strike making the risk more manageable.
+Pls give me a call, so that we can discuss this further.
+Harry Arora
+
+@subject
+Option Manager - extra features

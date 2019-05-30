@@ -1,0 +1,17 @@
+We now have a PG&E topock basis product on EOL.
+The curve is currenlty  mapped to Socal with the differential to Socal being calculated in the  physical index curve.
+Let's work on setting up this curve on Tuesday so that  it shows the accurate value for fin deals.
+We can have the curve calc off of  a discount to citygate in Keith's spreadsheet.
+Mike
+
+@subject
+PG&E topock fin curve
+
+@ann0
+eol curve calc
+
+@ann1
+setting up a curve
+
+@ann2
+need work on tues for phyisical index curve

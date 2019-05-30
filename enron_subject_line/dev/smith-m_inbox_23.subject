@@ -1,0 +1,22 @@
+All:  As you all know that the DRN within a pipeline should be unique, the DRN_description should be too.
+Otherwise it will cause aggregation errors in our reports, values with the same DRN_description within a pipeline are all summed  together.
+I have created a query called qry_Mulri_DRN_Names in the Access database O:\Fundy_ops\ReportSetting.mdb (Access 2000), You can run this query to find out how many duplicates there are, and which pipeline they are.
+If you entered those duplicates, you can work with Hyde or Eddie to have them corrected.
+Please also pay special attention when you enter new DRN and their  descriptions.
+The rule is No Duplicate DRN or DRN descriptions are allowed within the same pipeline.
+When in doubt, you can always run the query mentioned above to check duplicates.
+Let me know if you have questions.
+Thanks.
+Yan x33228
+
+@subject
+Duplicate DRN descriptions
+
+@ann0
+drn description should be unique
+
+@ann1
+notes on drn descriptions
+
+@ann2
+all duplicates need correction

@@ -1,0 +1,13 @@
+Andy,  Just finished meeting with Nelson from gas fundies and Martin Lim from power fundies to discuss getting the Exotica libraries migrated ASAP.
+The best I can get from them is "hopefully tomorrow" as far as a date for migration.
+They are dealing with the validation of calculation routines between the UBS libraries and the Exotica libraries since Exotica will play a role in pnl calculation.
+I will follow up on this again tomorrow.
+I told them that "hopefully tomorrow" was not the answer I was looking for so I would help out in any way.
+They recognize that we need these libraries loaded on our machines regardless of their validation.
+Also, Nelson showed me a list of the products that are scheduled for 'day 1' and power options are not on that list.
+There are a lot of people working with that list to prioritize support so this is just a heads up for you.
+Later.
+Rob
+
+@subject
+Exotica add-in

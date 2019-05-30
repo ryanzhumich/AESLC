@@ -1,0 +1,29 @@
+As you know, the Ostrip Functionality has been altered.
+This change has affected the way the larryoptmodel values the gas daily options.
+The reason the larryoptmodel is affected is because the larryoptmodel was defining the inputs to the Ostrip model differently than the documentation asked.
+Let me explain.
+The Ostrip Model has the following date inputs:  NowToSet 	- Fixed Price = zero 		- Forward Start = days from now until strike is set  BegDays	- Fixed Price = days from now until start of option 		- Forward Start = days from when strike is set until start of option  EndDays	- Fixed Price = days from now until end of option 		- Forward Start = days from when strike is set until end of option  FwdStFlag	- Fixed Price = 0 		- Forward Start = 1  The Ostrip model should overlook the NowToSet days if the FwdStFlag = 0 (fixed price option).
+It assumes the option is set right now.
+The "Old Ostrip Model" did not overlook this input.
+This is the problem.
+In Larryoptmodel, the NowToSet is the same for Fixed Price options and Forward Start Options, the BegDays is the same and the EndDays is the same.
+Thus when the "Old Ostrip Model" incorrectly used the NowToSet days, this made the Larryoptmodel value the option correctly.
+When the "New Ostrip Model" was put into production, this model overlooks the NowToSet date, thus giving an incorrect value in Larryoptmodel.
+Larryoptmodel has to be changed to reflect the above inputs.
+It is actually only a change to one date.
+This date will be used in calculating the three days above.
+If the option is a fixed price option then the date will be today and NowToSet will be Today minus Today (zero), BegDays will be Start of Option minus today, EndDays will be End of Option minus today.
+If the option is a forward start option, then the date will be when the strike is set and the NowToSet with be the strike setting date minus today, BegDays will be Start of Option minus the strike date, EndDays will be the End of Option minus strike date.
+It is important to note that it is unexcusable to make any changes to the models without consulting the traders first.
+If there was a problem with the "Old Ostrip Model" then the trader should have been notified right away.
+This could have meant that the options were being misvalued when trading.
+In this case, however, Larry had figured a way around this problem and he was valuing correctly.
+When the model was changed, that changed the larryoptmodel valuation and now it was being valued incorrectly.
+Either way, any problems with the models should be communicated with the traders right away.
+Any changes to the models should be communicated to the traders before they are made.
+Please let me know if any have any questions or concerns.
+Thanks.
+John
+
+@subject
+OStrip Function

@@ -1,0 +1,9 @@
+Hi,  Is anyone talking to you guys about sourcing end of day Interest Rate Curves for your various risk management systems, or would you like me to arrange for them to be sent to you at the end of each day?
+I could arrange for a file containing the OBS (UBSW Interest Rate Derivatives system) yield curves to be e-mailed to you once they are saved every afternoon.
+The official closes for the USD and CAD LIBOR curves are saved down at around 3:30pm / 3:40pm New York time each afternoon.
+The files would contain prices for the swaps, futures and money market instruments that are used to build the curve, and also the corresponding zero coupon rates on a continuous A/365 basis.
+I guess we would have to talk about the exact form that your systems need the rates to be in to see if any conversion would be necessary.
+Cheers,
+
+@subject
+Interest Rate Curves

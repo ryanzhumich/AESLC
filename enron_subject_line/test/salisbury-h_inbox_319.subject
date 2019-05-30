@@ -1,0 +1,15 @@
+System Outage Notification     Outage Description:  All SAP systems (including Prod Interface, all EBP systems, IPayIt and FTP servers) will be shutdown in order to upgrade our storage hardware.
+This maintenance is required to ensure that sufficient storage is available for the SAP Production systems.
+Date & Time of Outage:   Outage Commences: November 9, 2001 @ 8:00pm CST  Outage Ends: November 12, 2001 @ 2:00am CST     Contacts:  Contact:  Contact Information:
+
+@subject
+SAP Systems Outage Notification
+
+@ann0
+system outage notification
+
+@ann1
+**important** scheduled maintenance for all sap systems - november 9, 2001 @ 8:00pm cst
+
+@ann2
+system outage notification

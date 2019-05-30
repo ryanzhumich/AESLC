@@ -1,0 +1,17 @@
+The following is a description of the Rolloff Process for the Gas Benchmark.
+1.
+In the Position Management Menu of GRMS, select Roll Off Adjustments.
+2.
+Portfolio ID:  Enter POS-GAS-TRD.
+3.
+NX3:  On the first day of Bid-week enter 0.33333333333333333333333   On the second day of Bid-week enter 0.66666666666666666666666  4.
+Click the Populate command Button.
+5.
+Once the window has been populated, Click the Generate Roll Offs command  button.
+6.
+Finally, click the Process Adjustments command button.
+If you have any more questions, feel free to call me.
+Thanks,
+
+@subject
+Rolloff Adjustment

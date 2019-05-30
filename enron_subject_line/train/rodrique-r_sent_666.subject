@@ -1,0 +1,9 @@
+Chris,  The Power Book shows a MTD origination variance of $17.5.
+This is shown on  the origination file(Power Tab) and will be picked up on the NGP&L today.
+However it is still not being added into the MTD tab because the book  administrator added the originator's name to the same cell as the origination  category.
+It is just a concatenate problem, but I don't have access to that  file.
+If you or Michael could fix that I would appreciate it.
+Thanks,
+
+@subject
+Power Originations

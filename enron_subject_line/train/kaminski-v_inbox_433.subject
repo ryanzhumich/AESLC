@@ -1,0 +1,10 @@
+Vasant,  I wanted to keep you up-to-date on the redevelopment of forward curves for the suite of 7 plastics (ethylene contract, ethylene spot, propylene contract, propylene spot, polypropylene, HDPE, LLDPE).
+As you may recall, we talked about fitting all of the components into a VAR model and solving the system of simultaneous equations.
+Unfortunately, with a limited dataset (say 5 years or so), our degrees of freedom in such a model are dramatically reduced.
+Alternatively, Mauricio and I have decided to construct individual models for each of the plastics commodities while utilizing results from the initial VAR analysis as a guide.
+Based on the petrochemicals flowsheet, both propylene and ethylene are fashioned directly from raw materials such as crude oil, coal, and natural gas.
+In turn, polypropylene may be made from propylene while HDPE and LLDPE use ethylene as a raw material.
+Given this logical flow, we restricted our model specifications in the following manner (all price variables tested for stationarity--first difference used in all cases):
+
+@subject
+Plastics Models

@@ -1,0 +1,12 @@
+I'm sending a copy of the error message I received when I tried to enter our  futures deals today.
+The application saved one deal, but  would not accept the other two.
+The only difference between the three deals  is the delivery month.
+Is there any way we can get this fixed soon?
+The clearing broker has had a record of these deals since Jan. 31, and the  trader is getting a little antsy to have them recorded in our  system.
+Thanks so much for your help....  ORA-20500: Unable to translate deal QQ0938.0 into ERMS system.
+ORA-06512: at "BIG.SP_XINSTR_INS", line 173 ORA-06512: at "BIG.TRG_XINSTR_AI", line 22 ORA-04088: error during execution of trigger 'BIG.TRG_XINSTR_AI'   No changes made to database.
+Good luck!
+Kate
+
+@subject
+TAGG Error Message

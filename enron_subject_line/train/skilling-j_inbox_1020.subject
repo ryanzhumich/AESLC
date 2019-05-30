@@ -1,0 +1,12 @@
+During the weekend of October 6 and 7, 2001 the Enterprise Storage Team will be migrating all production users off the current hardware (Solar) that houses their home and application directories (no production databases are affected, but client software will be) to new hardware.
+This migration requires a total system outage of approximately 6 hours.
+The outage will occur Saturday night - beginning at 7:00 PM and will last until Sunday morning at 1:00 AM.
+All users will need to be logged off during this time period.
+In order to validate the migration, production users need to test access to their home directories and applications on Sunday, October 7, 2001.
+If you do you experience any difficulties after the migration with access to home directories or applications, please call the resolution center at 713 853-1411.
+The resolution center will notify the appropriate resources.
+The following attachment is a list of the mount points affected.
+Bob Ambrocik Enterprise Storage Team EB 3429F x5-4577 bob.ambrocik@enron.com
+
+@subject
+Solar Migration - Third Notice - Time Change!!!!!

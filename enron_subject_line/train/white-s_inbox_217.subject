@@ -1,0 +1,9 @@
+I've simulated the Aggregate power portfolio's VAR with the BPA contract (approx.
+$51MM) as a stand alone (approx $3MM) and with the BPA position reversed out (approx $49MM).
+Only issue seems to be that the VAR related to the position per credit Agg does not "tie" with VAR related to position in Enpower - I'm attributed this to the peak/off peak simulation difference.
+Specifically, the credit agg file does not define what was peak or off peak, whereas file from Enpower did, resulting in more accurate measurement of risk.
+Bottom line is that BPA removal appears to be risk reducing.
+Frank
+
+@subject
+BPA removal

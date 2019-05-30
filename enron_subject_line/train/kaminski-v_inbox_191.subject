@@ -1,0 +1,11 @@
+I must apologize regarding the lateness of this e-mail.
+I sent the Excel file with crude oil data as an e-mail attachment earlier this afternoon, and when I checked my mail just now, I discovered that it had been rejected because of its size.
+I have reduced the amount of data somewhat by using the following limitations: WTI Crude Oil swap transactions only, starting from January 1, 2001, with delivery in the USA.
+This allowed me to get rid of some unnecessary fields.
+Please note that there are no calendar spread options or basis options included in the data, and, as this is from Clayton's database, it does not include failed trades or limit-order trades.
+The Excel file ("Crude Data") can be found in:  O:\_Dropbox\Tom Barkley  I have started looking at the data already, but it does not seem possible to plot all 24000+ points in one Excel chart.
+I hope this helps.
+Tom
+
+@subject
+EOL Crude Oil Data

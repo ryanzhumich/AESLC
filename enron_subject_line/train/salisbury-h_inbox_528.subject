@@ -1,0 +1,10 @@
+Per our discussion - let me know if we need to look into this more to clarify.
+Options: Whether the option is in/out of the money - the delta will be calculated as an effective position per each $1 price change.
+For example what we were looking at for October:  The Current Strike in deal entry is $30 - since the mid price is lower than that - when we take  the scalars into effect and calculate an hourly price it is rarely in the money for CSU to exercise this option.
+Therefore your delta is so low.
+Forwards: Your delta position should be the same as your notional position.
+I will let you know about the CSU strike in deal entry.
+Heather
+
+@subject
+Delta Position

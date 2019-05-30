@@ -1,0 +1,15 @@
+I changed the following deal entry errors for the $15 flat Bloomberg Broker Fee.
+These deals were entered as $15/mw instead of flat.
+Desk	REG_CD	DEAL_ID	FEE	TOTAL	RATE	 EPMI-ST-CA	R10	683207	-6000	400	15
+
+@subject
+Bloomberg Broker Fee
+
+@ann0
+corrections
+
+@ann1
+changed deal entry errors for bloomberg broker fee
+
+@ann2
+deal entry error correction

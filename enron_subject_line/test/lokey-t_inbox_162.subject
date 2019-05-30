@@ -1,0 +1,41 @@
+The following items were discussed in this week's ETS and Corporate Change Control Items... Sept. 24	 From 12:00 a.m. through 10/07 at 11:45 p.m., Enron Network Services is implementing a moratorium on all network changes one week prior through one week after the first move of users to Enron Center South.
+This moratorium will probably be limited to routing changes, no new networks, no changes to existing networks, etc.
+No impact to ETS networks is expected.
+Oct. 4		 From 9:00 a.m. - 6:00 p.m., the EDI team will replace the backup EDI server located in Omaha.
+The existing server will be de-commissioned.
+The new server will take over the dns and IP address of the old server.
+No impact is expected as this server is used for disaster recovery.
+Oct. 4		 From 11:00 p.m. through 10/5 at 2:00 a.m., the Unix team will rename the edinet.enron.com and ecnet.enron.com systems.
+During last Saturday's EDI change, the DNS entries were changes but the actual servers were not changed to reflect their new names.
+They will also install patches to the machines during the maintenance.
+This change will result in a total disruption of service to EDI Web access only.
+EDI will not be affected.
+Oct. 5		 From 4:00 - 6:00 p.m., the Monitoring group will bring up the new ITContacts site and disable the old.
+We are currently not using this site but there are plans to access it in the future.
+No impact is expected.
+Oct. 5		 From 7:00 - 8:00 p.m., the Corp server team will perform maintenance on the HR-DB-4 server to add more disk space.
+This change will result in a disruption of service to all HR Global applications including eHRonline, GCS, GIS, expertfinder, etc.
+Oct. 5		 From 9:00 - 11:00 p.m., Enron Network Services will split the two 8 port gig channels from ECS to ECN into four 4 port gig channels.
+This change will fully mesh the ECS core.
+No impact is expected.
+Oct. 5		 From 9:00 - 11:45 p.m., the Messaging team will Test Upgrade functions of XTND 2.6.
+This change affects PDA users who log into XTND.
+No impact to ETS users is expected.
+X-tend Connect Proxy servers will be unavailable on 10/5/01 from 9:00-11:45pm.
+Palm Pilot users who use X-tend Connect Proxy to sync with Outlook will be unable to do so during this time.
+Oct. 5		 From 9:00 p.m. through 10/6 at 1:00 a.m., the Messaging team will reboot all Corp and EI Notes servers.
+No impact to ETS users is expected.
+Oct. 5		 From 10:00 - 10:15, Enron Network Services will migrate the following Corp servers on the 172.16.63.0 network:  foglight, charon, hyperion, perch, diablo, vision, ricky, dbadmin, worf, riker, europa, titania, pandora, ferrari, pluto, hades, opal, cyclopes, astral, and modena.
+No impact to ETS is expected.
+
+@subject
+ETS and Corporate Change Control Items
+
+@ann0
+items discussed at meeting
+
+@ann1
+minutes and details from ets and corporate change control meetings
+
+@ann2
+summary of ets and corporate change control items meeting

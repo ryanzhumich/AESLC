@@ -1,0 +1,18 @@
+market_relations@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  Dear Market Participants,  The NYISO is pleased to inform you about the following enhancements to the public web server (www.nyiso.com), MIS and SPIDER that will be implemented on July 31, 2001.
+The Generation Supplier Issues development project will be completed with the following functionality being introduced into the NYISO markets (Please see published Technical Bulletins for full descriptions):     Units will be able to operate as Energy Limited    Resources (ELR).
+Qualifying units whose schedules    are modified will not be subjected to any financial    harm from the obligation to cover energy balancing    charges.
+Units will be able to operate as Capacity Limited    Resources (CLR).
+Bid rules will be modified to allow    units to indicate an upper MW limit, separate from    the Upper Operating Limit (UOL), that will be honored    in the scheduling horizon by SCUC, BME and SCD under    certain environmental and operating situations.
+Multiple response rates will be allowed.
+This modification    is intended to encourage units to be on dispatch by    allowing units to move in response to price signals.
+MIS    will be modified to allow up to three response rate ranges    to be entered as static data inputs.
+Payment rules for start-up will be modified.
+Payment rules for unforced energy replacement will be    modified.
+Changes to SCUC will be deployed to optimize Phase Angle Regulators (PARs) for evaluation of the Day Ahead Market (DAM).
+The migration of web postings from InfoReports to MrXML will continue with the replacement of a number of reports with those generated using the new technology (please note that the structure of all migrated reports will be retained).
+Detailed Release Notices:  MIS:   KCUG-4YKPTQ;  SMCE-4YKG8J;  BHAN-4XNLTA  Web:  FTHE-4XNL8H;  VLEE-4YLQN3  SPIDER:  JPIR-4YKKKG;  AHAE-4XMSCR  Real-Time:  MSIR-4YKKY5  Billing and Accounting:  MGUE-4YKQUW;  LDBA-4YLM7W;  ASOA-4YLL8P  If you notice any NYISO systems behave other than intended after the scheduled implementation date, please let us know immediately.
+It will be helpful if you refer to this notice if you communicate with us about these changes.
+Thank you,
+
+@subject
+NYISO - NOTICE of Changes to OASIS/MIS/CSS Systems

@@ -1,0 +1,8 @@
+We just experienced an outage of around 7 servers for 1.5 minutes.
+Cause:   One of our master network switches crashed and rebooted itself making the device attached to them unavailable.
+The Servers themselves did not crash, just there connection to the network.
+The Network Team is looking into why this happened.
+Regards
+
+@subject
+Server Outage In PDX

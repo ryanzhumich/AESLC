@@ -1,0 +1,13 @@
+Status report of integration testing from Wednesday, Jan. 23rd      - (16 gas/ power types of transactions to test)   Overall, there were no infrastructure or major application issues.
+Unlike the prior testing, we've included many more gas transaction types and testing with all non-essential Netco data removed (aka baseline for Netco go-live).
+In today's test, we had numerous data setup related issues  that resulted in downtime (ie EOL- Dynegy information, TGP address information, bad credit counterparty/ contracts,  or database issues with data sync/ replication).
+These were mainly attributed to the massive cleanup/ removal of data not needed.
+The  remaining issues open are being addressed Wednesday night.
+Given the deferred 12:00pm to 2:00pm start time and data setup/ sync issues, we were unable to complete downstream processes (mainly Settlements, confirmations, SAP).
+Continuation of testing into Thursday We are requesting the testers with tasks remaining to complete the script execution Thursday (morning shift and afternoon shifts given UBS offsite meetings).
+We will try to balance the testing activities given some will be out in the morning, and some in the afternoon.
+The bridgeline will be active from 9 - 5 for communication/ status.
+RECAP of where testing left off for Netco and EOL entry.
+
+@subject
+Status report of integration testing from Wednesday, Jan. 23rd ;  and Thursday's continuation..

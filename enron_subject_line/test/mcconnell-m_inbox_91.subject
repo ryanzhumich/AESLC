@@ -1,0 +1,18 @@
+Keep in mind that when you do amendments to move primary points around, the rate must be changed in CBS for the corresponding new paths.
+Otherwise, CBS reflects  max rates.
+It would also be helpful when a new contract is executed that the rate be put in CBS; otherwise, again CBS reflects max rates.
+It is important to get these rates in CBS as the forecasting model pulls all rate information from CBS.
+If CBS reflects max rates the revenues will be grossly over estimated.
+Thanks for your help!
+
+@subject
+Rates Changes
+
+@ann0
+rates for new contract or amendments in cbs
+
+@ann1
+change cbs rates when moving primary points
+
+@ann2
+cbs issues

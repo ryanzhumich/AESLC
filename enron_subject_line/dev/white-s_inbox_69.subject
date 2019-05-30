@@ -1,0 +1,30 @@
+All -  I talked to Zhiyong Wei, who works for Jeff Johnson, and John Lavorato.
+It sounds like there are a few issues that need to be resolved.
+1.
+Apparently it has been decided that someone (?)
+from UBS will be providing a curve beginning on day 1.
+That person has yet to be identified.
+2.
+There will have to be a daily interpolation of the curve into ERMS on a daily basis.
+This presents a couple of problems.
+Someone must approve the interpolation, and the official curve does not come out until 5:00 P.M. Central Time.
+This means that after the interpolation and system load,  it would probably be somewhere north of 6:00 PM before we could start our nightly process.
+A difficult sell to say the least.
+3.
+There are offers out to two interest rate traders in Houston,  but we still have not determined whom we will be working with from a Houston perspective.
+Hopefully,  decisions will be made by Monday.
+Are you guys aware if there is a preliminary curve that we can use that comes out a bit earlier, and we can just have finance run with the official curve the next day?
+Bottom Line : It sounds like they have worked out a process,  but not necessarily a great one.
+Jeff
+
+@subject
+Interest Rate Curve Load
+
+@ann0
+issues that need your attention
+
+@ann1
+issues need resolution
+
+@ann2
+issues after talk with wei

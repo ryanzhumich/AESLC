@@ -1,0 +1,30 @@
+Dear All,  Please test the Stage Release of PortCalc version 4.2.2s1 and let us know of the results.
+The executable is      /stage/egs-home/ermt/bin/pwrcalc_slr          	New Features:  Version 4.2.2s1  Changes Affecting All:  	Index Option :  1)  When the delivery point is in the same region as the index,  and it does not have a basis associated with it, the deal is evaluated as a Forward Start deal type per Research's specification and user approval of Matthew Motley.
+2)  When the delivery point is in the same region as the index, but with a basis, the deal is evaluated as a Basis Option as the scenario where the delivery point is in a different region from the index.
+This is a change from last release.
+Changes Affecting East:  For East and all its mirrored portfolios, there will be no blending of volatilities.
+Monthly Options will use the Monthly Volatility, and Daily Options with Daily Volatility.
+The same is applied for Volatility Smile.
+Before that, we applied different rules to selective option deal types.
+Swaption Volatility Curve - PortCalc can now evaluate Swaption based on its own Swaption Volatility Curve instead of the one entered per deal.
+This feature can be selected on the PortCalc window.
+If Curve Volatility is used, it would be for ALL Swaption deals in that Post ID.
+Changes Affecting EES:  RETAILEAST portfolio evaluation is mirrored the same as EAST.
+Changes Affecting Renewable:  Delivery Point - PortCalc will now use the Delivery Point as the Delivery Point description instead of the Vintage Year, which Emission does.
+Changes Affecting Australia:  End of month will no longer be treated as a business day.
+Changes Affecting Power Risk IT:  Term Strip Tables Consolidation - combine all three term strip tables into one for ease of handling and potentially faster performance in the future.
+Please do not hesitate to ask if there is any questions.
+Thanks,   Norman.
+x36976.
+
+@subject
+Power PortCalc STAGE Release 11/14/2001 Version 4.2.2s1
+
+@ann0
+results needed: test portcalc v4.2.2s1
+
+@ann1
+portcalc testing
+
+@ann2
+test stage release of portcalc version 4.2.2s1

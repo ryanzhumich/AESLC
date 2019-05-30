@@ -1,0 +1,13 @@
+The system is certainly not set up to accommodate that now but we could  probably draft around it on a case by case basis.
+It strikes me that while  we might be able to come up with a legal framework that would allow for this,  the credit considerations are more problematic.
+I would guess that the back  office will also be unhappy about having to manually rearrange all of the  trades.
+This really seems like it is similar to the Aquilla problem in some  respects.
+When we suggested allowing one entity to trade for another, Credit  was quite concerned because the system wouldn't be able to check the  appropriate headroom.
+I suppose Credit could just assign the lowest headroom  for any of the eligible entities to the entire relationship - would  that be  acceptable to everyone?
+Another possibility is for the fund to set up a  master trading entity which does the trades with us and then does back to  back deals with whichever entities need the allocations.
+That would let them  do a large transaction on EOL and then smaller transactions with the other  entities.
+Of course, the master trading entity would need to qualify for  credit on its own somehow.
+Guarantees from anyone other than the owner would  be difficult (upstream guarantee problems).
+
+@subject
+One Password - multiple legal entities

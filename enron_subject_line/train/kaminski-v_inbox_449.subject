@@ -1,0 +1,8 @@
+Hi guys,  here is a simple template based on discussions with Vince and Rakesh.
+It takes positions for a single commodity (physical and financial), collateral info, and calculates P&L and collateral needs over a one month horizon.
+This can be expanded to add pictorial info, and other expenses, and any other details as needed.
+This is just a first cut, please feel free to tear it apart as appropriate.
+Vasant
+
+@subject
+Template for estimating Enron Capital needs

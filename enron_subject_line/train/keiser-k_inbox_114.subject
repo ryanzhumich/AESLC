@@ -1,0 +1,8 @@
+This is how the logic is now within UBSWenergy.com:  All counterparties with Master Agreements with ECC that hit a US product must be booked as two legs:  leg one booked between ECC and the counterparty with risk assignment of FT-US/CAND-ERMS; leg two flipping the position out of FT-US/CAND-ERMS to the appropriate risk book (the book on the online product).
+This applies only to finanical swaps and not physical deals.
+Please let me know if there is going to be a change and if so what the deals should look like in Tagg.
+The programmers need time to modify logic and I need time to test!
+Thanks for your help.
+
+@subject
+Counterparties w/Master Agreements with ECC

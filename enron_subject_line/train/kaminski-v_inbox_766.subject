@@ -1,0 +1,12 @@
+Vince,  I was thinking that max (negative)  potential exposure for different counterparties could occur for different scenarios and so combining max potential exposure across counterparties may overstate cash needs.
+If overall scenario for overall max (negative) potential exposure is considered, then we will pick up some high exposures and some low exposures, which may be fine.
+Alternately, why not tweak the potential exposure program to do deterministic shifts of one sigma and two sigma and assuming one factor model and perfect correlation across commodities.
+Then the negative mtm values can be compared to collateral already outstanding.
+This method does not guarantee that we will get large exposures, but is easy to explain.
+Another thing to check with Winston is that the program does not automatically zero out negative exposures.
+If it does, then we may have to flip the sign for all positions, get the exposures, then flip back the sign.
+Then compare to collateral outstanding.
+Vasant
+
+@subject
+Cash needs

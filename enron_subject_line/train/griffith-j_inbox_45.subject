@@ -1,0 +1,9 @@
+John,   I went through the code and realized that the change to show months with 0 value is a little big change and cannot be done in hours.
+The problem I see is that when portcalc values a post id, it does not create any data in database for the months where you do not have positions.
+What it means it can be done but it will take minimum 3-4 days to make the changes, test it and give it to you.
+Also it will slow down option grid a little more as I need to build rows with 0 values which are not in database.
+I just wanted to give you an update and I will talk to Karima & Francis to let them know how we are going to handle it.
+Let me know if you have any questions.
+
+@subject
+Option Grid Changes to show months with 0 value

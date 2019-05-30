@@ -1,0 +1,16 @@
+Phillip,  I'm building a sheet for each person specifically for financial hedging.
+Each day it will pull in the previous days position and previous day price  curve to calculate the mark to market.
+Then that day's transactions can be  entered to calculate the P & L of transactions which close out previous  positions, as well as to calculate the new open positions.
+Initially, I  thought that daily P&L could be calculated by simply adjusting the P&L  whenever a transaction was made by the difference between the bid/offer of  the closed out position by the offer/bid of the new position (of course time  value and storage costs would be included).
+However, this only works if the  person is 100% hedged, meaning they do not have any open positions which  require marking.
+As the seller of synthetic storage utilizing 100% hedging,  I should be able to do this, except for the fact that I will have size limits  on transactions that will probably leave me open here and there.
+The main question I have is simply, "Should I be calculating the P&L for each  person's storage book for open and closed positions?"
+Then beyond that, if  we do calculate the P&L's from the buyer side, it seems that if their storage  is not hedged, I will have to develop the market value of the storage in the  ground and the remaining capacity to mark to market it.
+So, I guess I could  apply the model for that purpose.
+Does this make sense to you?
+Any comments  are appreciated.
+Thanks.
+Mat
+
+@subject
+Synthetic Storage

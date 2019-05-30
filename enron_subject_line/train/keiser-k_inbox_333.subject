@@ -1,0 +1,9 @@
+Kam,  As we discussed this morning, the traders will be using their physical books to log onto EOL with the exception of the financial desk (John Arnold and team).
+Behind the scenes, EOL will  set these traders up in the Counterparty Alternates table to have the books "flip" to the respective financial book when a financial trade is hit.
+Also, any word yet on the traders wanting a different book for price, basis and index.
+We are still under the assumption that the trades will book under one book.
+Please let me know if you have any further questions.
+Thanks,
+
+@subject
+Trader Log In

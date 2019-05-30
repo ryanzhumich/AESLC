@@ -1,0 +1,17 @@
+The Dow Jones report is compiled of data sent from many different  counterparties.
+The lovely people at Dow Jones painstakingly analyze the data  to ensure its accuracy.
+Averaged together, these prices become the Dow Jones  daily index price.
+And that's the long and short of it.
+The process, as you've guessed by now, is a little more complicated than  that.
+For one thing, Dow Jones looks at each counterparty's sales to reach an  average of all the prices.
+It would be redundant for each counterparty to  ALSO report their purchases from each other.
+Therefore, when calculating the  Dow Jones data, we only include purchases from counterparties who ARE NOT  participants in the Dow Jones survey.
+Following is a simple example:  Participant List  NP-15 Purchases  NP-15 Sales  Reported NP-15 Purchases  Reported NP-15 Sales Sempra  Sempra - $250   Sempra - $250  Avista - $270   Sempra - $250 Duke   Duke - $260   Duke - $260      Duke - $260 Enron   Avista - $270   Avista - $270      Avista - $270  Now that's simple!
+Following is the participant list for Dow Jones' survey of trading at NP-15  and SP-15 delivery points.
+Deals with these counterparty names need to be  excluded from the calculation of PURCHASES at NP-15 and SP-15 delivery points.
+American Electric Power - Amerelecpo Avista Energy - Avistaene Duke Energy Trading and Marketing - Dukeenetra El Paso Merchant Energy Enron Power Marketing, Inc. - EPMI Idaho Power Company - Idacorpene PacifiCorp - PACE Pacific Gas & Electric Company - PG&E Powerex Corp. - PWX Puget Sound Energy, Inc. - PSPL Mirant Americas Energy Marketing (formerly Southern Company Energy Marketing)  - SCEM TransAlta Energy Marketing (US) Inc. - Transalt  So I've probably succeeded in confusing you even more, but please feel free  to come bug me with questions.
+Good luck!
+Kate
+
+@subject
+Dow Jones Report

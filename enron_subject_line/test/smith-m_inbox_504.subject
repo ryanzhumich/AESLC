@@ -1,0 +1,20 @@
+Jason (et al):  We are approaching somewhat of a slow-down in active harvesting development, and therefore it is a prime opportunity to begin hashing out what is required to gather the West Power load data you have previously mentioned.
+We should get together personally to better organize this initiative, but some things to "prime the pump" are:  1)  What are the requisite sites involved?
+(URLs, etc) 2)  What is the frequency of "jobs"?
+(how often do we scrape the data; once a day, x number of time a day, etc).
+3)  What is the nature of the data we are scraping?
+(this will help us to determine if we already have a database schema that this will fit into, or if we need to extend/develop one)  These are just some topics to get us started...you may have already answered some/all of these previously, but I feel they deserve mentioning again, if for no other reason than to make sure we are all on the same page moving forward.
+Please reply with your availability over the next few days (as well as anyone else you feel should be involved in this effort), and I will have Amanda schedule a meeting/room for us to get this started.
+Thanks,
+
+@subject
+West Desk Power Loads
+
+@ann0
+west load data you requested
+
+@ann1
+meeting needed to discuss west power data.
+
+@ann2
+west power load data instructions

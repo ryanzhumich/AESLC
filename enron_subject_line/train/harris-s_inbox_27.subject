@@ -1,0 +1,13 @@
+Summary Risk Data as of 	26Dec2001	Previous	 			 Active Financial Deals	        71	        71	 Active Physical Positions	        40	       40	 P&L  Daily ($thousands)	        88.3 	       47.0 	 VaR ($thousands)	    1,626.3* 	    1,611.4* 	 			 ETS Margin Account Deals	         0	         0	 			  *The VaR continues to be over the ETS VaR limit of $1,000,000.
+Company	 MTM by Counter Party 	 Asset 	 Liability 	 Net 21Dec01 	 Previous 	 Change 	 NNG	EL Paso Energy Marketing	          17,727.8 	 (20,164.3)	         (2,436.5)	   (2,296.6)	           (139.9)	 NNG	Reliant Energy Services	                 81.5 	            -   	              81.5 	         76.5 	               5.0 	 NNG	TransCanada Energy 	          21,039.6 	 (20,429.4)	             610.2 	       620.5 	             (10.3)	 NNG	Grand Total	          38,848.9 	 (40,593.7)	         (1,744.8)	   (1,599.6)	           (145.2)	 							  The terminated contracts with RMTC are now fixed receivables as of the early termination date of December 14, 2001 except for interest.
+NNG is owed $4.8mm and TW is owed $33.9mm.
+Amounts are past due.
+Definitions: Physical deals modeled in the Caminus Zainet system are deals which have some form of price risk, (i.e.
+Index to index deals, and anticipated fuel sales) This does not include standard transport and storage agreements or unhedged natural positions.
+P&L  Daily:   Daily change in the  mark-to-market (MTM) valuation of all deals being tracked in the Caminus Zainet system.
+This includes the origination and changes in value for both the physical and financial sides of hedges, along with any speculative trades and floating unhedged physical positions.
+VaR is "Value at Risk":  Enron Corp policy defines this as the maximum expected one day loss on the portfolio given a 95% statistical confidence interval.
+This number is currently calculated on the Caminus system using a variance covariance methodology, rather than a Monte Carlo simulation per the Enron Corp policy.
+
+@subject
+Daily Summary of Risk Data 12/26

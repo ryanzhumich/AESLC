@@ -1,0 +1,31 @@
+Please take a look at Vig's effort to detect price arbitrage behavior on TW  using the same method that Steve Kirk used on Northern.
+You'll recall that  Steve's chart on Northern showed an very close correlation between the  calculated arb opportunity and the direction and size of the aggregate  customer imbalances, by month.
+Proving once again that TW is just a little  different, that method shows no correlation at all on TW.
+I agree with Vig's  conclusion that we should not use this data in the 637 filing.
+I tried one alternative reading of the data to see if I could find a  correlation.
+Steve's method evenly weights the value of arb opportunities  that occur early and late in a month.
+Please tell me if you agree, marketing  folks, but I think a more logical approach would risk-weight the apparent arb  opportunites.
+In other words, an apparent opportunity to short TW and sell  the gas for a $.25/mmbtu profit on the 5th of a month is unlikely to generate  arb behavior because a trader has no idea on the 5th what the cash out index  will be at the end of the month.
+In contrast, an opportunity to make $.25 on  the 25th of a month, when a trader can calculate pretty closely what the  monthly index will be, is basically free money.
+Using that logic, I ignored  any apparent arb opportunites in the first half of the month.
+I eyeballed  the timing and size of the arb opportunites (i.e., there's a $.70-.90 arb  opportunity to short TW from the 23d to the end of May, 2000) rather than  using Steve's mathematical approach.
+I still didn't see the kind of  correlation I'd expect.
+The correlation is directionally positive in only 4  out of 12 months, and the size of the imbalances doesn't even make sense in  the months that correlate on direction.
+I give up, and am removing the arb  argument from the daily imbalance section of the draft.
+I'll route that  separately.
+Thanks to Vig, Susan, Lorraine and Richard for hustling on this analysis.
+"Its better to try [to find a correlation] and fail than never to try at all.
+.
+.."
+
+@subject
+tw indeces
+
+@ann0
+data chart information
+
+@ann1
+vig's effort
+
+@ann2
+please review- 637 filling

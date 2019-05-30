@@ -1,0 +1,33 @@
+David,  Here is a short list of what it takes to pull positions into the benchmark.
+1)  Once a book is officialized it must be loaded into GRMS BEFORE the  positions can be pulled into the benchmark.
+2) With everyone officializing books around the same time the GRMS que is  overloaded and positions are very slow to be loaded into GRMS.
+3)  GRMS processes books in the order that they are officialized.
+If one of  your books is officialized behind either the Nymex, Power, or Canadian books  your book will not  be loaded into GRMS until these books are finished.
+This  process can take up to 45 minutes to complete.
+4)  I have to manually create text files for deals that they system is not  designed to handle.
+These files must then be loaded into GRMS.
+4)  I have to manually override Post-IDs that for one reason or another do  not come in automatically or that come in incorrectly.
+5)  The benchmark query takes approximately 15 minutes to complete.
+The more  books that are officialized, the longer the query takes.
+6)  When books are unofficialized and reofficialized, this effectively sends  that book to the back of the GRMS que.
+This means that the entire process  must be started over.
+7)  Now that plugging positions is no longer an option, I have to spend time  researching any variances that arise between the GRMS position and the ERMS  position.
+8)  If the book admin and I cannot solve the problem, then I have to contact  the GRMS support team.
+Since this usually occurs after their regular hours  it takes a while before they can get back in touch with me.
+9)  I cannot query new data while I'm researching variances or on the phone  with GRMS support because I need access to  the information that is currently  in the bench.
+10)  Finally, this is a massive file therefore we frequently get errors and  have to shut down.
+Even if the spreadsheet has been saved and no data is  lost it still take about 10 minutes just to shut this file down and reopen  it.
+If you have any more questions let me know.
+Robin x57478
+
+@subject
+Benchmark Process
+
+@ann0
+how to pull positions into benchmark
+
+@ann1
+new how to use grms instructions
+
+@ann2
+benchmark instructions

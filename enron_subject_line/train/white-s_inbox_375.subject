@@ -1,0 +1,12 @@
+All,  This past weekend, additional performance related changes to the EnPower production environment were implemented.
+Our database environment was upgraded from a 32-bit version of Oracle 8.1.7.2 to the 64-bit version.
+This upgrade increases the maximum size of memory cache available to our applications from 4Gb to 25Gb.
+Apps that cache large amounts of data will experience reductions in physical I/O thereby increasing application speed.
+Once again, this change represents one of many short-term steps to improve the performance of our core wholesale trading system.
+I'll continue to send out notifications as these changes are implemented.
+We will review the complete set of short and long-term performance related improvements in an upcoming architecture review meeting TBA.
+Glad to discuss.
+Steve
+
+@subject
+More EnPower Performance Related Changes

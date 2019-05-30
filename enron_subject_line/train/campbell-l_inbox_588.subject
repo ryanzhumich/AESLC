@@ -1,0 +1,11 @@
+This warning is sent automatically to inform you that your mailbox is approaching the maximum size limit.
+Your mailbox size is currently 78515 KB.
+Mailbox size limits:  	When your mailbox reaches 75000 KB you will receive this message.To check the size of your mailbox:     Right-click the mailbox (Outlook Today),    Select Properties and click the Folder Size button.
+This method can be used on individual folders as well.
+To make more space available, delete any items that are no longer needed such as Sent Items and Journal entries.
+You must empty the Deleted Items folder after deleting items or the space will not be freed.
+To turn Journaling off,   click Tools | Options | Journaling Options and de-select all items.
+See client Help for more information.
+
+@subject
+WARNING:  Your mailbox is approaching the size limit

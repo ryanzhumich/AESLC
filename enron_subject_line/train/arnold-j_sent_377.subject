@@ -1,0 +1,11 @@
+I am changing the way the curve is generated starting in Jan 2004 to better  replicate seasonal fundamentals.
+There are convincing arguments as to why  the summer/winter spreads should tighten over time.
+However, in the previous  methodology they blew out.
+For instance summer/winter in Cal 3 was .232  while Cal 10 was .256.
+I have added a seasonality dampening function that both contracts the  summer/winter spread and applies a premium to the electric load demand months  of July and August over time.
+The formula for the curve remains the same except for a premium lookup for  the month as well as for the year.
+These premiums are as follows:  Jan  -.008 Feb -.004 Mar -.001 Apr .002 May .003 Jun .004 Jul .004 Aug .004 Sep .003 Oct .002 Nov -.003 Dec -.006   These premiums start in Jan 2004 On Wednesday Jan 2003 settled 2.959,  the 3/4 spread was marked at .0375, the  4/5 spread was marked at .0475.
+In the old methodology Jan 2003  = 2.959 Jan 2004  = 2.959 + .0375 = 2.9965 Jan 2005  =          2.9965 + .0475 = 3.044   In the new methodology Jan 2003  = 2.959 Jan 2004  = 2.959 + .0375 - .008 =2.9885 Jan 2005  = 2.9885 + .0475 -.008 = 3.028  The only change in the formula is from: Month x = Month (x- 1 year) + lookup on year on year table to Month x = Month (x- 1 year) + lookup on year on year table + lookup on month  premium table  The seasonality premiums will change over time and I will let you know when I  change them
+
+@subject
+New curve generation methodology

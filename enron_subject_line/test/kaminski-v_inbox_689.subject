@@ -1,0 +1,45 @@
+Folks, Here's some preliminary comments on the model we are using for Argentina.
+Please correct me on any misunderstandings!
+ModReg was written by consultants in Buenos Aires.
+Documentation is available in Spanish only.
+All data input is by means of text files, which require column orientated input, ie numbers must go into specific columns.
+Detailed documentation has been provided specifying the data format for each file.
+A weekly time step is used, with five load blocks per week, and a time horizon of one year, typically.
+Each model run requires about 6 hours of processing.
+ModReg is a modified version of the model used by the grid operator.
+It is coded in Fortran and requires a CPLEX licence.
+CPLEX is a powerful linear programming solver, developed by ILOG.
+As the model is written in Fortran, the very good higher level interface to CPLEX is not available, so the code will have to access CPLEX at a lower level.
+We have no documentation describing how the model algorithms.
+Source code is not available at present.
+ModReg appears to model around 30 busses and 71 lines.
+Lines are characterised by from bus number, to bus number, maximum MW capacity in each direction, a percentage  loss factor, cost of transmission in each direction, and some other details.
+Demand data is specified by week and load block for each bus.
+Thermal plants have a heat rate and maintenance schedule specified, with the possibility of multiple fuels.
+I understand that hydro generation schedules for each historical inflow condition are an input to the model as they are calculated elsewhere.
+From the above it appears that we have an unsatisfactory situation: 	ModReg is difficult to use 	we do not know in detail what the model does 	we do not have documentation describing the algorithm  	because source code is not available, we are completely dependent on the consultants.
+If Enron is to continue modeling Argentina, we should as a minimum have a model that we understand, is reasonably easy to use, and is documented.
+A graphical user interface is really needed to make ModReg easier to use.
+Documentation is of course essential.
+We should not use a model developed by consultants without documentation.
+These steps would enable us to have more confidence in model results, and shortens the learning curve to enable more people to use model.
+SDDP is likely to be a suitable replacement.
+It would require reseroir inflow data rather than the calculated generations.
+The regional loads etc could be modeled using the DC loadflow feature, with zero impedance lines.
+Transmission losses in SDDP are a quadratic function of power flows, so some guesses would have to be made for line resistence values.
+Setting up an SDDP model to represent all the aspects included in ModReg would be a time consuming job, that would require a good undertanding of the data for both models.
+Some direct cut and paste of data from one model's files to the others will be possible with a suitable column oriented text editor.
+However the end result would be a model with the desirable attributes of documention, GUI interface, and flexible output.
+Tom Halliburton
+
+@subject
+ModReg for Argentina
+
+@ann0
+argentina model preliminary comments - review and advise request
+
+@ann1
+preliminary comments on the argentina model
+
+@ann2
+argentina comments and suggested upgrades

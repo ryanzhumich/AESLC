@@ -1,0 +1,16 @@
+On 8/15/2001 Market Participants will have (2) new billing codes in their advisory statements.
+(1)  Code 238, which currently exists in the hrly advisory statement, but up until now it has been null.
+Code 238 will now be 'Hrly LRR DAM Contract Bal Pmnt $'.
+This will reflect dollars paid to a generator for DAM Contract Balancing that is Out-of-Merit for LRR.
+Code 239 will reflect dollars paid to a generator for DAM Contract Balancing and is not Out-of-Merit for LRR.
+The sum (238+239)=313, and 313 can be found under the "Power Supplier" section of the daily advisory statement.
+(2)  Code 314, this is a new addition that did not exist on the daily csv file before.
+Code 314 is 'ELR DAM Contract Balancing Payment $'.
+There is not an hrly code for ELR DAM Contract Balancing because it is a daily settlement, not an hrly settlement.
+The funds that will be collected from the LSE's to pay for Code 313, and Code 314 will be collected through the residual adjustment codes 611 (hrly) and 813 (daily).
+Version 14 of the data dictionary will reflect these new billing codes, and this will be found on the NYISO website under Grid Accounting & Settlements, just like the previous versions.
+A new billing code mapping will also be available, and will be version 7, and can also be found under the Grid Accounting & Settlements section on the NYISO website.
+(See attached file: Version 14.0 Data Dictionary.doc)  - Version 14.0 Data Dictionary.doc
+
+@subject
+CHANGE TO THE ADVISORY STATEMENTS BEGINNING 8/15/2001

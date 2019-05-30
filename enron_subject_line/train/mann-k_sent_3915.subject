@@ -1,0 +1,9 @@
+Here are the issues I see with their draft:  Does not allow for us to sell them power, only buy their power and sell to  others.
+This means that we can't sell them power until we get the full  contract in place.
+Fuel transactions include fuel oil, and I thought we weren't managing fuel  oil.
+Incentive fee (in main contract) defined to only include the sale of gas.
+Doesn't include the language we need for internal approvals.
+Payment section doesn't address payment for sale of power to them from the  market.
+
+@subject
+Issues

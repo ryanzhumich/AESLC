@@ -1,0 +1,25 @@
+Kathy,  I spoke with the system administrators today and they gave me several more  guidelines for the text files.
+1) The Book ID must be an existing book (Please use the same book id every  day).
+Also please Sort the Book Id by risk type (ie IMCan-Erms-xl-GDL, then  IMCAN-ERMS-XL-PHY, then IMCAN-ERMS-XL-PRC.)
+2) The Master Deal Id must be a unique number per line.
+3) The reference date must be in the following format D-MMM-YY.
+4) MTM Value Amount must be a NUMBER.
+If there is no position please use a  zero.
+5) The GROSS POSITION and DELTA POSITION must be a value.
+No commas, no  dashes, no links, and no #REF errors.
+Again if there is no position please  use a zero.
+The guidelines apply to all text files that must be loaded into GRMS.
+If you  have any question, please give me a call.
+Thanks,
+
+@subject
+Spreadsheet Format
+
+@ann0
+guidelines for text files
+
+@ann1
+guidelines for text files loaded into grms
+
+@ann2
+text file guidelines

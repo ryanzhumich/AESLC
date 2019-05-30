@@ -1,0 +1,10 @@
+EAS reviewed a sample of invoices with company codes altered by the end user prior to coding and approval to ensure that the original invoice dates were maintained.
+Our testing showed that the fix was effective and the invoice date did not change after October 10, 2001.
+Several other issues were uncovered and are described in the draft report.
+Attached please find the draft report detailing the results of our testing.
+I will contact some of you next week to discuss the recommendations.
+Feel free to contact me with any questions or concerns regarding this draft report.
+Thank you
+
+@subject
+iPayit Invoice Date Changes

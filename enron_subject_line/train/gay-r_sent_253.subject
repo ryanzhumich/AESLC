@@ -1,0 +1,7 @@
+Guys:  currently the system is designed to match upstreams and downstreams  for buy/sells in contract exchange, and the scheduler would then recreate  these paths in Unify.
+In my opinion this does not guarantee data integrity  between the systems.
+Carrie and I have scheduled a meeting for 1:30 pm today  in 21c2 to discuss.
+Please feel free to attend and give your opinions.
+
+@subject
+"Auto-Pathing" Buy/Sells

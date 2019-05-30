@@ -1,0 +1,17 @@
+I have received questions about interpreting the ratio.
+Let me use yesterday's closing price.
+The merger probability is derived from a two scenario test, merger closure or merger non closure (there is also a competing offer scenario in reality).
+Let's use a closing DYN price of $46.20 yesterday (note I had a typo), at the exchange ratio, (not taking into account timing and dividends), this yields a merged ENE price of $12.40 ($46.20 * .2685).
+ENE closed at $10.00 yesterday.
+Thus if the market thought there was complete certainty of merger, the prices would converge at $12.40.
+Now comes the artful part, the non merger ENE price.
+I included another tab (Merger) to sensitize this.
+Say we pick an ENE price with no merger of $4.00.
+Looking at a deterministic probability, one can look at the distance (difference) in dollars to calculate the probability.
+For instance:  ENE merged           12.40 ENE close 14-Nov   10.00 ENE no merger         4.00  Probability of merger = (1-((12.40-10.00) / (12.40 - 4.00))) or 71.4%.
+Said another way, there is a 71.4% chance of being worth $12.40 and a 28.6% chance of being worth $4.00, which yields a weighted price of $10.00  ($12.40 * 71.4%)+($4.00 * 28.6%).
+I also included a $1 distressed ENE price and a $7 previously observed low end ENE price as scenarios.
+Regards,
+
+@subject
+Exchange ratio prices and probability

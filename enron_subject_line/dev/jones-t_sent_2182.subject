@@ -1,0 +1,36 @@
+Attached is the link that will allow you access to referenced database.
+You  should have edit access (non-Legal or Credit employees can get view access  only.
+They should not see our comments.
+That information is confidential  and subject to attorney/client privilege).
+Let me know if you do not have  edit access.
+Please do not edit entries for companies or agreements outside  your area of responsibility.
+A few notes...
+There is some great reporting functionality in this database.
+Check out some  of the sorts on the left.
+There is a drop down called "Pending Swap  Update".
+That sort will create a list of all executed and draft financial  agreements.
+There are ways you can sort the Pending Swap Update to generate  reports for you compan  The "restrictions" column should be limited to only those issues that are  critical to trading/confirmations/settlement.
+Kinda, before you do/authorize  a trade read this.
+Not for general legal notes.
+Once an agreement's status is coded "executed", it should never be coded  elsewise (it will mess up reporting).
+If you are amending an agreement or  superseding and replacing one, code the status "executed-under amendment".
+I should be the only one coded to change the "keywords" in the drop downs.
+If you need keywords added, send me an email and I will add them for you.
+Please note, that we have just upgraded the database to add the ISDA  definitions, branch offices approved for trading, and market disruption  provisions.
+This information should be inputted for the new master swap  agreements on a going forward basis, but we still need to go back and  repopulate the data for the existing master swap agreements.
+Also, FYI, the "See" drop down is our nickname for the name changes and  mergers reference.
+If an item is filled in for that entity it should show  you any prior or new names for the counterparty.
+We hope you find the information provided in this database helpful.
+Link -->
+
+@subject
+ISDA Master Agreement Data Base Link
+
+@ann0
+link for access to referenced database
+
+@ann1
+database access link and info
+
+@ann2
+referenced database information

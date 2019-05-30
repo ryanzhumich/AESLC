@@ -1,0 +1,19 @@
+Dear Power Outage Database Customer,  Attached you will find an excel document.
+The outage contained within is a rescheduled outage.
+Your daily delivery will still contain this outage.
+In addition to the excel document, there is a dbf file that is formatted like your daily delivery you receive nightly.
+This will enable you to load the data into your regular database.
+Any questions please let me know.
+Thanks.
+
+@subject
+MAPP (Cooper)
+
+@ann0
+database outage information
+
+@ann1
+power outage update
+
+@ann2
+rescheduled outage

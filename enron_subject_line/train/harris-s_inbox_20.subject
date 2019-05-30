@@ -1,0 +1,9 @@
+The following item was presented in this week's corporate change control....  Dec. 28 Beginning at 5:00 p.m., the Corporate server team will remove domain controllers CORPHOU-DCARD02 and CORPHOU-DCARD03 from service to be rebuilt.
+These are just two of the numerous active domain controllers within the Corp domain.
+There should be no disruption of service as user requests should automatically be redirected to an active domain controller.
+Once these servers are rebuilt, they will be returned to the Corp domain.
+Dec. 31 From 8:00 a.m. - 12:00 p.m., the Corporate server team will move ECTHOU-HR1 to the Ardmore data center.
+This move will result in a total disruption of service for those HR users whose S:\ drive is mapped to this server.
+
+@subject
+ETS and Corporate Change Control

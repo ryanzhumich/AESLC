@@ -1,0 +1,7 @@
+Craig and Bill:  Please note that for Wednesday 01/02/02, Import ID ENRJ_CISO_8000 is wrong.
+The On-peak needs to be a 35mw and the off-peak needs to be a 45mw.
+You will want to change the load zones in SP15 to make us flat in position manager.
+Thanks,
+
+@subject
+Imports for 01/02/02 @ Mead

@@ -1,0 +1,26 @@
+Without Prejudice  Here is the matrix with work allocated.
+If you run out of work or have too much, let me know.
+Thanks.
+Any other issues let me know.
+Please follow the procedures laid out in Kyle's memo.
+Please set up a file (use a legal file with sections for the model calc's, termination status notes and letters, notes on telephone conversations and script reviewed, release and other agreements, etc.
+for each counterparty with all of the relevant data.
+At the end of the day these will be merged with the legal files.
+Use orange labels so that we can easily identify these files around the office.
+We now have a directory set up under i:\CES\Estate to capture clean-up stuff.
+You should save your models or anything else created in a sub-directory of the company name.
+To get a sense of exposures and contract type for a given counterparty, please see Jason Biever.
+We have an exposures report prepared out of TAGG with AR/AP from accounting - I don't want this to be widely copied so if you wouldn't mind, just work through Jason to get the 4 pieces of information for your counterparty (physical contract type, FMTM, PMTM, AR, AP).
+The MTM is from Dec 11, somewhat in the middle of all the termination dates.
+You will have to ask Risk to get a TAGG run from the termination date.
+Kyle, We need to confirm a process for handling counterparties with many deals (eg.
+Duke, PanCdn).
+I would suggest that we run TAGG, then take all deals of MTM over $50,000 and model them separately.
+The rest of the small deals we would group using the TAGG run to value.
+You might want to set a higher or lower threshold.
+Please let me know.
+Peter, We need to issue to the teams a termination status for each of the counterparties on the priority list, or would you prefer that groups contact Chris Christopher in Greg's absence to go through the details on termination status (this could prove a roadblock over the next few days).
+At any rate, per our process, the teams need to sit down with legal before they start, to understand the situation.
+
+@subject
+Responsibilities breakdown for clean-up

@@ -1,0 +1,10 @@
+I think Sitara deal 286147 is not pulling the correct price in Unify.
+The  reference price is NWPL.RKYMTNS.GDP.DA and the particular month in question  is 06/00.
+When I look in the Tables database under June, there is no price.
+And what was pulled for the invoice back in June I don't think is correct.
+Please let me know what you find out.
+Thanks.
+DG    3-9573
+
+@subject
+286147

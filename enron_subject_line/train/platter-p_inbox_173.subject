@@ -1,0 +1,10 @@
+The new California Scheduling sheet is located at  P:\Trading\California\EES\joh2\SCH  There are 2 sheets, one for Newco and one for the Estate.
+If you could please test out the Estate sheet and make sure it correlates correctly with the current old sheet, that would be greatly appreciated.
+Both sheets point to different databases.
+There is still the known "holiday bug" where all holidays from 2002 and on will not show up correctly.
+THis will be fixed in the new upcoming sheet.
+The Newco sheet seems to work but there is no valid data in the Enpower database (all data for newco in the Enpower database has been truncated).
+Hopefully, Phil and I will have the new system up and running before we have to revert back to the old Newco sheet.
+
+@subject
+Cali Scheduling Sheets

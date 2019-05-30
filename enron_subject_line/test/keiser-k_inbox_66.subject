@@ -1,0 +1,19 @@
+Kam: I had issues.
+The Trade Type Distribution by Transactions(57,619) does not equal the total number of transactions by tenor(57,583) or by MTM(57,583) due to duplicates.
+For example,  deal # EX2226.1 is listed as a Forward and a Flex Price.
+Subsequently, this deal is counted twice under the Trade Type distribution and only once in the tenor and MTM sections.
+I made a cell note in the attached spreadsheet - Cell H49 of FormB - that lists all the duplicates.
+Let me know what you think and I can wrap this up Monday a.m. Have a good weekend.
+Thanks,
+
+@subject
+EY Request2
+
+@ann0
+attached spreadsheet - cell h49 of formb
+
+@ann1
+issues with transaction numbers
+
+@ann2
+trade type distribution duplicates

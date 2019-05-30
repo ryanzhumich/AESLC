@@ -1,0 +1,29 @@
+Several changes have been made to Stack Manager and the website.
+These changes are outlined below and will be visible by all as of Monday September 3, 2001.
+Stack Manager Changes  Activate/Inactivate Stack - This functionality allows the trader to pull a product's prices from the website without suspending the product.
+If the Top of Stack limit order functionality is activated for a particular product this should be used to pull the stack prices from the website without pulling the entire product; therefore, if there are top of stack limit orders against the product they will remain visible and transactable on the website.
+If a product's stack is inactivated the font for that product will be grayed out in stack manager.
+If the stack is active it will appear in black font.
+To use this feature, select the product, right click and choose "Inactivate Stack".
+When you are ready to reactivate your prices, select the same product, right click again and choose "Activate Stack".
+There are also icons on the tool bar at the top of your screen which will Activate/Inactivate the stack of the highlighted product.
+See screen shot below for the icons.
+Changes to Product Properties - Currently when modifications are made to certain properties within the product properties screen, the product will be suspended and pulled from the website.
+Now instead of being suspended, the product's stack will become inactive.
+Once the changes have been made and saved to the properties of a product simply click the Activate Stack icon as discussed above.
+Website Change  Restrictions on Top of Stack orders - If Top of Stack limit orders are allowed on a product, but the trader is not showing both a bid and offer, limit orders will not be able to be placed on that product.
+If you have any questions please call me at 31787.
+Thanks.
+Savita
+
+@subject
+NEW ENRONONLINE FUNCTIONALITY
+
+@ann0
+stack manager and  website changes
+
+@ann1
+stack manager changes
+
+@ann2
+changes to stack manager

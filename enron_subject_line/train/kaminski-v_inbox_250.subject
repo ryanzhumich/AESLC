@@ -1,0 +1,9 @@
+As an FYI for those not already in the loop, new factors for VaR have not been implemented since some time in April, and it seems the process of administering them is foggy.
+So here is an outline of the R&R and required technology to support the administration of factor loadings:       Broadly, I have assumed that Global Risk Ops can run the process.
+However, exceptions can take one of two forms:  Large jumps in VaR due to bona fide changes in correlations; Pathologies in the matrix construct supporting factors;  For either, tools are required for users to examine the exceptions and make changes as necessary (generally Global ops in the former case and RAC/Research in the latter).
+Note that the IT Development group has no part in this business process beyond building the tools.
+Lets use this as the starting point to develop a business model that makes this work.
+Rgds DP
+
+@subject
+Factor Loadings Process

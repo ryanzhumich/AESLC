@@ -1,0 +1,8 @@
+I've gone back through the ISDA Credit Support Annex and the "green book" and  my conclusion is that unless we modify the standard form, we have to give an  Independent Amount back to the counterparty when we go out of the money far  enough (note that the definition of Exposure results in a negative number  when we are out of the money reducing the Credit Support Amount below the  Independent Amount).
+The theory there is that as the market moves against  us, we are cushioned by our "out-of-the-moneyness" and will be able to ask  for support as the market moves back in our favor before we are actually in  the money.
+I'm afraid that Credit has been operating under the assumption  that we get to keep Independent Amounts until the Transaction terminates.
+We  need to set up a system with Credit so we all know what is meant on the  credit work sheets -- i.e.
+whether a cushion or up-front amount should be
+
+@subject
+Independent Amounts

@@ -1,0 +1,8 @@
+I have the changes in place in order to start capturing the storage balance(s) for the 2 identified PG&E points ("PG&E Storage" and "Wild Goose Storage").
+The next scrape time for PG&E is 12:30 today, so we can evaluate the first run of these values shortly after that.
+Through the end of the week (and even beyond), this data should be monitored closely, to make sure the calculations are correct.
+Any questions/concerns, let me know.
+Chris  Pipeline ID:		47 DRN's:			PGEINV, WILDGOOSEINV  Data starts with effective date 05/12/2001, cycle 7  (this value obtained from the old PG&E Operational Report, needed to 'seed' the rolling calculations)
+
+@subject
+PG&E Storage Balance(s)

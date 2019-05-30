@@ -1,0 +1,17 @@
+This is the Postfix program at host exseamx02.concureworkplace.com.
+I'm sorry to have to inform you that the message returned below could not be delivered to one or more destinations.
+For further assistance, please contact <postmaster@concureworkplace.com>  If you do so, please include this problem report.
+You can delete your own text from the message returned below.
+The Postfix program  <enron_update@concureworkplace.com>: unknown user: "enron_update"
+
+@subject
+Undelivered Mail Returned to Sender
+
+@ann0
+mail delivery failure
+
+@ann1
+error message for email concerning the postfix program
+
+@ann2
+message not delivered

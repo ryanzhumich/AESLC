@@ -1,0 +1,11 @@
+The following items was presented in this week's corporate change control.... Jan 10 From 10:00 a.m. - 1:00 p.m., the Messaging team will upgrade mailsweeper servers NAHOU-MSMSW03P and  NAHOU-MSMSW06P to version 4.2_8.
+No impact is expected.
+Jan. 12 From 11:00 p.m. through 1/13 at 2:00 a.m., ENS backbone will replace the primary clock on the 172.16.7.0 server segment.
+This switch is located in the old ECT 34th floor section of the raised floor.
+All servers connected to this switch will have an outage of approximately three hours.
+No impact to ETS users is expected.
+Jan. 14	 From 12:00 p.m. through 1/15 at 12:00 p.m., the SAP team will move the XMS database from Seattle to Denver.
+During this maintenance, the web-based XMS (employee expense) system will be unavailable.
+
+@subject
+ETS and Corporate Change Control

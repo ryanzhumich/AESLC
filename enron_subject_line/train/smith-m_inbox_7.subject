@@ -1,0 +1,6 @@
+I have added a cycle '0' to all pipelines in the database...per our discussion, this cycle will be used only in an 'emergency' type situation (we didn't scrape any data (for whatever reason), and there is some available that can be manually entered).
+By being '0', this also shouldn't affect the logic of Yan's reports, since he pulls the latest cycle available (read the largest number; if ANY scraped data gets in the DB, it will be returned in place of any cycle 0 data).
+Any questions, feel free to ask...  Chris
+
+@subject
+Cycle 0 For All Pipeliines

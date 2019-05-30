@@ -1,0 +1,15 @@
+To forecast Entex:  We have a database that contains the citygate volumes by day, with the low  and high temps for each day.
+When we get a weather report for the new day,  we enter the projected low temp and the spread into the file.
+The database  is sorted by that information with a +/- 2 degrees on the temps, and provides  an average volume for that criteria.
+(For example:  With temps of 40-60, the  sort would produce a list of the volumes pulled for each day with a low of 38  to 42 degrees and a temperature spread of 20 to 22 degrees.
+An average is  then calculated from that volumetric data.
+In this case, the average is  calculated to 259,000 Mmbtu.)
+Upon calculating the average, we then apply  information we obtain through daily business and adjust that estimate.
+Things to consider:  if weather is cloudy or sunny, wet or dry;  wind chill;   Entex's obligation on Midcon;  Entex's recent operating procedures;  Entex  takes versus our prior estimates (have we been under or overestimating  volumes each day), etc.
+Additionally, since we only see about 30% of the meters, we apply a factor to  estimate the remaining 70%.
+If we have an unaccounted volume for a few days  that is fairly consistent (and we have determined that the ua4 has not been  caused by something else), we may adjust the factor to bring the estimates  more in line.
+Let me know if you have any questions.
+Daren
+
+@subject
+Entex Forecasting

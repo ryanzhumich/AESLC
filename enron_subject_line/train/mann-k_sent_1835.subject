@@ -1,0 +1,7 @@
+There may be a possible bust in 17.4..
+Specifically please look at how the  math works on the refund due to termination.
+I think that the baseline  should be the maximum liability amount, or whatever the proper term might be.
+Thanks,
+
+@subject
+Break out contract form

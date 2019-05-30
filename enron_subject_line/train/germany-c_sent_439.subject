@@ -1,0 +1,7 @@
+I changed the formula on the IF-CNRGATH curve in the EastMrkt file.
+Before  the change it was CGT/APPALAC - $.32.
+After the change its (CGAS -  $.30)x(1-.0492).
+This widens the spread by about $.24.
+
+@subject
+CNR curve

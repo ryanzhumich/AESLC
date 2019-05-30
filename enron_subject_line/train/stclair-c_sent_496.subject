@@ -1,0 +1,9 @@
+Rhett: You may recall a few weeks ago I asked you about some language that one of  our counterparties wanted as an amendment to the term "Indemnifiable Tax".
+Another counterparty, Deutsche Bank, has requested the following which I  think is very similar to what we were looking at before:  Notwithstanding the foregoing, "IndemnifiableTax" also means any Tax imposed  by reasons of a Change in Tax Law by a government or taxing authority of a  Relevant Jurisdiction of the payer, unless the payee is incorporated,  organized, managed and controlled or considered to have its seat in such  jurisdiction, or is acting for purposes of this Agreement through a branch or  office located in such jurisdiction.
+In the ISDA Users' guide, they explain that the effect of this language is to  eliminate the payee's risk of bearing new taxes imposed by the payer's  jurisdiction even if the payee's activities in such jurisdiction is the basis  for such taxes.
+(except if the circumstances in the definition occur).
+It  thus results in the payer having to gross up for such taxes.
+Do you think that we can or should accept this?
+
+@subject
+ISDA Tax Issue

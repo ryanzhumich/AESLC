@@ -1,0 +1,31 @@
+Paul, I have been doing some analysis and have found a few problems that should be looked at.
+1.
+The number Mother data is pulling for Zone P is wrong.
+The pointer for the data can be found on the SQL worksheet the expression is: 	  avg(decode(prc.power_reference_period_cd,'DAYAHEAD', decode(pl.location_name,'PJM',price_amt))) PJM_DA, and	  avg(decode(prc.power_reference_period_cd,'HOURLY', decode(pl.location_name,'PJM',price_amt))) PJM_RT,  I have looked at the PJM and NY prices and am unable to figure out where the number is coming from.
+2.
+The other 24hr desk evidently has been told that the PJM night shift is to prep the PJM and Nepool portions of the shift notes.
+That is fine with me.
+I wrote a macro to pull, format and print the Nepool information.
+The PJM information is not available on the website.
+The East power portal has something.
+I think it does some kind of Op Sum pull at some unknown interval.
+The problem is the information is not accurate.
+Rob Bensen's frustration with this bad information is the main reason the other 24hr desk doesn't want any part of the reporting.
+2.a All data points are different than the one hour averages calculated in edata.
+This makes me doubt that opsum is the source, as edata also pulls from opsum.
+2.b When all interfaces and hubs are printing the same, the prices shown differ in the same hour on the website.
+I have no idea where this information is coming from but it is not right.
+If the correct data can be found there is an application that pulls from the database at "M:\Electric\24hour\PJM AVE\PJMSummary.exe".
+If they could fix this app I would care less about the web site.
+If they do not want to fix the app I can write a macro to pull the same data from the mother data template.
+I don't really care how I get the data, I just need to get yesterday's PJM for the shift note.
+In other news, if you are trading some of the regular products, are you following the DA-RT physical moves?
+If we do man the 24hr desk (even if Bryce is the day guy) we could cover the DA-RT physical.
+Having it part of the 24hr desk would seem to make sense because the evening load and more up to date weather forecasts could be used when entering the NY side in the early morning.
+I only mention this if you are finding yourself too busy trading PJM to spend the same amount of time on the analysis.
+It is certainly easier to do uninterrupted analysis on the back shift.
+Just a thought.
+Thanks,
+
+@subject
+Data Problems

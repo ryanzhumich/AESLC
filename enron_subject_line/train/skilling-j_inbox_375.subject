@@ -1,0 +1,10 @@
+Jeff,  I have been researching Enron and understand some of the difficulties with running global applications.
+Many companies have problems with database replication over a wide area network.
+Traditional database replication is great for local area replication within one data center.
+Once you scale to multiple data centers, traditional replication is unreliable, complicated to set up and manage, and very expensive.
+Zembu's software was designed to address this exact problem.
+Our data replication and synchronization solution can be used with 2 to n geographically dispersed data centers.
+Zembu also alleviates problems with:
+
+@subject
+Online application issues

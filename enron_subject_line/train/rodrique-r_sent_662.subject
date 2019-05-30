@@ -1,0 +1,12 @@
+Please format the text files to be processed through GRMS in the following  manner.
+1) Sort by book id, then by master deal id, then by reference date.
+2) The dates must be in the following format.
+4-Mar-97 3) The book names must be the same every day.
+4) If the cell should contain a number please put a zero if there is no  value.
+GRMS will not recognize a N/A in a field that is supposed to contain  a number.
+5) Please name the files in a manner consistent with those below.
+If you have any questions feel free to give me a call.
+Thanks,
+
+@subject
+Power and Exotics TXT Files

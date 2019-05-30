@@ -1,0 +1,25 @@
+Group,  Cuts are on the way.
+While most can be zeroed out in Enpower (for LD's) like normal, longterm contracts will require an annuity for the value of the cut on that particular day.
+In the interest of being uniform, the guidelines for cuts are below.
+We will be handling cuts in the following manner:  1.
+Documentation is priority #1.
+We need to fill out a cut sheet with the times, the name of the person who called, the tag number, the quantity and price.
+2.
+After attempting to resupply the cut or find an alternate sink we need to carefully document changes in the new enpower workspace.
+3.
+We need to zero out all cut deals in Enpower, we then need to calculate the value of the deals and make an annuity.
+The annuity must be made HE 1 on the following day of the schedule.
+The annuity needs to be for 1 mw for the value of the zeroed out contract.
+In the comment section of the annuity you must include the Enpower deal # of the cut deal and should include an indication of the number of mws each hour and the contract price--for example (4 hours @ 25 mws X $100 per mw = $10,000).
+
+@subject
+Handling Contractual Cuts and Deals.
+
+@ann0
+proper procedures for recording cuts in enpower
+
+@ann1
+protocol for cuts
+
+@ann2
+guidelines for cuts

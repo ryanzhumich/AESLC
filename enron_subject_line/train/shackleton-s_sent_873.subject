@@ -1,0 +1,12 @@
+Per our conversation with Dan F., ENA needs to understand issues related to  the distinction between "investor owned utilities" (or "IOUs") and municipal  utilities (or "municipals") in connection with derivatives activity.
+In the  U.S., this distinction enables us to treat IOUs as general corporates.
+Thus,  we negotiate our standard ISDA Master with an IOU, except that we add an  Additional Termination Event to prevent the IOU from taking an adverse stance  in its state public utility commission proceedings.
+A copy of that  Additional Termination Event is attached for your review.
+Our approach with  respect to municipals is dramatically different.
+When negotiating an ISDA  Master with municipals, we use a Schedule modeled after the 1992 U.S.  Municipal Counterparty Schedule, having additional reps, the added concept of  "Incipient Illegality" and an enforceability opinion.
+A copy of that  Schedule is also attached for your reference.
+We would like to understand whether this distinction also exists in Canada,  and if so, in all Canadian provinces, and whether there is a distinction when  a municipal is an investor in an IOU (as we understand that the government  may assist a utility to emerge from bankruptcy).
+In that regard, would you  recommend that ENA use distinct ISDA Schedules for these types of entities  and/or would you recommend specific changes to our format?
+
+@subject
+I'd suggest the following:

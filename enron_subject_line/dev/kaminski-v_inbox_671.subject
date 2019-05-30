@@ -1,0 +1,18 @@
+Hi all,  We have updated the PSIM model.
+The current version can handle more realistic operational constraints by selecting "Semi Optimal Dispatch" toggle for Dispatch  Mode.
+This dispatch mode considers minimum up hours, minimum down hours, ramp-up hours, start up cost, fuel switching cost, forward looking within a  user-specified period of time.
+It also allows user to enter their estimate of ISO  curtailment on their generation capacity by month in "Asset" page.
+You need to put Frontera.dll in your C:\Winnet directory, and the spreadsheet and help files in one directory of your choice.
+Alex
+
+@subject
+PSIM progress
+
+@ann0
+psim model update
+
+@ann1
+psim model has been updated
+
+@ann2
+psim model

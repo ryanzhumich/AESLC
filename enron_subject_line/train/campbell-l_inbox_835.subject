@@ -1,0 +1,47 @@
+scheije@selectenergy.com writes to the NYISO_TECH_EXCHANGE Discussion List:  I apologize for the larger circulation of this email than to just the S&P WG.
+The MC last week urged a rapid consideration of the interactions between BME and SCD and their related prices from the hot, high load days of July 24 and 25.
+To pursue this there is additional information needed from the ISO.
+Below is a preliminary list I compiled that would be useful in assessing the situation.
+Data should be provided for relevant hours i.e.
+those with high BME or RT prices or both.
+Particularly for those hours with binding reserve constraints in HA or RT.
+1 RT reserve levels in each hour (it is recognized that the value fluctuates but the the point is to get an idea of apporximately how short the ISO was of reserves, if at all)  2 Similar information should be obtained for our neighbors; PJM, NE and IMO.
+Also, could the ISO describe what the others do hour ahead to prepare for the next operating hour under circumstances such as we encountered those two days?
+NY has the unfortunate position of producing prices related to decisions for which it pays otherwise - what were our neighbors doing?
+3 An accounting, by hour, of reserves carried on exports out of NY  4 Identification of any non-ICAP based exports that may have been counted for reserve; this shouldn't happen as it puts non-ICAP providers in the position of being recalled...  5 BME reserve deficiencies by hour; were the reserve levels always met, albeit at extreme prices, or was the ISO unable to cover the requirements in advance?
+6 Based on Mike Calimano's report, there were "a couple hundred Mws" of operating units not seen by BME; this situation needs to be (1) confirmed and (2) explained and corrected  The following are sort of 2nd tier questions:  1 If the ISO was short of reserves in RT why weren't the EDRP resources, who were notified, not called into play to aid in curing the deficiency?
+There should have been no economic judgement call by operators (if the first two hours were at $500 that was likely cheaper than what BME was taking in if the BME prices applied to settlement under ECA B).
+BME made no judgement call when its prices spiked due to the 30 M NSR scarcity and took available imports.
+2 What would have been the System State(s) if the reserve margins had been held in RT (assuming ISO was short in RT)?
+Would this have forced a Major Emergency and subsequent voltage reductions, public appeals etc?
+Had this been done would have the EDRP Mws been activated?
+I would also like to offer the following as potential changes to be considered.
+They are based on the limited discussions that have taken place so far.
+1 Include exports that are being counted as reserve in BME as it evaluates its reserve position.
+Since BME is deciding which transactions will be scheduled, operators would need to indicate which transactions and how many Mws could be counted in RT as reserves.
+The implications for the solution algorithm are unclear - can BME recognize the additional reserves thus carried?
+Would it result in fewer imports and lower BME prices?
+What if the reserve requirements used as input to BME were manipulated downward for reserves on exports?
+What happens if BME did not schedule the export(s)?
+2 Subject to the ISO providing detailed RT reserve info, it seems that the reserves should be carried in RT and that SCD should not be allowed to dispatch with units that were not available to BME (thus resulting in the large price disparities).
+If the ISO had adequate reserves in RT, SCD should not be allowed to produce RT price reductions relative to what BME is doing.
+However, having said this, if there are no energy resources to maintain reserve levels AND the ISO needs to maintain its regulation room, the next thing to go is load.
+To my long understanding, we do not shed load to avoid shedding load (at least not to maintain reserves...)  Perhaps if BME has some adjustments and the missing Mws are accounted for, little needs to be done in RT.
+(This does not mean that SCD handles GTs correctly - that is still a commit problem it is incapable of resolving...)  3 At one point, we had approved use of BME prices to settle all HA transactions.
+This approach was scuttled by the ISO when they discovered that there were persistent, unidirectional price differences between the proxy busses and their connected in-NY zones.
+We then retreated to automating what is done under ECA B; substituting BME prices only under constrained ramp or ATC conditions.
+The ISO should review this again.
+Does the price difference remain, inviting gaming?
+If so, is there a way for the MMU to watch for or prevent inappropriate opportunistic behavior?
+A full, partial 3rd settlement would lessen the sting of HA prices that are out of synch with RT.
+4 The ISO should review the multipliers in the LP solution that insure that energy, then regulation and then the 3 types of reserve are maintained.
+They should be no more than required for a proper solution outcome.
+Prices at $65000 are not necessary and misleading (while mathematically correct...).
+Also, if we are to consider settling transactions at BME prices, such an outcome would result in considerable opposition...  5 Another non-controversial change would be to extend the DADRP participants to hour ahead evaluation.
+In the instant circumstance, it is likely that BME would have chosen some of those loads opposed to imports (there was no congestion so some of those western loads might have looked pretty good...).
+Since there is the issue that the DADRP is subsidized, I would propose that, if extended to BME, that the DA bids be used for BME evaluation.
+If nothing else look at it as sending money to companies in NYS.
+Jim
+
+@subject
+S&P Mtg re: BME/RT Issues

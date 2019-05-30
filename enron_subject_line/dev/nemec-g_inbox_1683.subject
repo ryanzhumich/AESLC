@@ -1,0 +1,15 @@
+UPDATE  Cancellation of System Outage Notification     Outage Description:  We had previously communicated that all SAP systems (including Financial Production, HR Production, Interfaces , iBuyIt, and iPayIt) would be shutdown over the weekend in order to upgrade our storage hardware.
+We are temporarily postponing these activities and will send you additional communications to inform you of the new date(s) in the near future.
+Date & Time of Outage:   The scheduled System Outage has been postponed       Contacts:  Contact:  Contact Information:
+
+@subject
+Updated - Cancellation of System Outage Notification
+
+@ann0
+cancellation of system outage
+
+@ann1
+important update regarding outage information
+
+@ann2
+weekend shutdown of sap systems postponed

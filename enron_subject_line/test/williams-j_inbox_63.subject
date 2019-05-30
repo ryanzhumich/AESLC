@@ -1,0 +1,18 @@
+David,  	Bryan referred me to you.
+We are supporting the People's Energy website which interfaces with an Oracle db.
+It has been functioning properly until recently.
+I currently do not have insight to see what the connection string is in production, but when trying to connect to the development database "peoplesdev", using U=peoples_user P=peoples_user, I am receiving the error "ORACLE not available".
+Do you know if this database is out, or if the login parameters have changed?
+Thanks,
+
+@subject
+db outage
+
+@ann0
+people's energy website error help
+
+@ann1
+oracle database error for people's energy website?
+
+@ann2
+people's energy website support problem

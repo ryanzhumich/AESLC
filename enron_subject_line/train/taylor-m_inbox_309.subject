@@ -1,0 +1,12 @@
+Your review and approval of the following product type in the EOL Data manager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail).
+Please do not approve before 11 A.M.
+US Gas Phy Fwd Firm < or = 1Mo (INTERNAL ONLY) (2200)  US Gas Phy       ANG Kingsgate                   USD/MM  A US Gas Transaction with Enron North America Corp., under which Seller shall sell and Buyer shall purchase a quantity of natural gas equal to the Daily Contract Quantity at the Contract Price on a firm basis.
+The Contract Price shall be as submitted by Counterparty via the Website.
+The Period of Delivery shall be from the Effective Date through the Termination Date.
+The term of the Transaction shall correspond to the date(s) set forth in the Product description on the Website.
+The transaction is for delivery at the interconnect between TransCanada PipeLines Limited ("TCPL") and PG&E Gas Transmission, Northwest ("PG&E") at Alberta Natural Gas Kingsgate, British Columbia ("Kingsgate"), on the Canadian side of the international border.
+The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency.The unit of measure against which the price is quoted shall be millions of British thermal units and the quantity shown shall be in millions of BTUs per day.
+STEPS FOR APPROVAL:  click the 	START button  select 	PROGRAMS select 	TEST APPLICATIONS select	ENRONONLINE CLUSTER(PROD) 	PROCEED WITH USUAL LOGIN/PASSWORD  click the	Enron Online Production Cluster "START" button   select	EnronOnLine (this is the EOL Datamanager) 	PROCEED WITH EOL LOGIN/PASSWORD click on the "+" for EnronOnLine click on the "+" for Product Types click on the "+" for "Awaiting Approval" (OR  "Partially Approved") select the product requiring review as stated in e-mail above Right "mouse" click on "properties" to view product set-up       TO APPROVE:  Right mouse click on "Approved"   Regards,
+
+@subject
+Product type approval - US Gas Phy Fwd Firm < or = 1Mo (INTERNAL  ONLY)

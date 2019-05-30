@@ -1,0 +1,19 @@
+FYI -  We have a new tool at our disposal to assist in the transfer of EOL information from Enpower to the Inc sheets.
+I've saved it as the "EOL Download" in P://Real Time/Increment/Windows 2000/EOL Download.
+You can use this workbook to download EOL deals throughout the day.
+It's fairly self-explanatory, but here are a few suggestions:  1.
+If necessary, limit your query to one region using the boxes in the upper-left-hand corner.
+2.
+Click "Download Deals," and enter your Enpower password when prompted.
+Be sure to check that you are downloading for the current day.
+3.
+Once deals have populated the screen (should take no more than 30-45 seconds), filter for the hour and/or delivery point you need.
+4.
+Copy all relevant rows and paste directly into the appropriate Inc sheet.
+This sheet has just enough flexibility to make it functional and keep it simple.
+All it does is download EOL deals from Enpower - nothing more.
+If you'd like to see this expanded upon, feel free to give me suggestions.
+Thanks.
+
+@subject
+New EOL Download - PLEASE USE

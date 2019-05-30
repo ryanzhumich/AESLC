@@ -1,0 +1,13 @@
+Hey Cooper,   I would like to get your opinion and approval on a couple of things:   1) We'd like to get a development IIS server running, and so would also like to move your development from NETCo's only production IIS server, to this new server.
+I believe Greg is setting this up shortly.
+2) Since the PowerFS1 server is now the production web server for all of NETCo, we'd like to move the IIS administration duties to the IT team, which would most likely mean to me.
+(I'm assuming you have these duties right now?
+If not, maybe you could point me in the right direction)   3) Also because of that, we need to move at least one web application on to PowerFS1.
+(Presenter is the one NETCo web app moving over that is in Production.
+Origman will be there shortly as well.)
+Since Pavel used MSXML3 with SP1 and would need it on the box, I was wondering what version are you running?
+(He tells me that multiple versions can be run at the same time, as they are separately named libraries and files).
+Thanks for your time.
+
+@subject
+NACAL-PowerFS1

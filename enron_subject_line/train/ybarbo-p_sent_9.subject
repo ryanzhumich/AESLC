@@ -1,0 +1,11 @@
+The attached spreadsheet allows you to easily calculate Eco's year-end LNG  inventory for a variety of cases that vary dispatch rate, # days of outage  for CT1, and number of cargoes diverted between now and year-end.
+Simply  enter your assumption for number of days of CT1 outage in cell A16 and the  number of cargoes you want to divert in cell A23.
+The year-end inventory is  automatically calculated.
+A negative number means that you require more LNG  than you are entitled to receive.
+Assuming that you want the LNG tank full at year-end:  1.
+Eco will be able to receive 100% of the remaining 6 cargoes if the CT1  outage is 60 days or less  2.
+175 days of CT1 outage are required to result in Eco being able to divert  1 cargo and still have a full tank at year-end  3. a 60-175 day outage for CT1 results in surplus LNG but whether or not it  is enough to market depends on how much the outage exceeds 60 days  The above figures assume a 76% dispatch and 95% availability on days that Eco  is not assumed to be in an outage.
+Paul
+
+@subject
+EcoElectrica LNG Requirements for Remainder of 2001

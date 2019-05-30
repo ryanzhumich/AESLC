@@ -1,0 +1,22 @@
+MARKET NOTICE December 5, 2001 CAISO Antivirus Program ISO Market Participants: As you know, yesterday (December 4, 2001) hundreds of thousands of e-mail users were hit  by the "Goner" worm virus.
+Unfortunately, e-mail messages from the ISO inadvertently spread this virus to many of your work stations.
+The ISO is very concerned that it not spread such viruses either within the CAISO or to the ISO's Market Participants.
+We sincerely regret any inconvenience this may have caused you.
+Several Market Participants have asked about the ISO's procedures for protecting against and responding to computer virus attacks.
+We would like to update you on our procedures that allow the ISO to detect a virus, isolate it  quickly, implement countermeasures until the antivirus upgrade is available and clean and restore our systems (servers and PCs).
+The California ISO sends and receives thousands of electronic messages every day because of who we are and what we do.
+During the normal course of business, the majority of these messages contain attachments exchanging and providing information.
+One method used by malicious programs (Viruses, Worms, and Trojan-Horses) to spread is by electronic mail.
+It is the attachment that carries the malicious program, not the email itself.
+So, when a user opens an infected executable file, the malicious program is activated and initiates what it is programmed to do.
+Examples of executable files that may be infected include, but not limited to, Word documents (.doc), Excel spreadsheets (.xls), or Visual Basic files (.vbs).
+CAISO's Antivirus Program uses a three-tiered approach where scanning (detect, clean or delete) is performed on email messages with attachments at the Gateway Servers, the Mail Servers, and Users' PCs and Laptops.
+All incoming and outgoing email with attachments are scanned for all known viruses.
+That is a key element of an antivirus program.
+New viruses or new strains of computer viruses, worms, and Trojan-Horses are discovered at an alarming rate.
+Antivirus manufacturers try to keep up with the new discoveries and try to be the first to market with the updates.
+There are over 50,000 known active viruses circulating the Internet today.
+On December 4, CAISO experienced a malicious program--Goner Worm--attack
+
+@subject
+CAISO Notice - CAISO Antivirus Program

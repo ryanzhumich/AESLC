@@ -1,0 +1,26 @@
+When Colstrip goes down we will be short at Montana system and long at PGE System.
+We need to buy a transmission wheel from BPA (Account#736780) from PGE System to the Montana System Border.
+If need be we can also do a Buy-Resale with WWP to move the energy from PGE Sys/Mid-C/LOLO to the Montana System Border.
+The method for documentation and cleaning up enpower are below.
+1.)
+In enpower, build an index forward buy from PGE under LTNW book for the total amount of mws cut due to colstrip going down.
+Use the DOW JONES MIDC index (remember to specify in the index if it is on or off-peak).
+Enter an offset of .10  .
+2.)
+Enter a transmission deal from BPA.
+(MIDC to MPC SYS)  The transmission fee is $2.52  3.)
+Go into deal scheduling and query  under the counterparty PGE.
+Select all  4.)
+Bring up all deals of the counterparties involved at Colstrip---- specifically, Ashgrove,Conocpil, Energywesr, Louisiana Pacific, and Smurfit Stone, etc.
+
+@subject
+Fastest Way to Handle Colstrip Cuts
+
+@ann0
+deals with counterparties involved at colstrip
+
+@ann1
+documentation for enpower
+
+@ann2
+colstrip action plan & documentation instructions
