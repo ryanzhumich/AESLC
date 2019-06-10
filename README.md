@@ -2,8 +2,6 @@
 
 This repository contains data for our ACL 2019 paper "This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation".
 
-Please contact me at r.zhang@yale.edu for any question.
-
 Please cite this paper if you use our data.
 ```
 @InProceedings{zhang2019slg,
@@ -14,3 +12,5 @@ Please cite this paper if you use our data.
   address =     "Florence, Italy"
 }
 ```
+
+Contact Rui Zhang at r.zhang@yale.edu for any question.
