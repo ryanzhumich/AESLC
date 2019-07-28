@@ -13,4 +13,4 @@ Please cite this paper if you use our data.
 }
 ```
 
-Contact Rui Zhang at r.zhang@yale.edu for any question.
+Contact Rui Zhang for any question.
